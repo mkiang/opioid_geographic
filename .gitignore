@@ -4,9 +4,9 @@
 data_restricted**
 data_private/**
 
-joinpoint_analyses/**
-!joinpoint_analyses/opioids_by_type.jpt
-!joinpoint_analyses/jp_output/opioids_by_type.modelselection.txt
+# joinpoint_analyses/**
+# !joinpoint_analyses/opioids_by_type.jpt
+# !joinpoint_analyses/jp_output/opioids_by_type.modelselection.txt
 
 ## MS Gitignore
 *.tmp

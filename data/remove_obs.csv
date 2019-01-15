@@ -1,0 +1,3673 @@
+year,st_fips,opioid_type,remove_obs,name,abbrev
+1999,01,opioid,0,Alabama,AL
+1999,02,opioid,0,Alaska,AK
+1999,04,opioid,0,Arizona,AZ
+1999,05,opioid,0,Arkansas,AR
+1999,06,opioid,0,California,CA
+1999,08,opioid,0,Colorado,CO
+1999,09,opioid,0,Connecticut,CT
+1999,10,opioid,0,Delaware,DE
+1999,11,opioid,0,District of Columbia,DC
+1999,12,opioid,0,Florida,FL
+1999,13,opioid,0,Georgia,GA
+1999,15,opioid,0,Hawaii,HI
+1999,16,opioid,0,Idaho,ID
+1999,17,opioid,0,Illinois,IL
+1999,18,opioid,0,Indiana,IN
+1999,19,opioid,0,Iowa,IA
+1999,20,opioid,0,Kansas,KS
+1999,21,opioid,0,Kentucky,KY
+1999,22,opioid,0,Louisiana,LA
+1999,23,opioid,0,Maine,ME
+1999,24,opioid,0,Maryland,MD
+1999,25,opioid,0,Massachusetts,MA
+1999,26,opioid,0,Michigan,MI
+1999,27,opioid,0,Minnesota,MN
+1999,28,opioid,0,Mississippi,MS
+1999,29,opioid,0,Missouri,MO
+1999,30,opioid,0,Montana,MT
+1999,31,opioid,1,Nebraska,NE
+1999,32,opioid,0,Nevada,NV
+1999,33,opioid,0,New Hampshire,NH
+1999,34,opioid,0,New Jersey,NJ
+1999,35,opioid,0,New Mexico,NM
+1999,36,opioid,0,New York,NY
+1999,37,opioid,0,North Carolina,NC
+1999,38,opioid,1,North Dakota,ND
+1999,39,opioid,0,Ohio,OH
+1999,40,opioid,0,Oklahoma,OK
+1999,41,opioid,0,Oregon,OR
+1999,42,opioid,0,Pennsylvania,PA
+1999,44,opioid,0,Rhode Island,RI
+1999,45,opioid,0,South Carolina,SC
+1999,46,opioid,1,South Dakota,SD
+1999,47,opioid,0,Tennessee,TN
+1999,48,opioid,0,Texas,TX
+1999,49,opioid,0,Utah,UT
+1999,50,opioid,0,Vermont,VT
+1999,51,opioid,0,Virginia,VA
+1999,53,opioid,0,Washington,WA
+1999,54,opioid,0,West Virginia,WV
+1999,55,opioid,0,Wisconsin,WI
+1999,56,opioid,1,Wyoming,WY
+2000,01,opioid,0,Alabama,AL
+2000,02,opioid,0,Alaska,AK
+2000,04,opioid,0,Arizona,AZ
+2000,05,opioid,0,Arkansas,AR
+2000,06,opioid,0,California,CA
+2000,08,opioid,0,Colorado,CO
+2000,09,opioid,0,Connecticut,CT
+2000,10,opioid,0,Delaware,DE
+2000,11,opioid,0,District of Columbia,DC
+2000,12,opioid,0,Florida,FL
+2000,13,opioid,0,Georgia,GA
+2000,15,opioid,0,Hawaii,HI
+2000,16,opioid,0,Idaho,ID
+2000,17,opioid,0,Illinois,IL
+2000,18,opioid,0,Indiana,IN
+2000,19,opioid,0,Iowa,IA
+2000,20,opioid,0,Kansas,KS
+2000,21,opioid,0,Kentucky,KY
+2000,22,opioid,0,Louisiana,LA
+2000,23,opioid,0,Maine,ME
+2000,24,opioid,0,Maryland,MD
+2000,25,opioid,0,Massachusetts,MA
+2000,26,opioid,0,Michigan,MI
+2000,27,opioid,0,Minnesota,MN
+2000,28,opioid,0,Mississippi,MS
+2000,29,opioid,0,Missouri,MO
+2000,30,opioid,0,Montana,MT
+2000,31,opioid,0,Nebraska,NE
+2000,32,opioid,0,Nevada,NV
+2000,33,opioid,0,New Hampshire,NH
+2000,34,opioid,0,New Jersey,NJ
+2000,35,opioid,0,New Mexico,NM
+2000,36,opioid,0,New York,NY
+2000,37,opioid,0,North Carolina,NC
+2000,38,opioid,1,North Dakota,ND
+2000,39,opioid,0,Ohio,OH
+2000,40,opioid,0,Oklahoma,OK
+2000,41,opioid,0,Oregon,OR
+2000,42,opioid,0,Pennsylvania,PA
+2000,44,opioid,0,Rhode Island,RI
+2000,45,opioid,0,South Carolina,SC
+2000,46,opioid,1,South Dakota,SD
+2000,47,opioid,0,Tennessee,TN
+2000,48,opioid,0,Texas,TX
+2000,49,opioid,0,Utah,UT
+2000,50,opioid,0,Vermont,VT
+2000,51,opioid,0,Virginia,VA
+2000,53,opioid,0,Washington,WA
+2000,54,opioid,0,West Virginia,WV
+2000,55,opioid,0,Wisconsin,WI
+2000,56,opioid,0,Wyoming,WY
+2001,01,opioid,0,Alabama,AL
+2001,02,opioid,0,Alaska,AK
+2001,04,opioid,0,Arizona,AZ
+2001,05,opioid,0,Arkansas,AR
+2001,06,opioid,0,California,CA
+2001,08,opioid,0,Colorado,CO
+2001,09,opioid,0,Connecticut,CT
+2001,10,opioid,0,Delaware,DE
+2001,11,opioid,0,District of Columbia,DC
+2001,12,opioid,0,Florida,FL
+2001,13,opioid,0,Georgia,GA
+2001,15,opioid,0,Hawaii,HI
+2001,16,opioid,0,Idaho,ID
+2001,17,opioid,0,Illinois,IL
+2001,18,opioid,0,Indiana,IN
+2001,19,opioid,0,Iowa,IA
+2001,20,opioid,0,Kansas,KS
+2001,21,opioid,0,Kentucky,KY
+2001,22,opioid,0,Louisiana,LA
+2001,23,opioid,0,Maine,ME
+2001,24,opioid,0,Maryland,MD
+2001,25,opioid,0,Massachusetts,MA
+2001,26,opioid,0,Michigan,MI
+2001,27,opioid,0,Minnesota,MN
+2001,28,opioid,0,Mississippi,MS
+2001,29,opioid,0,Missouri,MO
+2001,30,opioid,0,Montana,MT
+2001,31,opioid,0,Nebraska,NE
+2001,32,opioid,0,Nevada,NV
+2001,33,opioid,0,New Hampshire,NH
+2001,34,opioid,0,New Jersey,NJ
+2001,35,opioid,0,New Mexico,NM
+2001,36,opioid,0,New York,NY
+2001,37,opioid,0,North Carolina,NC
+2001,38,opioid,1,North Dakota,ND
+2001,39,opioid,0,Ohio,OH
+2001,40,opioid,0,Oklahoma,OK
+2001,41,opioid,0,Oregon,OR
+2001,42,opioid,0,Pennsylvania,PA
+2001,44,opioid,0,Rhode Island,RI
+2001,45,opioid,0,South Carolina,SC
+2001,46,opioid,1,South Dakota,SD
+2001,47,opioid,0,Tennessee,TN
+2001,48,opioid,0,Texas,TX
+2001,49,opioid,0,Utah,UT
+2001,50,opioid,0,Vermont,VT
+2001,51,opioid,0,Virginia,VA
+2001,53,opioid,0,Washington,WA
+2001,54,opioid,0,West Virginia,WV
+2001,55,opioid,0,Wisconsin,WI
+2001,56,opioid,1,Wyoming,WY
+2002,01,opioid,0,Alabama,AL
+2002,02,opioid,1,Alaska,AK
+2002,04,opioid,0,Arizona,AZ
+2002,05,opioid,0,Arkansas,AR
+2002,06,opioid,0,California,CA
+2002,08,opioid,0,Colorado,CO
+2002,09,opioid,0,Connecticut,CT
+2002,10,opioid,0,Delaware,DE
+2002,11,opioid,0,District of Columbia,DC
+2002,12,opioid,0,Florida,FL
+2002,13,opioid,0,Georgia,GA
+2002,15,opioid,0,Hawaii,HI
+2002,16,opioid,0,Idaho,ID
+2002,17,opioid,0,Illinois,IL
+2002,18,opioid,0,Indiana,IN
+2002,19,opioid,0,Iowa,IA
+2002,20,opioid,0,Kansas,KS
+2002,21,opioid,0,Kentucky,KY
+2002,22,opioid,0,Louisiana,LA
+2002,23,opioid,0,Maine,ME
+2002,24,opioid,0,Maryland,MD
+2002,25,opioid,0,Massachusetts,MA
+2002,26,opioid,0,Michigan,MI
+2002,27,opioid,0,Minnesota,MN
+2002,28,opioid,0,Mississippi,MS
+2002,29,opioid,0,Missouri,MO
+2002,30,opioid,0,Montana,MT
+2002,31,opioid,0,Nebraska,NE
+2002,32,opioid,0,Nevada,NV
+2002,33,opioid,0,New Hampshire,NH
+2002,34,opioid,0,New Jersey,NJ
+2002,35,opioid,0,New Mexico,NM
+2002,36,opioid,0,New York,NY
+2002,37,opioid,0,North Carolina,NC
+2002,38,opioid,0,North Dakota,ND
+2002,39,opioid,0,Ohio,OH
+2002,40,opioid,0,Oklahoma,OK
+2002,41,opioid,0,Oregon,OR
+2002,42,opioid,0,Pennsylvania,PA
+2002,44,opioid,0,Rhode Island,RI
+2002,45,opioid,0,South Carolina,SC
+2002,46,opioid,0,South Dakota,SD
+2002,47,opioid,0,Tennessee,TN
+2002,48,opioid,0,Texas,TX
+2002,49,opioid,0,Utah,UT
+2002,50,opioid,0,Vermont,VT
+2002,51,opioid,0,Virginia,VA
+2002,53,opioid,0,Washington,WA
+2002,54,opioid,0,West Virginia,WV
+2002,55,opioid,0,Wisconsin,WI
+2002,56,opioid,0,Wyoming,WY
+2003,01,opioid,0,Alabama,AL
+2003,02,opioid,0,Alaska,AK
+2003,04,opioid,0,Arizona,AZ
+2003,05,opioid,0,Arkansas,AR
+2003,06,opioid,0,California,CA
+2003,08,opioid,0,Colorado,CO
+2003,09,opioid,0,Connecticut,CT
+2003,10,opioid,0,Delaware,DE
+2003,11,opioid,0,District of Columbia,DC
+2003,12,opioid,0,Florida,FL
+2003,13,opioid,0,Georgia,GA
+2003,15,opioid,0,Hawaii,HI
+2003,16,opioid,0,Idaho,ID
+2003,17,opioid,0,Illinois,IL
+2003,18,opioid,0,Indiana,IN
+2003,19,opioid,0,Iowa,IA
+2003,20,opioid,0,Kansas,KS
+2003,21,opioid,0,Kentucky,KY
+2003,22,opioid,0,Louisiana,LA
+2003,23,opioid,0,Maine,ME
+2003,24,opioid,0,Maryland,MD
+2003,25,opioid,0,Massachusetts,MA
+2003,26,opioid,0,Michigan,MI
+2003,27,opioid,0,Minnesota,MN
+2003,28,opioid,0,Mississippi,MS
+2003,29,opioid,0,Missouri,MO
+2003,30,opioid,0,Montana,MT
+2003,31,opioid,0,Nebraska,NE
+2003,32,opioid,0,Nevada,NV
+2003,33,opioid,0,New Hampshire,NH
+2003,34,opioid,0,New Jersey,NJ
+2003,35,opioid,0,New Mexico,NM
+2003,36,opioid,0,New York,NY
+2003,37,opioid,0,North Carolina,NC
+2003,38,opioid,1,North Dakota,ND
+2003,39,opioid,0,Ohio,OH
+2003,40,opioid,0,Oklahoma,OK
+2003,41,opioid,0,Oregon,OR
+2003,42,opioid,0,Pennsylvania,PA
+2003,44,opioid,0,Rhode Island,RI
+2003,45,opioid,0,South Carolina,SC
+2003,46,opioid,1,South Dakota,SD
+2003,47,opioid,0,Tennessee,TN
+2003,48,opioid,0,Texas,TX
+2003,49,opioid,0,Utah,UT
+2003,50,opioid,0,Vermont,VT
+2003,51,opioid,0,Virginia,VA
+2003,53,opioid,0,Washington,WA
+2003,54,opioid,0,West Virginia,WV
+2003,55,opioid,0,Wisconsin,WI
+2003,56,opioid,1,Wyoming,WY
+2004,01,opioid,0,Alabama,AL
+2004,02,opioid,0,Alaska,AK
+2004,04,opioid,0,Arizona,AZ
+2004,05,opioid,0,Arkansas,AR
+2004,06,opioid,0,California,CA
+2004,08,opioid,0,Colorado,CO
+2004,09,opioid,0,Connecticut,CT
+2004,10,opioid,0,Delaware,DE
+2004,11,opioid,0,District of Columbia,DC
+2004,12,opioid,0,Florida,FL
+2004,13,opioid,0,Georgia,GA
+2004,15,opioid,0,Hawaii,HI
+2004,16,opioid,0,Idaho,ID
+2004,17,opioid,0,Illinois,IL
+2004,18,opioid,0,Indiana,IN
+2004,19,opioid,0,Iowa,IA
+2004,20,opioid,0,Kansas,KS
+2004,21,opioid,0,Kentucky,KY
+2004,22,opioid,0,Louisiana,LA
+2004,23,opioid,0,Maine,ME
+2004,24,opioid,0,Maryland,MD
+2004,25,opioid,0,Massachusetts,MA
+2004,26,opioid,0,Michigan,MI
+2004,27,opioid,0,Minnesota,MN
+2004,28,opioid,0,Mississippi,MS
+2004,29,opioid,0,Missouri,MO
+2004,30,opioid,0,Montana,MT
+2004,31,opioid,0,Nebraska,NE
+2004,32,opioid,0,Nevada,NV
+2004,33,opioid,0,New Hampshire,NH
+2004,34,opioid,0,New Jersey,NJ
+2004,35,opioid,0,New Mexico,NM
+2004,36,opioid,0,New York,NY
+2004,37,opioid,0,North Carolina,NC
+2004,38,opioid,0,North Dakota,ND
+2004,39,opioid,0,Ohio,OH
+2004,40,opioid,0,Oklahoma,OK
+2004,41,opioid,0,Oregon,OR
+2004,42,opioid,0,Pennsylvania,PA
+2004,44,opioid,0,Rhode Island,RI
+2004,45,opioid,0,South Carolina,SC
+2004,46,opioid,0,South Dakota,SD
+2004,47,opioid,0,Tennessee,TN
+2004,48,opioid,0,Texas,TX
+2004,49,opioid,0,Utah,UT
+2004,50,opioid,0,Vermont,VT
+2004,51,opioid,0,Virginia,VA
+2004,53,opioid,0,Washington,WA
+2004,54,opioid,0,West Virginia,WV
+2004,55,opioid,0,Wisconsin,WI
+2004,56,opioid,0,Wyoming,WY
+2005,01,opioid,0,Alabama,AL
+2005,02,opioid,0,Alaska,AK
+2005,04,opioid,0,Arizona,AZ
+2005,05,opioid,0,Arkansas,AR
+2005,06,opioid,0,California,CA
+2005,08,opioid,0,Colorado,CO
+2005,09,opioid,0,Connecticut,CT
+2005,10,opioid,0,Delaware,DE
+2005,11,opioid,0,District of Columbia,DC
+2005,12,opioid,0,Florida,FL
+2005,13,opioid,0,Georgia,GA
+2005,15,opioid,0,Hawaii,HI
+2005,16,opioid,0,Idaho,ID
+2005,17,opioid,0,Illinois,IL
+2005,18,opioid,0,Indiana,IN
+2005,19,opioid,0,Iowa,IA
+2005,20,opioid,0,Kansas,KS
+2005,21,opioid,0,Kentucky,KY
+2005,22,opioid,0,Louisiana,LA
+2005,23,opioid,0,Maine,ME
+2005,24,opioid,0,Maryland,MD
+2005,25,opioid,0,Massachusetts,MA
+2005,26,opioid,0,Michigan,MI
+2005,27,opioid,0,Minnesota,MN
+2005,28,opioid,0,Mississippi,MS
+2005,29,opioid,0,Missouri,MO
+2005,30,opioid,0,Montana,MT
+2005,31,opioid,0,Nebraska,NE
+2005,32,opioid,0,Nevada,NV
+2005,33,opioid,0,New Hampshire,NH
+2005,34,opioid,0,New Jersey,NJ
+2005,35,opioid,0,New Mexico,NM
+2005,36,opioid,0,New York,NY
+2005,37,opioid,0,North Carolina,NC
+2005,38,opioid,1,North Dakota,ND
+2005,39,opioid,0,Ohio,OH
+2005,40,opioid,0,Oklahoma,OK
+2005,41,opioid,0,Oregon,OR
+2005,42,opioid,0,Pennsylvania,PA
+2005,44,opioid,0,Rhode Island,RI
+2005,45,opioid,0,South Carolina,SC
+2005,46,opioid,0,South Dakota,SD
+2005,47,opioid,0,Tennessee,TN
+2005,48,opioid,0,Texas,TX
+2005,49,opioid,0,Utah,UT
+2005,50,opioid,0,Vermont,VT
+2005,51,opioid,0,Virginia,VA
+2005,53,opioid,0,Washington,WA
+2005,54,opioid,0,West Virginia,WV
+2005,55,opioid,0,Wisconsin,WI
+2005,56,opioid,0,Wyoming,WY
+2006,01,opioid,0,Alabama,AL
+2006,02,opioid,0,Alaska,AK
+2006,04,opioid,0,Arizona,AZ
+2006,05,opioid,0,Arkansas,AR
+2006,06,opioid,0,California,CA
+2006,08,opioid,0,Colorado,CO
+2006,09,opioid,0,Connecticut,CT
+2006,10,opioid,0,Delaware,DE
+2006,11,opioid,0,District of Columbia,DC
+2006,12,opioid,0,Florida,FL
+2006,13,opioid,0,Georgia,GA
+2006,15,opioid,0,Hawaii,HI
+2006,16,opioid,0,Idaho,ID
+2006,17,opioid,0,Illinois,IL
+2006,18,opioid,0,Indiana,IN
+2006,19,opioid,0,Iowa,IA
+2006,20,opioid,0,Kansas,KS
+2006,21,opioid,0,Kentucky,KY
+2006,22,opioid,0,Louisiana,LA
+2006,23,opioid,0,Maine,ME
+2006,24,opioid,0,Maryland,MD
+2006,25,opioid,0,Massachusetts,MA
+2006,26,opioid,0,Michigan,MI
+2006,27,opioid,0,Minnesota,MN
+2006,28,opioid,0,Mississippi,MS
+2006,29,opioid,0,Missouri,MO
+2006,30,opioid,0,Montana,MT
+2006,31,opioid,0,Nebraska,NE
+2006,32,opioid,0,Nevada,NV
+2006,33,opioid,0,New Hampshire,NH
+2006,34,opioid,0,New Jersey,NJ
+2006,35,opioid,0,New Mexico,NM
+2006,36,opioid,0,New York,NY
+2006,37,opioid,0,North Carolina,NC
+2006,38,opioid,1,North Dakota,ND
+2006,39,opioid,0,Ohio,OH
+2006,40,opioid,0,Oklahoma,OK
+2006,41,opioid,0,Oregon,OR
+2006,42,opioid,0,Pennsylvania,PA
+2006,44,opioid,0,Rhode Island,RI
+2006,45,opioid,0,South Carolina,SC
+2006,46,opioid,0,South Dakota,SD
+2006,47,opioid,0,Tennessee,TN
+2006,48,opioid,0,Texas,TX
+2006,49,opioid,0,Utah,UT
+2006,50,opioid,0,Vermont,VT
+2006,51,opioid,0,Virginia,VA
+2006,53,opioid,0,Washington,WA
+2006,54,opioid,0,West Virginia,WV
+2006,55,opioid,0,Wisconsin,WI
+2006,56,opioid,0,Wyoming,WY
+2007,01,opioid,0,Alabama,AL
+2007,02,opioid,0,Alaska,AK
+2007,04,opioid,0,Arizona,AZ
+2007,05,opioid,0,Arkansas,AR
+2007,06,opioid,0,California,CA
+2007,08,opioid,0,Colorado,CO
+2007,09,opioid,0,Connecticut,CT
+2007,10,opioid,0,Delaware,DE
+2007,11,opioid,0,District of Columbia,DC
+2007,12,opioid,0,Florida,FL
+2007,13,opioid,0,Georgia,GA
+2007,15,opioid,0,Hawaii,HI
+2007,16,opioid,0,Idaho,ID
+2007,17,opioid,0,Illinois,IL
+2007,18,opioid,0,Indiana,IN
+2007,19,opioid,0,Iowa,IA
+2007,20,opioid,0,Kansas,KS
+2007,21,opioid,0,Kentucky,KY
+2007,22,opioid,0,Louisiana,LA
+2007,23,opioid,0,Maine,ME
+2007,24,opioid,0,Maryland,MD
+2007,25,opioid,0,Massachusetts,MA
+2007,26,opioid,0,Michigan,MI
+2007,27,opioid,0,Minnesota,MN
+2007,28,opioid,0,Mississippi,MS
+2007,29,opioid,0,Missouri,MO
+2007,30,opioid,0,Montana,MT
+2007,31,opioid,0,Nebraska,NE
+2007,32,opioid,0,Nevada,NV
+2007,33,opioid,0,New Hampshire,NH
+2007,34,opioid,0,New Jersey,NJ
+2007,35,opioid,0,New Mexico,NM
+2007,36,opioid,0,New York,NY
+2007,37,opioid,0,North Carolina,NC
+2007,38,opioid,0,North Dakota,ND
+2007,39,opioid,0,Ohio,OH
+2007,40,opioid,0,Oklahoma,OK
+2007,41,opioid,0,Oregon,OR
+2007,42,opioid,0,Pennsylvania,PA
+2007,44,opioid,0,Rhode Island,RI
+2007,45,opioid,0,South Carolina,SC
+2007,46,opioid,0,South Dakota,SD
+2007,47,opioid,0,Tennessee,TN
+2007,48,opioid,0,Texas,TX
+2007,49,opioid,0,Utah,UT
+2007,50,opioid,0,Vermont,VT
+2007,51,opioid,0,Virginia,VA
+2007,53,opioid,0,Washington,WA
+2007,54,opioid,0,West Virginia,WV
+2007,55,opioid,0,Wisconsin,WI
+2007,56,opioid,0,Wyoming,WY
+2008,01,opioid,0,Alabama,AL
+2008,02,opioid,0,Alaska,AK
+2008,04,opioid,0,Arizona,AZ
+2008,05,opioid,0,Arkansas,AR
+2008,06,opioid,0,California,CA
+2008,08,opioid,0,Colorado,CO
+2008,09,opioid,0,Connecticut,CT
+2008,10,opioid,0,Delaware,DE
+2008,11,opioid,0,District of Columbia,DC
+2008,12,opioid,0,Florida,FL
+2008,13,opioid,0,Georgia,GA
+2008,15,opioid,0,Hawaii,HI
+2008,16,opioid,0,Idaho,ID
+2008,17,opioid,0,Illinois,IL
+2008,18,opioid,0,Indiana,IN
+2008,19,opioid,0,Iowa,IA
+2008,20,opioid,0,Kansas,KS
+2008,21,opioid,0,Kentucky,KY
+2008,22,opioid,0,Louisiana,LA
+2008,23,opioid,0,Maine,ME
+2008,24,opioid,0,Maryland,MD
+2008,25,opioid,0,Massachusetts,MA
+2008,26,opioid,0,Michigan,MI
+2008,27,opioid,0,Minnesota,MN
+2008,28,opioid,0,Mississippi,MS
+2008,29,opioid,0,Missouri,MO
+2008,30,opioid,0,Montana,MT
+2008,31,opioid,0,Nebraska,NE
+2008,32,opioid,0,Nevada,NV
+2008,33,opioid,0,New Hampshire,NH
+2008,34,opioid,0,New Jersey,NJ
+2008,35,opioid,0,New Mexico,NM
+2008,36,opioid,0,New York,NY
+2008,37,opioid,0,North Carolina,NC
+2008,38,opioid,0,North Dakota,ND
+2008,39,opioid,0,Ohio,OH
+2008,40,opioid,0,Oklahoma,OK
+2008,41,opioid,0,Oregon,OR
+2008,42,opioid,0,Pennsylvania,PA
+2008,44,opioid,0,Rhode Island,RI
+2008,45,opioid,0,South Carolina,SC
+2008,46,opioid,0,South Dakota,SD
+2008,47,opioid,0,Tennessee,TN
+2008,48,opioid,0,Texas,TX
+2008,49,opioid,0,Utah,UT
+2008,50,opioid,0,Vermont,VT
+2008,51,opioid,0,Virginia,VA
+2008,53,opioid,0,Washington,WA
+2008,54,opioid,0,West Virginia,WV
+2008,55,opioid,0,Wisconsin,WI
+2008,56,opioid,0,Wyoming,WY
+2009,01,opioid,0,Alabama,AL
+2009,02,opioid,0,Alaska,AK
+2009,04,opioid,0,Arizona,AZ
+2009,05,opioid,0,Arkansas,AR
+2009,06,opioid,0,California,CA
+2009,08,opioid,0,Colorado,CO
+2009,09,opioid,0,Connecticut,CT
+2009,10,opioid,0,Delaware,DE
+2009,11,opioid,0,District of Columbia,DC
+2009,12,opioid,0,Florida,FL
+2009,13,opioid,0,Georgia,GA
+2009,15,opioid,0,Hawaii,HI
+2009,16,opioid,0,Idaho,ID
+2009,17,opioid,0,Illinois,IL
+2009,18,opioid,0,Indiana,IN
+2009,19,opioid,0,Iowa,IA
+2009,20,opioid,0,Kansas,KS
+2009,21,opioid,0,Kentucky,KY
+2009,22,opioid,0,Louisiana,LA
+2009,23,opioid,0,Maine,ME
+2009,24,opioid,0,Maryland,MD
+2009,25,opioid,0,Massachusetts,MA
+2009,26,opioid,0,Michigan,MI
+2009,27,opioid,0,Minnesota,MN
+2009,28,opioid,0,Mississippi,MS
+2009,29,opioid,0,Missouri,MO
+2009,30,opioid,0,Montana,MT
+2009,31,opioid,0,Nebraska,NE
+2009,32,opioid,0,Nevada,NV
+2009,33,opioid,0,New Hampshire,NH
+2009,34,opioid,0,New Jersey,NJ
+2009,35,opioid,0,New Mexico,NM
+2009,36,opioid,0,New York,NY
+2009,37,opioid,0,North Carolina,NC
+2009,38,opioid,0,North Dakota,ND
+2009,39,opioid,0,Ohio,OH
+2009,40,opioid,0,Oklahoma,OK
+2009,41,opioid,0,Oregon,OR
+2009,42,opioid,0,Pennsylvania,PA
+2009,44,opioid,0,Rhode Island,RI
+2009,45,opioid,0,South Carolina,SC
+2009,46,opioid,0,South Dakota,SD
+2009,47,opioid,0,Tennessee,TN
+2009,48,opioid,0,Texas,TX
+2009,49,opioid,0,Utah,UT
+2009,50,opioid,0,Vermont,VT
+2009,51,opioid,0,Virginia,VA
+2009,53,opioid,0,Washington,WA
+2009,54,opioid,0,West Virginia,WV
+2009,55,opioid,0,Wisconsin,WI
+2009,56,opioid,0,Wyoming,WY
+2010,01,opioid,0,Alabama,AL
+2010,02,opioid,0,Alaska,AK
+2010,04,opioid,0,Arizona,AZ
+2010,05,opioid,0,Arkansas,AR
+2010,06,opioid,0,California,CA
+2010,08,opioid,0,Colorado,CO
+2010,09,opioid,0,Connecticut,CT
+2010,10,opioid,0,Delaware,DE
+2010,11,opioid,0,District of Columbia,DC
+2010,12,opioid,0,Florida,FL
+2010,13,opioid,0,Georgia,GA
+2010,15,opioid,0,Hawaii,HI
+2010,16,opioid,0,Idaho,ID
+2010,17,opioid,0,Illinois,IL
+2010,18,opioid,0,Indiana,IN
+2010,19,opioid,0,Iowa,IA
+2010,20,opioid,0,Kansas,KS
+2010,21,opioid,0,Kentucky,KY
+2010,22,opioid,0,Louisiana,LA
+2010,23,opioid,0,Maine,ME
+2010,24,opioid,0,Maryland,MD
+2010,25,opioid,0,Massachusetts,MA
+2010,26,opioid,0,Michigan,MI
+2010,27,opioid,0,Minnesota,MN
+2010,28,opioid,0,Mississippi,MS
+2010,29,opioid,0,Missouri,MO
+2010,30,opioid,0,Montana,MT
+2010,31,opioid,0,Nebraska,NE
+2010,32,opioid,0,Nevada,NV
+2010,33,opioid,0,New Hampshire,NH
+2010,34,opioid,0,New Jersey,NJ
+2010,35,opioid,0,New Mexico,NM
+2010,36,opioid,0,New York,NY
+2010,37,opioid,0,North Carolina,NC
+2010,38,opioid,0,North Dakota,ND
+2010,39,opioid,0,Ohio,OH
+2010,40,opioid,0,Oklahoma,OK
+2010,41,opioid,0,Oregon,OR
+2010,42,opioid,0,Pennsylvania,PA
+2010,44,opioid,0,Rhode Island,RI
+2010,45,opioid,0,South Carolina,SC
+2010,46,opioid,0,South Dakota,SD
+2010,47,opioid,0,Tennessee,TN
+2010,48,opioid,0,Texas,TX
+2010,49,opioid,0,Utah,UT
+2010,50,opioid,0,Vermont,VT
+2010,51,opioid,0,Virginia,VA
+2010,53,opioid,0,Washington,WA
+2010,54,opioid,0,West Virginia,WV
+2010,55,opioid,0,Wisconsin,WI
+2010,56,opioid,0,Wyoming,WY
+2011,01,opioid,0,Alabama,AL
+2011,02,opioid,0,Alaska,AK
+2011,04,opioid,0,Arizona,AZ
+2011,05,opioid,0,Arkansas,AR
+2011,06,opioid,0,California,CA
+2011,08,opioid,0,Colorado,CO
+2011,09,opioid,0,Connecticut,CT
+2011,10,opioid,0,Delaware,DE
+2011,11,opioid,0,District of Columbia,DC
+2011,12,opioid,0,Florida,FL
+2011,13,opioid,0,Georgia,GA
+2011,15,opioid,0,Hawaii,HI
+2011,16,opioid,0,Idaho,ID
+2011,17,opioid,0,Illinois,IL
+2011,18,opioid,0,Indiana,IN
+2011,19,opioid,0,Iowa,IA
+2011,20,opioid,0,Kansas,KS
+2011,21,opioid,0,Kentucky,KY
+2011,22,opioid,0,Louisiana,LA
+2011,23,opioid,0,Maine,ME
+2011,24,opioid,0,Maryland,MD
+2011,25,opioid,0,Massachusetts,MA
+2011,26,opioid,0,Michigan,MI
+2011,27,opioid,0,Minnesota,MN
+2011,28,opioid,0,Mississippi,MS
+2011,29,opioid,0,Missouri,MO
+2011,30,opioid,0,Montana,MT
+2011,31,opioid,0,Nebraska,NE
+2011,32,opioid,0,Nevada,NV
+2011,33,opioid,0,New Hampshire,NH
+2011,34,opioid,0,New Jersey,NJ
+2011,35,opioid,0,New Mexico,NM
+2011,36,opioid,0,New York,NY
+2011,37,opioid,0,North Carolina,NC
+2011,38,opioid,0,North Dakota,ND
+2011,39,opioid,0,Ohio,OH
+2011,40,opioid,0,Oklahoma,OK
+2011,41,opioid,0,Oregon,OR
+2011,42,opioid,0,Pennsylvania,PA
+2011,44,opioid,0,Rhode Island,RI
+2011,45,opioid,0,South Carolina,SC
+2011,46,opioid,0,South Dakota,SD
+2011,47,opioid,0,Tennessee,TN
+2011,48,opioid,0,Texas,TX
+2011,49,opioid,0,Utah,UT
+2011,50,opioid,0,Vermont,VT
+2011,51,opioid,0,Virginia,VA
+2011,53,opioid,0,Washington,WA
+2011,54,opioid,0,West Virginia,WV
+2011,55,opioid,0,Wisconsin,WI
+2011,56,opioid,0,Wyoming,WY
+2012,01,opioid,0,Alabama,AL
+2012,02,opioid,0,Alaska,AK
+2012,04,opioid,0,Arizona,AZ
+2012,05,opioid,0,Arkansas,AR
+2012,06,opioid,0,California,CA
+2012,08,opioid,0,Colorado,CO
+2012,09,opioid,0,Connecticut,CT
+2012,10,opioid,0,Delaware,DE
+2012,11,opioid,0,District of Columbia,DC
+2012,12,opioid,0,Florida,FL
+2012,13,opioid,0,Georgia,GA
+2012,15,opioid,0,Hawaii,HI
+2012,16,opioid,0,Idaho,ID
+2012,17,opioid,0,Illinois,IL
+2012,18,opioid,0,Indiana,IN
+2012,19,opioid,0,Iowa,IA
+2012,20,opioid,0,Kansas,KS
+2012,21,opioid,0,Kentucky,KY
+2012,22,opioid,0,Louisiana,LA
+2012,23,opioid,0,Maine,ME
+2012,24,opioid,0,Maryland,MD
+2012,25,opioid,0,Massachusetts,MA
+2012,26,opioid,0,Michigan,MI
+2012,27,opioid,0,Minnesota,MN
+2012,28,opioid,0,Mississippi,MS
+2012,29,opioid,0,Missouri,MO
+2012,30,opioid,0,Montana,MT
+2012,31,opioid,0,Nebraska,NE
+2012,32,opioid,0,Nevada,NV
+2012,33,opioid,0,New Hampshire,NH
+2012,34,opioid,0,New Jersey,NJ
+2012,35,opioid,0,New Mexico,NM
+2012,36,opioid,0,New York,NY
+2012,37,opioid,0,North Carolina,NC
+2012,38,opioid,1,North Dakota,ND
+2012,39,opioid,0,Ohio,OH
+2012,40,opioid,0,Oklahoma,OK
+2012,41,opioid,0,Oregon,OR
+2012,42,opioid,0,Pennsylvania,PA
+2012,44,opioid,0,Rhode Island,RI
+2012,45,opioid,0,South Carolina,SC
+2012,46,opioid,0,South Dakota,SD
+2012,47,opioid,0,Tennessee,TN
+2012,48,opioid,0,Texas,TX
+2012,49,opioid,0,Utah,UT
+2012,50,opioid,0,Vermont,VT
+2012,51,opioid,0,Virginia,VA
+2012,53,opioid,0,Washington,WA
+2012,54,opioid,0,West Virginia,WV
+2012,55,opioid,0,Wisconsin,WI
+2012,56,opioid,0,Wyoming,WY
+2013,01,opioid,0,Alabama,AL
+2013,02,opioid,0,Alaska,AK
+2013,04,opioid,0,Arizona,AZ
+2013,05,opioid,0,Arkansas,AR
+2013,06,opioid,0,California,CA
+2013,08,opioid,0,Colorado,CO
+2013,09,opioid,0,Connecticut,CT
+2013,10,opioid,0,Delaware,DE
+2013,11,opioid,0,District of Columbia,DC
+2013,12,opioid,0,Florida,FL
+2013,13,opioid,0,Georgia,GA
+2013,15,opioid,0,Hawaii,HI
+2013,16,opioid,0,Idaho,ID
+2013,17,opioid,0,Illinois,IL
+2013,18,opioid,0,Indiana,IN
+2013,19,opioid,0,Iowa,IA
+2013,20,opioid,0,Kansas,KS
+2013,21,opioid,0,Kentucky,KY
+2013,22,opioid,0,Louisiana,LA
+2013,23,opioid,0,Maine,ME
+2013,24,opioid,0,Maryland,MD
+2013,25,opioid,0,Massachusetts,MA
+2013,26,opioid,0,Michigan,MI
+2013,27,opioid,0,Minnesota,MN
+2013,28,opioid,0,Mississippi,MS
+2013,29,opioid,0,Missouri,MO
+2013,30,opioid,0,Montana,MT
+2013,31,opioid,0,Nebraska,NE
+2013,32,opioid,0,Nevada,NV
+2013,33,opioid,0,New Hampshire,NH
+2013,34,opioid,0,New Jersey,NJ
+2013,35,opioid,0,New Mexico,NM
+2013,36,opioid,0,New York,NY
+2013,37,opioid,0,North Carolina,NC
+2013,38,opioid,0,North Dakota,ND
+2013,39,opioid,0,Ohio,OH
+2013,40,opioid,0,Oklahoma,OK
+2013,41,opioid,0,Oregon,OR
+2013,42,opioid,0,Pennsylvania,PA
+2013,44,opioid,0,Rhode Island,RI
+2013,45,opioid,0,South Carolina,SC
+2013,46,opioid,0,South Dakota,SD
+2013,47,opioid,0,Tennessee,TN
+2013,48,opioid,0,Texas,TX
+2013,49,opioid,0,Utah,UT
+2013,50,opioid,0,Vermont,VT
+2013,51,opioid,0,Virginia,VA
+2013,53,opioid,0,Washington,WA
+2013,54,opioid,0,West Virginia,WV
+2013,55,opioid,0,Wisconsin,WI
+2013,56,opioid,0,Wyoming,WY
+2014,01,opioid,0,Alabama,AL
+2014,02,opioid,0,Alaska,AK
+2014,04,opioid,0,Arizona,AZ
+2014,05,opioid,0,Arkansas,AR
+2014,06,opioid,0,California,CA
+2014,08,opioid,0,Colorado,CO
+2014,09,opioid,0,Connecticut,CT
+2014,10,opioid,0,Delaware,DE
+2014,11,opioid,0,District of Columbia,DC
+2014,12,opioid,0,Florida,FL
+2014,13,opioid,0,Georgia,GA
+2014,15,opioid,0,Hawaii,HI
+2014,16,opioid,0,Idaho,ID
+2014,17,opioid,0,Illinois,IL
+2014,18,opioid,0,Indiana,IN
+2014,19,opioid,0,Iowa,IA
+2014,20,opioid,0,Kansas,KS
+2014,21,opioid,0,Kentucky,KY
+2014,22,opioid,0,Louisiana,LA
+2014,23,opioid,0,Maine,ME
+2014,24,opioid,0,Maryland,MD
+2014,25,opioid,0,Massachusetts,MA
+2014,26,opioid,0,Michigan,MI
+2014,27,opioid,0,Minnesota,MN
+2014,28,opioid,0,Mississippi,MS
+2014,29,opioid,0,Missouri,MO
+2014,30,opioid,0,Montana,MT
+2014,31,opioid,0,Nebraska,NE
+2014,32,opioid,0,Nevada,NV
+2014,33,opioid,0,New Hampshire,NH
+2014,34,opioid,0,New Jersey,NJ
+2014,35,opioid,0,New Mexico,NM
+2014,36,opioid,0,New York,NY
+2014,37,opioid,0,North Carolina,NC
+2014,38,opioid,0,North Dakota,ND
+2014,39,opioid,0,Ohio,OH
+2014,40,opioid,0,Oklahoma,OK
+2014,41,opioid,0,Oregon,OR
+2014,42,opioid,0,Pennsylvania,PA
+2014,44,opioid,0,Rhode Island,RI
+2014,45,opioid,0,South Carolina,SC
+2014,46,opioid,0,South Dakota,SD
+2014,47,opioid,0,Tennessee,TN
+2014,48,opioid,0,Texas,TX
+2014,49,opioid,0,Utah,UT
+2014,50,opioid,0,Vermont,VT
+2014,51,opioid,0,Virginia,VA
+2014,53,opioid,0,Washington,WA
+2014,54,opioid,0,West Virginia,WV
+2014,55,opioid,0,Wisconsin,WI
+2014,56,opioid,0,Wyoming,WY
+2015,01,opioid,0,Alabama,AL
+2015,02,opioid,0,Alaska,AK
+2015,04,opioid,0,Arizona,AZ
+2015,05,opioid,0,Arkansas,AR
+2015,06,opioid,0,California,CA
+2015,08,opioid,0,Colorado,CO
+2015,09,opioid,0,Connecticut,CT
+2015,10,opioid,0,Delaware,DE
+2015,11,opioid,0,District of Columbia,DC
+2015,12,opioid,0,Florida,FL
+2015,13,opioid,0,Georgia,GA
+2015,15,opioid,0,Hawaii,HI
+2015,16,opioid,0,Idaho,ID
+2015,17,opioid,0,Illinois,IL
+2015,18,opioid,0,Indiana,IN
+2015,19,opioid,0,Iowa,IA
+2015,20,opioid,0,Kansas,KS
+2015,21,opioid,0,Kentucky,KY
+2015,22,opioid,0,Louisiana,LA
+2015,23,opioid,0,Maine,ME
+2015,24,opioid,0,Maryland,MD
+2015,25,opioid,0,Massachusetts,MA
+2015,26,opioid,0,Michigan,MI
+2015,27,opioid,0,Minnesota,MN
+2015,28,opioid,0,Mississippi,MS
+2015,29,opioid,0,Missouri,MO
+2015,30,opioid,0,Montana,MT
+2015,31,opioid,0,Nebraska,NE
+2015,32,opioid,0,Nevada,NV
+2015,33,opioid,0,New Hampshire,NH
+2015,34,opioid,0,New Jersey,NJ
+2015,35,opioid,0,New Mexico,NM
+2015,36,opioid,0,New York,NY
+2015,37,opioid,0,North Carolina,NC
+2015,38,opioid,0,North Dakota,ND
+2015,39,opioid,0,Ohio,OH
+2015,40,opioid,0,Oklahoma,OK
+2015,41,opioid,0,Oregon,OR
+2015,42,opioid,0,Pennsylvania,PA
+2015,44,opioid,0,Rhode Island,RI
+2015,45,opioid,0,South Carolina,SC
+2015,46,opioid,0,South Dakota,SD
+2015,47,opioid,0,Tennessee,TN
+2015,48,opioid,0,Texas,TX
+2015,49,opioid,0,Utah,UT
+2015,50,opioid,0,Vermont,VT
+2015,51,opioid,0,Virginia,VA
+2015,53,opioid,0,Washington,WA
+2015,54,opioid,0,West Virginia,WV
+2015,55,opioid,0,Wisconsin,WI
+2015,56,opioid,0,Wyoming,WY
+2016,01,opioid,0,Alabama,AL
+2016,02,opioid,0,Alaska,AK
+2016,04,opioid,0,Arizona,AZ
+2016,05,opioid,0,Arkansas,AR
+2016,06,opioid,0,California,CA
+2016,08,opioid,0,Colorado,CO
+2016,09,opioid,0,Connecticut,CT
+2016,10,opioid,0,Delaware,DE
+2016,11,opioid,0,District of Columbia,DC
+2016,12,opioid,0,Florida,FL
+2016,13,opioid,0,Georgia,GA
+2016,15,opioid,0,Hawaii,HI
+2016,16,opioid,0,Idaho,ID
+2016,17,opioid,0,Illinois,IL
+2016,18,opioid,0,Indiana,IN
+2016,19,opioid,0,Iowa,IA
+2016,20,opioid,0,Kansas,KS
+2016,21,opioid,0,Kentucky,KY
+2016,22,opioid,0,Louisiana,LA
+2016,23,opioid,0,Maine,ME
+2016,24,opioid,0,Maryland,MD
+2016,25,opioid,0,Massachusetts,MA
+2016,26,opioid,0,Michigan,MI
+2016,27,opioid,0,Minnesota,MN
+2016,28,opioid,0,Mississippi,MS
+2016,29,opioid,0,Missouri,MO
+2016,30,opioid,0,Montana,MT
+2016,31,opioid,0,Nebraska,NE
+2016,32,opioid,0,Nevada,NV
+2016,33,opioid,0,New Hampshire,NH
+2016,34,opioid,0,New Jersey,NJ
+2016,35,opioid,0,New Mexico,NM
+2016,36,opioid,0,New York,NY
+2016,37,opioid,0,North Carolina,NC
+2016,38,opioid,0,North Dakota,ND
+2016,39,opioid,0,Ohio,OH
+2016,40,opioid,0,Oklahoma,OK
+2016,41,opioid,0,Oregon,OR
+2016,42,opioid,0,Pennsylvania,PA
+2016,44,opioid,0,Rhode Island,RI
+2016,45,opioid,0,South Carolina,SC
+2016,46,opioid,0,South Dakota,SD
+2016,47,opioid,0,Tennessee,TN
+2016,48,opioid,0,Texas,TX
+2016,49,opioid,0,Utah,UT
+2016,50,opioid,0,Vermont,VT
+2016,51,opioid,0,Virginia,VA
+2016,53,opioid,0,Washington,WA
+2016,54,opioid,0,West Virginia,WV
+2016,55,opioid,0,Wisconsin,WI
+2016,56,opioid,0,Wyoming,WY
+1999,01,heroin,1,Alabama,AL
+1999,02,heroin,1,Alaska,AK
+1999,04,heroin,0,Arizona,AZ
+1999,05,heroin,1,Arkansas,AR
+1999,06,heroin,0,California,CA
+1999,08,heroin,0,Colorado,CO
+1999,09,heroin,0,Connecticut,CT
+1999,10,heroin,0,Delaware,DE
+1999,11,heroin,0,District of Columbia,DC
+1999,12,heroin,0,Florida,FL
+1999,13,heroin,1,Georgia,GA
+1999,15,heroin,1,Hawaii,HI
+1999,16,heroin,1,Idaho,ID
+1999,17,heroin,0,Illinois,IL
+1999,18,heroin,1,Indiana,IN
+1999,19,heroin,1,Iowa,IA
+1999,20,heroin,1,Kansas,KS
+1999,21,heroin,1,Kentucky,KY
+1999,22,heroin,1,Louisiana,LA
+1999,23,heroin,1,Maine,ME
+1999,24,heroin,1,Maryland,MD
+1999,25,heroin,0,Massachusetts,MA
+1999,26,heroin,0,Michigan,MI
+1999,27,heroin,1,Minnesota,MN
+1999,28,heroin,1,Mississippi,MS
+1999,29,heroin,0,Missouri,MO
+1999,30,heroin,1,Montana,MT
+1999,31,heroin,1,Nebraska,NE
+1999,32,heroin,0,Nevada,NV
+1999,33,heroin,1,New Hampshire,NH
+1999,34,heroin,0,New Jersey,NJ
+1999,35,heroin,0,New Mexico,NM
+1999,36,heroin,0,New York,NY
+1999,37,heroin,0,North Carolina,NC
+1999,38,heroin,1,North Dakota,ND
+1999,39,heroin,0,Ohio,OH
+1999,40,heroin,1,Oklahoma,OK
+1999,41,heroin,0,Oregon,OR
+1999,42,heroin,0,Pennsylvania,PA
+1999,44,heroin,1,Rhode Island,RI
+1999,45,heroin,1,South Carolina,SC
+1999,46,heroin,1,South Dakota,SD
+1999,47,heroin,0,Tennessee,TN
+1999,48,heroin,0,Texas,TX
+1999,49,heroin,0,Utah,UT
+1999,50,heroin,1,Vermont,VT
+1999,51,heroin,0,Virginia,VA
+1999,53,heroin,0,Washington,WA
+1999,54,heroin,1,West Virginia,WV
+1999,55,heroin,0,Wisconsin,WI
+1999,56,heroin,1,Wyoming,WY
+2000,01,heroin,1,Alabama,AL
+2000,02,heroin,1,Alaska,AK
+2000,04,heroin,0,Arizona,AZ
+2000,05,heroin,1,Arkansas,AR
+2000,06,heroin,0,California,CA
+2000,08,heroin,0,Colorado,CO
+2000,09,heroin,0,Connecticut,CT
+2000,10,heroin,1,Delaware,DE
+2000,11,heroin,1,District of Columbia,DC
+2000,12,heroin,0,Florida,FL
+2000,13,heroin,1,Georgia,GA
+2000,15,heroin,1,Hawaii,HI
+2000,16,heroin,1,Idaho,ID
+2000,17,heroin,0,Illinois,IL
+2000,18,heroin,1,Indiana,IN
+2000,19,heroin,1,Iowa,IA
+2000,20,heroin,1,Kansas,KS
+2000,21,heroin,1,Kentucky,KY
+2000,22,heroin,1,Louisiana,LA
+2000,23,heroin,1,Maine,ME
+2000,24,heroin,1,Maryland,MD
+2000,25,heroin,1,Massachusetts,MA
+2000,26,heroin,0,Michigan,MI
+2000,27,heroin,1,Minnesota,MN
+2000,28,heroin,1,Mississippi,MS
+2000,29,heroin,0,Missouri,MO
+2000,30,heroin,1,Montana,MT
+2000,31,heroin,1,Nebraska,NE
+2000,32,heroin,0,Nevada,NV
+2000,33,heroin,1,New Hampshire,NH
+2000,34,heroin,0,New Jersey,NJ
+2000,35,heroin,0,New Mexico,NM
+2000,36,heroin,0,New York,NY
+2000,37,heroin,0,North Carolina,NC
+2000,38,heroin,1,North Dakota,ND
+2000,39,heroin,0,Ohio,OH
+2000,40,heroin,0,Oklahoma,OK
+2000,41,heroin,0,Oregon,OR
+2000,42,heroin,0,Pennsylvania,PA
+2000,44,heroin,1,Rhode Island,RI
+2000,45,heroin,0,South Carolina,SC
+2000,46,heroin,1,South Dakota,SD
+2000,47,heroin,1,Tennessee,TN
+2000,48,heroin,0,Texas,TX
+2000,49,heroin,0,Utah,UT
+2000,50,heroin,1,Vermont,VT
+2000,51,heroin,0,Virginia,VA
+2000,53,heroin,0,Washington,WA
+2000,54,heroin,1,West Virginia,WV
+2000,55,heroin,0,Wisconsin,WI
+2000,56,heroin,1,Wyoming,WY
+2001,01,heroin,1,Alabama,AL
+2001,02,heroin,1,Alaska,AK
+2001,04,heroin,0,Arizona,AZ
+2001,05,heroin,1,Arkansas,AR
+2001,06,heroin,0,California,CA
+2001,08,heroin,0,Colorado,CO
+2001,09,heroin,0,Connecticut,CT
+2001,10,heroin,1,Delaware,DE
+2001,11,heroin,1,District of Columbia,DC
+2001,12,heroin,0,Florida,FL
+2001,13,heroin,1,Georgia,GA
+2001,15,heroin,1,Hawaii,HI
+2001,16,heroin,1,Idaho,ID
+2001,17,heroin,0,Illinois,IL
+2001,18,heroin,1,Indiana,IN
+2001,19,heroin,1,Iowa,IA
+2001,20,heroin,1,Kansas,KS
+2001,21,heroin,1,Kentucky,KY
+2001,22,heroin,1,Louisiana,LA
+2001,23,heroin,1,Maine,ME
+2001,24,heroin,1,Maryland,MD
+2001,25,heroin,0,Massachusetts,MA
+2001,26,heroin,0,Michigan,MI
+2001,27,heroin,1,Minnesota,MN
+2001,28,heroin,1,Mississippi,MS
+2001,29,heroin,0,Missouri,MO
+2001,30,heroin,1,Montana,MT
+2001,31,heroin,1,Nebraska,NE
+2001,32,heroin,0,Nevada,NV
+2001,33,heroin,1,New Hampshire,NH
+2001,34,heroin,0,New Jersey,NJ
+2001,35,heroin,0,New Mexico,NM
+2001,36,heroin,0,New York,NY
+2001,37,heroin,0,North Carolina,NC
+2001,38,heroin,1,North Dakota,ND
+2001,39,heroin,0,Ohio,OH
+2001,40,heroin,1,Oklahoma,OK
+2001,41,heroin,0,Oregon,OR
+2001,42,heroin,0,Pennsylvania,PA
+2001,44,heroin,1,Rhode Island,RI
+2001,45,heroin,1,South Carolina,SC
+2001,46,heroin,1,South Dakota,SD
+2001,47,heroin,1,Tennessee,TN
+2001,48,heroin,0,Texas,TX
+2001,49,heroin,0,Utah,UT
+2001,50,heroin,1,Vermont,VT
+2001,51,heroin,0,Virginia,VA
+2001,53,heroin,0,Washington,WA
+2001,54,heroin,1,West Virginia,WV
+2001,55,heroin,0,Wisconsin,WI
+2001,56,heroin,1,Wyoming,WY
+2002,01,heroin,1,Alabama,AL
+2002,02,heroin,1,Alaska,AK
+2002,04,heroin,0,Arizona,AZ
+2002,05,heroin,1,Arkansas,AR
+2002,06,heroin,0,California,CA
+2002,08,heroin,0,Colorado,CO
+2002,09,heroin,0,Connecticut,CT
+2002,10,heroin,0,Delaware,DE
+2002,11,heroin,1,District of Columbia,DC
+2002,12,heroin,0,Florida,FL
+2002,13,heroin,1,Georgia,GA
+2002,15,heroin,1,Hawaii,HI
+2002,16,heroin,1,Idaho,ID
+2002,17,heroin,0,Illinois,IL
+2002,18,heroin,1,Indiana,IN
+2002,19,heroin,1,Iowa,IA
+2002,20,heroin,1,Kansas,KS
+2002,21,heroin,1,Kentucky,KY
+2002,22,heroin,1,Louisiana,LA
+2002,23,heroin,1,Maine,ME
+2002,24,heroin,0,Maryland,MD
+2002,25,heroin,0,Massachusetts,MA
+2002,26,heroin,0,Michigan,MI
+2002,27,heroin,1,Minnesota,MN
+2002,28,heroin,1,Mississippi,MS
+2002,29,heroin,0,Missouri,MO
+2002,30,heroin,1,Montana,MT
+2002,31,heroin,1,Nebraska,NE
+2002,32,heroin,0,Nevada,NV
+2002,33,heroin,1,New Hampshire,NH
+2002,34,heroin,0,New Jersey,NJ
+2002,35,heroin,0,New Mexico,NM
+2002,36,heroin,0,New York,NY
+2002,37,heroin,0,North Carolina,NC
+2002,38,heroin,1,North Dakota,ND
+2002,39,heroin,0,Ohio,OH
+2002,40,heroin,1,Oklahoma,OK
+2002,41,heroin,0,Oregon,OR
+2002,42,heroin,0,Pennsylvania,PA
+2002,44,heroin,1,Rhode Island,RI
+2002,45,heroin,1,South Carolina,SC
+2002,46,heroin,1,South Dakota,SD
+2002,47,heroin,1,Tennessee,TN
+2002,48,heroin,0,Texas,TX
+2002,49,heroin,0,Utah,UT
+2002,50,heroin,1,Vermont,VT
+2002,51,heroin,0,Virginia,VA
+2002,53,heroin,0,Washington,WA
+2002,54,heroin,1,West Virginia,WV
+2002,55,heroin,0,Wisconsin,WI
+2002,56,heroin,1,Wyoming,WY
+2003,01,heroin,1,Alabama,AL
+2003,02,heroin,1,Alaska,AK
+2003,04,heroin,0,Arizona,AZ
+2003,05,heroin,1,Arkansas,AR
+2003,06,heroin,0,California,CA
+2003,08,heroin,0,Colorado,CO
+2003,09,heroin,0,Connecticut,CT
+2003,10,heroin,1,Delaware,DE
+2003,11,heroin,1,District of Columbia,DC
+2003,12,heroin,0,Florida,FL
+2003,13,heroin,1,Georgia,GA
+2003,15,heroin,1,Hawaii,HI
+2003,16,heroin,1,Idaho,ID
+2003,17,heroin,0,Illinois,IL
+2003,18,heroin,1,Indiana,IN
+2003,19,heroin,1,Iowa,IA
+2003,20,heroin,1,Kansas,KS
+2003,21,heroin,1,Kentucky,KY
+2003,22,heroin,1,Louisiana,LA
+2003,23,heroin,1,Maine,ME
+2003,24,heroin,0,Maryland,MD
+2003,25,heroin,0,Massachusetts,MA
+2003,26,heroin,0,Michigan,MI
+2003,27,heroin,1,Minnesota,MN
+2003,28,heroin,1,Mississippi,MS
+2003,29,heroin,0,Missouri,MO
+2003,30,heroin,1,Montana,MT
+2003,31,heroin,1,Nebraska,NE
+2003,32,heroin,0,Nevada,NV
+2003,33,heroin,1,New Hampshire,NH
+2003,34,heroin,0,New Jersey,NJ
+2003,35,heroin,0,New Mexico,NM
+2003,36,heroin,0,New York,NY
+2003,37,heroin,0,North Carolina,NC
+2003,38,heroin,1,North Dakota,ND
+2003,39,heroin,0,Ohio,OH
+2003,40,heroin,1,Oklahoma,OK
+2003,41,heroin,0,Oregon,OR
+2003,42,heroin,0,Pennsylvania,PA
+2003,44,heroin,1,Rhode Island,RI
+2003,45,heroin,1,South Carolina,SC
+2003,46,heroin,1,South Dakota,SD
+2003,47,heroin,1,Tennessee,TN
+2003,48,heroin,0,Texas,TX
+2003,49,heroin,0,Utah,UT
+2003,50,heroin,1,Vermont,VT
+2003,51,heroin,0,Virginia,VA
+2003,53,heroin,0,Washington,WA
+2003,54,heroin,1,West Virginia,WV
+2003,55,heroin,0,Wisconsin,WI
+2003,56,heroin,1,Wyoming,WY
+2004,01,heroin,1,Alabama,AL
+2004,02,heroin,1,Alaska,AK
+2004,04,heroin,0,Arizona,AZ
+2004,05,heroin,1,Arkansas,AR
+2004,06,heroin,0,California,CA
+2004,08,heroin,0,Colorado,CO
+2004,09,heroin,0,Connecticut,CT
+2004,10,heroin,1,Delaware,DE
+2004,11,heroin,1,District of Columbia,DC
+2004,12,heroin,0,Florida,FL
+2004,13,heroin,1,Georgia,GA
+2004,15,heroin,1,Hawaii,HI
+2004,16,heroin,1,Idaho,ID
+2004,17,heroin,0,Illinois,IL
+2004,18,heroin,1,Indiana,IN
+2004,19,heroin,1,Iowa,IA
+2004,20,heroin,1,Kansas,KS
+2004,21,heroin,1,Kentucky,KY
+2004,22,heroin,1,Louisiana,LA
+2004,23,heroin,1,Maine,ME
+2004,24,heroin,0,Maryland,MD
+2004,25,heroin,0,Massachusetts,MA
+2004,26,heroin,0,Michigan,MI
+2004,27,heroin,1,Minnesota,MN
+2004,28,heroin,1,Mississippi,MS
+2004,29,heroin,0,Missouri,MO
+2004,30,heroin,1,Montana,MT
+2004,31,heroin,1,Nebraska,NE
+2004,32,heroin,0,Nevada,NV
+2004,33,heroin,1,New Hampshire,NH
+2004,34,heroin,0,New Jersey,NJ
+2004,35,heroin,0,New Mexico,NM
+2004,36,heroin,0,New York,NY
+2004,37,heroin,0,North Carolina,NC
+2004,38,heroin,1,North Dakota,ND
+2004,39,heroin,0,Ohio,OH
+2004,40,heroin,1,Oklahoma,OK
+2004,41,heroin,0,Oregon,OR
+2004,42,heroin,0,Pennsylvania,PA
+2004,44,heroin,1,Rhode Island,RI
+2004,45,heroin,1,South Carolina,SC
+2004,46,heroin,1,South Dakota,SD
+2004,47,heroin,1,Tennessee,TN
+2004,48,heroin,0,Texas,TX
+2004,49,heroin,0,Utah,UT
+2004,50,heroin,1,Vermont,VT
+2004,51,heroin,0,Virginia,VA
+2004,53,heroin,0,Washington,WA
+2004,54,heroin,0,West Virginia,WV
+2004,55,heroin,0,Wisconsin,WI
+2004,56,heroin,1,Wyoming,WY
+2005,01,heroin,1,Alabama,AL
+2005,02,heroin,1,Alaska,AK
+2005,04,heroin,0,Arizona,AZ
+2005,05,heroin,1,Arkansas,AR
+2005,06,heroin,0,California,CA
+2005,08,heroin,0,Colorado,CO
+2005,09,heroin,0,Connecticut,CT
+2005,10,heroin,1,Delaware,DE
+2005,11,heroin,1,District of Columbia,DC
+2005,12,heroin,0,Florida,FL
+2005,13,heroin,1,Georgia,GA
+2005,15,heroin,1,Hawaii,HI
+2005,16,heroin,1,Idaho,ID
+2005,17,heroin,0,Illinois,IL
+2005,18,heroin,0,Indiana,IN
+2005,19,heroin,1,Iowa,IA
+2005,20,heroin,1,Kansas,KS
+2005,21,heroin,1,Kentucky,KY
+2005,22,heroin,1,Louisiana,LA
+2005,23,heroin,1,Maine,ME
+2005,24,heroin,0,Maryland,MD
+2005,25,heroin,0,Massachusetts,MA
+2005,26,heroin,0,Michigan,MI
+2005,27,heroin,1,Minnesota,MN
+2005,28,heroin,1,Mississippi,MS
+2005,29,heroin,0,Missouri,MO
+2005,30,heroin,1,Montana,MT
+2005,31,heroin,1,Nebraska,NE
+2005,32,heroin,0,Nevada,NV
+2005,33,heroin,1,New Hampshire,NH
+2005,34,heroin,0,New Jersey,NJ
+2005,35,heroin,0,New Mexico,NM
+2005,36,heroin,0,New York,NY
+2005,37,heroin,0,North Carolina,NC
+2005,38,heroin,1,North Dakota,ND
+2005,39,heroin,0,Ohio,OH
+2005,40,heroin,1,Oklahoma,OK
+2005,41,heroin,0,Oregon,OR
+2005,42,heroin,0,Pennsylvania,PA
+2005,44,heroin,1,Rhode Island,RI
+2005,45,heroin,1,South Carolina,SC
+2005,46,heroin,1,South Dakota,SD
+2005,47,heroin,0,Tennessee,TN
+2005,48,heroin,0,Texas,TX
+2005,49,heroin,0,Utah,UT
+2005,50,heroin,1,Vermont,VT
+2005,51,heroin,0,Virginia,VA
+2005,53,heroin,0,Washington,WA
+2005,54,heroin,1,West Virginia,WV
+2005,55,heroin,0,Wisconsin,WI
+2005,56,heroin,1,Wyoming,WY
+2006,01,heroin,1,Alabama,AL
+2006,02,heroin,1,Alaska,AK
+2006,04,heroin,0,Arizona,AZ
+2006,05,heroin,1,Arkansas,AR
+2006,06,heroin,0,California,CA
+2006,08,heroin,0,Colorado,CO
+2006,09,heroin,0,Connecticut,CT
+2006,10,heroin,1,Delaware,DE
+2006,11,heroin,1,District of Columbia,DC
+2006,12,heroin,0,Florida,FL
+2006,13,heroin,1,Georgia,GA
+2006,15,heroin,1,Hawaii,HI
+2006,16,heroin,1,Idaho,ID
+2006,17,heroin,0,Illinois,IL
+2006,18,heroin,1,Indiana,IN
+2006,19,heroin,1,Iowa,IA
+2006,20,heroin,1,Kansas,KS
+2006,21,heroin,1,Kentucky,KY
+2006,22,heroin,0,Louisiana,LA
+2006,23,heroin,1,Maine,ME
+2006,24,heroin,0,Maryland,MD
+2006,25,heroin,0,Massachusetts,MA
+2006,26,heroin,0,Michigan,MI
+2006,27,heroin,1,Minnesota,MN
+2006,28,heroin,1,Mississippi,MS
+2006,29,heroin,0,Missouri,MO
+2006,30,heroin,1,Montana,MT
+2006,31,heroin,1,Nebraska,NE
+2006,32,heroin,0,Nevada,NV
+2006,33,heroin,1,New Hampshire,NH
+2006,34,heroin,0,New Jersey,NJ
+2006,35,heroin,0,New Mexico,NM
+2006,36,heroin,0,New York,NY
+2006,37,heroin,0,North Carolina,NC
+2006,38,heroin,1,North Dakota,ND
+2006,39,heroin,0,Ohio,OH
+2006,40,heroin,1,Oklahoma,OK
+2006,41,heroin,0,Oregon,OR
+2006,42,heroin,0,Pennsylvania,PA
+2006,44,heroin,0,Rhode Island,RI
+2006,45,heroin,1,South Carolina,SC
+2006,46,heroin,1,South Dakota,SD
+2006,47,heroin,1,Tennessee,TN
+2006,48,heroin,0,Texas,TX
+2006,49,heroin,0,Utah,UT
+2006,50,heroin,1,Vermont,VT
+2006,51,heroin,0,Virginia,VA
+2006,53,heroin,0,Washington,WA
+2006,54,heroin,1,West Virginia,WV
+2006,55,heroin,0,Wisconsin,WI
+2006,56,heroin,1,Wyoming,WY
+2007,01,heroin,1,Alabama,AL
+2007,02,heroin,1,Alaska,AK
+2007,04,heroin,0,Arizona,AZ
+2007,05,heroin,1,Arkansas,AR
+2007,06,heroin,0,California,CA
+2007,08,heroin,0,Colorado,CO
+2007,09,heroin,0,Connecticut,CT
+2007,10,heroin,0,Delaware,DE
+2007,11,heroin,1,District of Columbia,DC
+2007,12,heroin,0,Florida,FL
+2007,13,heroin,0,Georgia,GA
+2007,15,heroin,1,Hawaii,HI
+2007,16,heroin,1,Idaho,ID
+2007,17,heroin,0,Illinois,IL
+2007,18,heroin,0,Indiana,IN
+2007,19,heroin,1,Iowa,IA
+2007,20,heroin,1,Kansas,KS
+2007,21,heroin,1,Kentucky,KY
+2007,22,heroin,1,Louisiana,LA
+2007,23,heroin,1,Maine,ME
+2007,24,heroin,0,Maryland,MD
+2007,25,heroin,0,Massachusetts,MA
+2007,26,heroin,0,Michigan,MI
+2007,27,heroin,1,Minnesota,MN
+2007,28,heroin,1,Mississippi,MS
+2007,29,heroin,0,Missouri,MO
+2007,30,heroin,1,Montana,MT
+2007,31,heroin,1,Nebraska,NE
+2007,32,heroin,0,Nevada,NV
+2007,33,heroin,1,New Hampshire,NH
+2007,34,heroin,0,New Jersey,NJ
+2007,35,heroin,0,New Mexico,NM
+2007,36,heroin,0,New York,NY
+2007,37,heroin,0,North Carolina,NC
+2007,38,heroin,1,North Dakota,ND
+2007,39,heroin,0,Ohio,OH
+2007,40,heroin,1,Oklahoma,OK
+2007,41,heroin,0,Oregon,OR
+2007,42,heroin,0,Pennsylvania,PA
+2007,44,heroin,1,Rhode Island,RI
+2007,45,heroin,1,South Carolina,SC
+2007,46,heroin,1,South Dakota,SD
+2007,47,heroin,1,Tennessee,TN
+2007,48,heroin,0,Texas,TX
+2007,49,heroin,0,Utah,UT
+2007,50,heroin,1,Vermont,VT
+2007,51,heroin,0,Virginia,VA
+2007,53,heroin,0,Washington,WA
+2007,54,heroin,0,West Virginia,WV
+2007,55,heroin,0,Wisconsin,WI
+2007,56,heroin,1,Wyoming,WY
+2008,01,heroin,1,Alabama,AL
+2008,02,heroin,1,Alaska,AK
+2008,04,heroin,0,Arizona,AZ
+2008,05,heroin,1,Arkansas,AR
+2008,06,heroin,0,California,CA
+2008,08,heroin,0,Colorado,CO
+2008,09,heroin,0,Connecticut,CT
+2008,10,heroin,1,Delaware,DE
+2008,11,heroin,1,District of Columbia,DC
+2008,12,heroin,0,Florida,FL
+2008,13,heroin,0,Georgia,GA
+2008,15,heroin,1,Hawaii,HI
+2008,16,heroin,1,Idaho,ID
+2008,17,heroin,0,Illinois,IL
+2008,18,heroin,0,Indiana,IN
+2008,19,heroin,0,Iowa,IA
+2008,20,heroin,1,Kansas,KS
+2008,21,heroin,0,Kentucky,KY
+2008,22,heroin,0,Louisiana,LA
+2008,23,heroin,1,Maine,ME
+2008,24,heroin,0,Maryland,MD
+2008,25,heroin,0,Massachusetts,MA
+2008,26,heroin,0,Michigan,MI
+2008,27,heroin,1,Minnesota,MN
+2008,28,heroin,1,Mississippi,MS
+2008,29,heroin,0,Missouri,MO
+2008,30,heroin,1,Montana,MT
+2008,31,heroin,1,Nebraska,NE
+2008,32,heroin,0,Nevada,NV
+2008,33,heroin,0,New Hampshire,NH
+2008,34,heroin,0,New Jersey,NJ
+2008,35,heroin,0,New Mexico,NM
+2008,36,heroin,0,New York,NY
+2008,37,heroin,0,North Carolina,NC
+2008,38,heroin,1,North Dakota,ND
+2008,39,heroin,0,Ohio,OH
+2008,40,heroin,1,Oklahoma,OK
+2008,41,heroin,0,Oregon,OR
+2008,42,heroin,0,Pennsylvania,PA
+2008,44,heroin,1,Rhode Island,RI
+2008,45,heroin,0,South Carolina,SC
+2008,46,heroin,1,South Dakota,SD
+2008,47,heroin,1,Tennessee,TN
+2008,48,heroin,0,Texas,TX
+2008,49,heroin,0,Utah,UT
+2008,50,heroin,1,Vermont,VT
+2008,51,heroin,0,Virginia,VA
+2008,53,heroin,0,Washington,WA
+2008,54,heroin,0,West Virginia,WV
+2008,55,heroin,0,Wisconsin,WI
+2008,56,heroin,1,Wyoming,WY
+2009,01,heroin,0,Alabama,AL
+2009,02,heroin,1,Alaska,AK
+2009,04,heroin,0,Arizona,AZ
+2009,05,heroin,1,Arkansas,AR
+2009,06,heroin,0,California,CA
+2009,08,heroin,0,Colorado,CO
+2009,09,heroin,0,Connecticut,CT
+2009,10,heroin,1,Delaware,DE
+2009,11,heroin,1,District of Columbia,DC
+2009,12,heroin,0,Florida,FL
+2009,13,heroin,0,Georgia,GA
+2009,15,heroin,1,Hawaii,HI
+2009,16,heroin,1,Idaho,ID
+2009,17,heroin,0,Illinois,IL
+2009,18,heroin,0,Indiana,IN
+2009,19,heroin,1,Iowa,IA
+2009,20,heroin,0,Kansas,KS
+2009,21,heroin,0,Kentucky,KY
+2009,22,heroin,0,Louisiana,LA
+2009,23,heroin,1,Maine,ME
+2009,24,heroin,0,Maryland,MD
+2009,25,heroin,0,Massachusetts,MA
+2009,26,heroin,0,Michigan,MI
+2009,27,heroin,0,Minnesota,MN
+2009,28,heroin,1,Mississippi,MS
+2009,29,heroin,0,Missouri,MO
+2009,30,heroin,1,Montana,MT
+2009,31,heroin,1,Nebraska,NE
+2009,32,heroin,0,Nevada,NV
+2009,33,heroin,0,New Hampshire,NH
+2009,34,heroin,0,New Jersey,NJ
+2009,35,heroin,0,New Mexico,NM
+2009,36,heroin,0,New York,NY
+2009,37,heroin,0,North Carolina,NC
+2009,38,heroin,1,North Dakota,ND
+2009,39,heroin,0,Ohio,OH
+2009,40,heroin,0,Oklahoma,OK
+2009,41,heroin,0,Oregon,OR
+2009,42,heroin,0,Pennsylvania,PA
+2009,44,heroin,1,Rhode Island,RI
+2009,45,heroin,0,South Carolina,SC
+2009,46,heroin,1,South Dakota,SD
+2009,47,heroin,0,Tennessee,TN
+2009,48,heroin,0,Texas,TX
+2009,49,heroin,0,Utah,UT
+2009,50,heroin,1,Vermont,VT
+2009,51,heroin,0,Virginia,VA
+2009,53,heroin,0,Washington,WA
+2009,54,heroin,0,West Virginia,WV
+2009,55,heroin,0,Wisconsin,WI
+2009,56,heroin,1,Wyoming,WY
+2010,01,heroin,1,Alabama,AL
+2010,02,heroin,1,Alaska,AK
+2010,04,heroin,0,Arizona,AZ
+2010,05,heroin,1,Arkansas,AR
+2010,06,heroin,0,California,CA
+2010,08,heroin,0,Colorado,CO
+2010,09,heroin,0,Connecticut,CT
+2010,10,heroin,0,Delaware,DE
+2010,11,heroin,0,District of Columbia,DC
+2010,12,heroin,0,Florida,FL
+2010,13,heroin,0,Georgia,GA
+2010,15,heroin,1,Hawaii,HI
+2010,16,heroin,1,Idaho,ID
+2010,17,heroin,0,Illinois,IL
+2010,18,heroin,0,Indiana,IN
+2010,19,heroin,1,Iowa,IA
+2010,20,heroin,1,Kansas,KS
+2010,21,heroin,0,Kentucky,KY
+2010,22,heroin,0,Louisiana,LA
+2010,23,heroin,1,Maine,ME
+2010,24,heroin,0,Maryland,MD
+2010,25,heroin,0,Massachusetts,MA
+2010,26,heroin,0,Michigan,MI
+2010,27,heroin,0,Minnesota,MN
+2010,28,heroin,1,Mississippi,MS
+2010,29,heroin,0,Missouri,MO
+2010,30,heroin,1,Montana,MT
+2010,31,heroin,1,Nebraska,NE
+2010,32,heroin,0,Nevada,NV
+2010,33,heroin,0,New Hampshire,NH
+2010,34,heroin,0,New Jersey,NJ
+2010,35,heroin,0,New Mexico,NM
+2010,36,heroin,0,New York,NY
+2010,37,heroin,0,North Carolina,NC
+2010,38,heroin,1,North Dakota,ND
+2010,39,heroin,0,Ohio,OH
+2010,40,heroin,1,Oklahoma,OK
+2010,41,heroin,0,Oregon,OR
+2010,42,heroin,0,Pennsylvania,PA
+2010,44,heroin,1,Rhode Island,RI
+2010,45,heroin,0,South Carolina,SC
+2010,46,heroin,1,South Dakota,SD
+2010,47,heroin,0,Tennessee,TN
+2010,48,heroin,0,Texas,TX
+2010,49,heroin,0,Utah,UT
+2010,50,heroin,1,Vermont,VT
+2010,51,heroin,0,Virginia,VA
+2010,53,heroin,0,Washington,WA
+2010,54,heroin,0,West Virginia,WV
+2010,55,heroin,0,Wisconsin,WI
+2010,56,heroin,1,Wyoming,WY
+2011,01,heroin,0,Alabama,AL
+2011,02,heroin,0,Alaska,AK
+2011,04,heroin,0,Arizona,AZ
+2011,05,heroin,1,Arkansas,AR
+2011,06,heroin,0,California,CA
+2011,08,heroin,0,Colorado,CO
+2011,09,heroin,0,Connecticut,CT
+2011,10,heroin,0,Delaware,DE
+2011,11,heroin,0,District of Columbia,DC
+2011,12,heroin,0,Florida,FL
+2011,13,heroin,0,Georgia,GA
+2011,15,heroin,1,Hawaii,HI
+2011,16,heroin,1,Idaho,ID
+2011,17,heroin,0,Illinois,IL
+2011,18,heroin,0,Indiana,IN
+2011,19,heroin,0,Iowa,IA
+2011,20,heroin,1,Kansas,KS
+2011,21,heroin,0,Kentucky,KY
+2011,22,heroin,0,Louisiana,LA
+2011,23,heroin,1,Maine,ME
+2011,24,heroin,0,Maryland,MD
+2011,25,heroin,0,Massachusetts,MA
+2011,26,heroin,0,Michigan,MI
+2011,27,heroin,0,Minnesota,MN
+2011,28,heroin,1,Mississippi,MS
+2011,29,heroin,0,Missouri,MO
+2011,30,heroin,1,Montana,MT
+2011,31,heroin,1,Nebraska,NE
+2011,32,heroin,0,Nevada,NV
+2011,33,heroin,0,New Hampshire,NH
+2011,34,heroin,0,New Jersey,NJ
+2011,35,heroin,0,New Mexico,NM
+2011,36,heroin,0,New York,NY
+2011,37,heroin,0,North Carolina,NC
+2011,38,heroin,1,North Dakota,ND
+2011,39,heroin,0,Ohio,OH
+2011,40,heroin,0,Oklahoma,OK
+2011,41,heroin,0,Oregon,OR
+2011,42,heroin,0,Pennsylvania,PA
+2011,44,heroin,0,Rhode Island,RI
+2011,45,heroin,0,South Carolina,SC
+2011,46,heroin,1,South Dakota,SD
+2011,47,heroin,0,Tennessee,TN
+2011,48,heroin,0,Texas,TX
+2011,49,heroin,0,Utah,UT
+2011,50,heroin,1,Vermont,VT
+2011,51,heroin,0,Virginia,VA
+2011,53,heroin,0,Washington,WA
+2011,54,heroin,0,West Virginia,WV
+2011,55,heroin,0,Wisconsin,WI
+2011,56,heroin,1,Wyoming,WY
+2012,01,heroin,0,Alabama,AL
+2012,02,heroin,0,Alaska,AK
+2012,04,heroin,0,Arizona,AZ
+2012,05,heroin,1,Arkansas,AR
+2012,06,heroin,0,California,CA
+2012,08,heroin,0,Colorado,CO
+2012,09,heroin,0,Connecticut,CT
+2012,10,heroin,0,Delaware,DE
+2012,11,heroin,0,District of Columbia,DC
+2012,12,heroin,0,Florida,FL
+2012,13,heroin,0,Georgia,GA
+2012,15,heroin,1,Hawaii,HI
+2012,16,heroin,1,Idaho,ID
+2012,17,heroin,0,Illinois,IL
+2012,18,heroin,0,Indiana,IN
+2012,19,heroin,0,Iowa,IA
+2012,20,heroin,0,Kansas,KS
+2012,21,heroin,0,Kentucky,KY
+2012,22,heroin,0,Louisiana,LA
+2012,23,heroin,0,Maine,ME
+2012,24,heroin,0,Maryland,MD
+2012,25,heroin,0,Massachusetts,MA
+2012,26,heroin,0,Michigan,MI
+2012,27,heroin,0,Minnesota,MN
+2012,28,heroin,1,Mississippi,MS
+2012,29,heroin,0,Missouri,MO
+2012,30,heroin,1,Montana,MT
+2012,31,heroin,1,Nebraska,NE
+2012,32,heroin,0,Nevada,NV
+2012,33,heroin,0,New Hampshire,NH
+2012,34,heroin,0,New Jersey,NJ
+2012,35,heroin,0,New Mexico,NM
+2012,36,heroin,0,New York,NY
+2012,37,heroin,0,North Carolina,NC
+2012,38,heroin,1,North Dakota,ND
+2012,39,heroin,0,Ohio,OH
+2012,40,heroin,0,Oklahoma,OK
+2012,41,heroin,0,Oregon,OR
+2012,42,heroin,0,Pennsylvania,PA
+2012,44,heroin,0,Rhode Island,RI
+2012,45,heroin,0,South Carolina,SC
+2012,46,heroin,1,South Dakota,SD
+2012,47,heroin,0,Tennessee,TN
+2012,48,heroin,0,Texas,TX
+2012,49,heroin,0,Utah,UT
+2012,50,heroin,0,Vermont,VT
+2012,51,heroin,0,Virginia,VA
+2012,53,heroin,0,Washington,WA
+2012,54,heroin,0,West Virginia,WV
+2012,55,heroin,0,Wisconsin,WI
+2012,56,heroin,1,Wyoming,WY
+2013,01,heroin,0,Alabama,AL
+2013,02,heroin,0,Alaska,AK
+2013,04,heroin,0,Arizona,AZ
+2013,05,heroin,1,Arkansas,AR
+2013,06,heroin,0,California,CA
+2013,08,heroin,0,Colorado,CO
+2013,09,heroin,0,Connecticut,CT
+2013,10,heroin,0,Delaware,DE
+2013,11,heroin,0,District of Columbia,DC
+2013,12,heroin,0,Florida,FL
+2013,13,heroin,0,Georgia,GA
+2013,15,heroin,0,Hawaii,HI
+2013,16,heroin,1,Idaho,ID
+2013,17,heroin,0,Illinois,IL
+2013,18,heroin,0,Indiana,IN
+2013,19,heroin,0,Iowa,IA
+2013,20,heroin,0,Kansas,KS
+2013,21,heroin,0,Kentucky,KY
+2013,22,heroin,0,Louisiana,LA
+2013,23,heroin,0,Maine,ME
+2013,24,heroin,0,Maryland,MD
+2013,25,heroin,0,Massachusetts,MA
+2013,26,heroin,0,Michigan,MI
+2013,27,heroin,0,Minnesota,MN
+2013,28,heroin,0,Mississippi,MS
+2013,29,heroin,0,Missouri,MO
+2013,30,heroin,1,Montana,MT
+2013,31,heroin,1,Nebraska,NE
+2013,32,heroin,0,Nevada,NV
+2013,33,heroin,0,New Hampshire,NH
+2013,34,heroin,0,New Jersey,NJ
+2013,35,heroin,0,New Mexico,NM
+2013,36,heroin,0,New York,NY
+2013,37,heroin,0,North Carolina,NC
+2013,38,heroin,1,North Dakota,ND
+2013,39,heroin,0,Ohio,OH
+2013,40,heroin,0,Oklahoma,OK
+2013,41,heroin,0,Oregon,OR
+2013,42,heroin,0,Pennsylvania,PA
+2013,44,heroin,0,Rhode Island,RI
+2013,45,heroin,0,South Carolina,SC
+2013,46,heroin,1,South Dakota,SD
+2013,47,heroin,0,Tennessee,TN
+2013,48,heroin,0,Texas,TX
+2013,49,heroin,0,Utah,UT
+2013,50,heroin,0,Vermont,VT
+2013,51,heroin,0,Virginia,VA
+2013,53,heroin,0,Washington,WA
+2013,54,heroin,0,West Virginia,WV
+2013,55,heroin,0,Wisconsin,WI
+2013,56,heroin,1,Wyoming,WY
+2014,01,heroin,0,Alabama,AL
+2014,02,heroin,0,Alaska,AK
+2014,04,heroin,0,Arizona,AZ
+2014,05,heroin,1,Arkansas,AR
+2014,06,heroin,0,California,CA
+2014,08,heroin,0,Colorado,CO
+2014,09,heroin,0,Connecticut,CT
+2014,10,heroin,0,Delaware,DE
+2014,11,heroin,0,District of Columbia,DC
+2014,12,heroin,0,Florida,FL
+2014,13,heroin,0,Georgia,GA
+2014,15,heroin,0,Hawaii,HI
+2014,16,heroin,0,Idaho,ID
+2014,17,heroin,0,Illinois,IL
+2014,18,heroin,0,Indiana,IN
+2014,19,heroin,0,Iowa,IA
+2014,20,heroin,0,Kansas,KS
+2014,21,heroin,0,Kentucky,KY
+2014,22,heroin,0,Louisiana,LA
+2014,23,heroin,0,Maine,ME
+2014,24,heroin,0,Maryland,MD
+2014,25,heroin,0,Massachusetts,MA
+2014,26,heroin,0,Michigan,MI
+2014,27,heroin,0,Minnesota,MN
+2014,28,heroin,0,Mississippi,MS
+2014,29,heroin,0,Missouri,MO
+2014,30,heroin,1,Montana,MT
+2014,31,heroin,1,Nebraska,NE
+2014,32,heroin,0,Nevada,NV
+2014,33,heroin,0,New Hampshire,NH
+2014,34,heroin,0,New Jersey,NJ
+2014,35,heroin,0,New Mexico,NM
+2014,36,heroin,0,New York,NY
+2014,37,heroin,0,North Carolina,NC
+2014,38,heroin,1,North Dakota,ND
+2014,39,heroin,0,Ohio,OH
+2014,40,heroin,0,Oklahoma,OK
+2014,41,heroin,0,Oregon,OR
+2014,42,heroin,0,Pennsylvania,PA
+2014,44,heroin,0,Rhode Island,RI
+2014,45,heroin,0,South Carolina,SC
+2014,46,heroin,1,South Dakota,SD
+2014,47,heroin,0,Tennessee,TN
+2014,48,heroin,0,Texas,TX
+2014,49,heroin,0,Utah,UT
+2014,50,heroin,0,Vermont,VT
+2014,51,heroin,0,Virginia,VA
+2014,53,heroin,0,Washington,WA
+2014,54,heroin,0,West Virginia,WV
+2014,55,heroin,0,Wisconsin,WI
+2014,56,heroin,0,Wyoming,WY
+2015,01,heroin,0,Alabama,AL
+2015,02,heroin,0,Alaska,AK
+2015,04,heroin,0,Arizona,AZ
+2015,05,heroin,1,Arkansas,AR
+2015,06,heroin,0,California,CA
+2015,08,heroin,0,Colorado,CO
+2015,09,heroin,0,Connecticut,CT
+2015,10,heroin,0,Delaware,DE
+2015,11,heroin,0,District of Columbia,DC
+2015,12,heroin,0,Florida,FL
+2015,13,heroin,0,Georgia,GA
+2015,15,heroin,0,Hawaii,HI
+2015,16,heroin,0,Idaho,ID
+2015,17,heroin,0,Illinois,IL
+2015,18,heroin,0,Indiana,IN
+2015,19,heroin,0,Iowa,IA
+2015,20,heroin,0,Kansas,KS
+2015,21,heroin,0,Kentucky,KY
+2015,22,heroin,0,Louisiana,LA
+2015,23,heroin,0,Maine,ME
+2015,24,heroin,0,Maryland,MD
+2015,25,heroin,0,Massachusetts,MA
+2015,26,heroin,0,Michigan,MI
+2015,27,heroin,0,Minnesota,MN
+2015,28,heroin,0,Mississippi,MS
+2015,29,heroin,0,Missouri,MO
+2015,30,heroin,1,Montana,MT
+2015,31,heroin,1,Nebraska,NE
+2015,32,heroin,0,Nevada,NV
+2015,33,heroin,0,New Hampshire,NH
+2015,34,heroin,0,New Jersey,NJ
+2015,35,heroin,0,New Mexico,NM
+2015,36,heroin,0,New York,NY
+2015,37,heroin,0,North Carolina,NC
+2015,38,heroin,1,North Dakota,ND
+2015,39,heroin,0,Ohio,OH
+2015,40,heroin,0,Oklahoma,OK
+2015,41,heroin,0,Oregon,OR
+2015,42,heroin,0,Pennsylvania,PA
+2015,44,heroin,0,Rhode Island,RI
+2015,45,heroin,0,South Carolina,SC
+2015,46,heroin,1,South Dakota,SD
+2015,47,heroin,0,Tennessee,TN
+2015,48,heroin,0,Texas,TX
+2015,49,heroin,0,Utah,UT
+2015,50,heroin,0,Vermont,VT
+2015,51,heroin,0,Virginia,VA
+2015,53,heroin,0,Washington,WA
+2015,54,heroin,0,West Virginia,WV
+2015,55,heroin,0,Wisconsin,WI
+2015,56,heroin,1,Wyoming,WY
+2016,01,heroin,0,Alabama,AL
+2016,02,heroin,0,Alaska,AK
+2016,04,heroin,0,Arizona,AZ
+2016,05,heroin,0,Arkansas,AR
+2016,06,heroin,0,California,CA
+2016,08,heroin,0,Colorado,CO
+2016,09,heroin,0,Connecticut,CT
+2016,10,heroin,0,Delaware,DE
+2016,11,heroin,0,District of Columbia,DC
+2016,12,heroin,0,Florida,FL
+2016,13,heroin,0,Georgia,GA
+2016,15,heroin,0,Hawaii,HI
+2016,16,heroin,0,Idaho,ID
+2016,17,heroin,0,Illinois,IL
+2016,18,heroin,0,Indiana,IN
+2016,19,heroin,0,Iowa,IA
+2016,20,heroin,0,Kansas,KS
+2016,21,heroin,0,Kentucky,KY
+2016,22,heroin,0,Louisiana,LA
+2016,23,heroin,0,Maine,ME
+2016,24,heroin,0,Maryland,MD
+2016,25,heroin,0,Massachusetts,MA
+2016,26,heroin,0,Michigan,MI
+2016,27,heroin,0,Minnesota,MN
+2016,28,heroin,0,Mississippi,MS
+2016,29,heroin,0,Missouri,MO
+2016,30,heroin,1,Montana,MT
+2016,31,heroin,1,Nebraska,NE
+2016,32,heroin,0,Nevada,NV
+2016,33,heroin,0,New Hampshire,NH
+2016,34,heroin,0,New Jersey,NJ
+2016,35,heroin,0,New Mexico,NM
+2016,36,heroin,0,New York,NY
+2016,37,heroin,0,North Carolina,NC
+2016,38,heroin,0,North Dakota,ND
+2016,39,heroin,0,Ohio,OH
+2016,40,heroin,0,Oklahoma,OK
+2016,41,heroin,0,Oregon,OR
+2016,42,heroin,0,Pennsylvania,PA
+2016,44,heroin,0,Rhode Island,RI
+2016,45,heroin,0,South Carolina,SC
+2016,46,heroin,1,South Dakota,SD
+2016,47,heroin,0,Tennessee,TN
+2016,48,heroin,0,Texas,TX
+2016,49,heroin,0,Utah,UT
+2016,50,heroin,0,Vermont,VT
+2016,51,heroin,0,Virginia,VA
+2016,53,heroin,0,Washington,WA
+2016,54,heroin,0,West Virginia,WV
+2016,55,heroin,0,Wisconsin,WI
+2016,56,heroin,1,Wyoming,WY
+1999,01,natural_opioid,0,Alabama,AL
+1999,02,natural_opioid,0,Alaska,AK
+1999,04,natural_opioid,0,Arizona,AZ
+1999,05,natural_opioid,1,Arkansas,AR
+1999,06,natural_opioid,0,California,CA
+1999,08,natural_opioid,0,Colorado,CO
+1999,09,natural_opioid,0,Connecticut,CT
+1999,10,natural_opioid,1,Delaware,DE
+1999,11,natural_opioid,1,District of Columbia,DC
+1999,12,natural_opioid,0,Florida,FL
+1999,13,natural_opioid,0,Georgia,GA
+1999,15,natural_opioid,0,Hawaii,HI
+1999,16,natural_opioid,0,Idaho,ID
+1999,17,natural_opioid,0,Illinois,IL
+1999,18,natural_opioid,0,Indiana,IN
+1999,19,natural_opioid,1,Iowa,IA
+1999,20,natural_opioid,0,Kansas,KS
+1999,21,natural_opioid,0,Kentucky,KY
+1999,22,natural_opioid,0,Louisiana,LA
+1999,23,natural_opioid,1,Maine,ME
+1999,24,natural_opioid,1,Maryland,MD
+1999,25,natural_opioid,0,Massachusetts,MA
+1999,26,natural_opioid,0,Michigan,MI
+1999,27,natural_opioid,0,Minnesota,MN
+1999,28,natural_opioid,1,Mississippi,MS
+1999,29,natural_opioid,0,Missouri,MO
+1999,30,natural_opioid,1,Montana,MT
+1999,31,natural_opioid,1,Nebraska,NE
+1999,32,natural_opioid,0,Nevada,NV
+1999,33,natural_opioid,0,New Hampshire,NH
+1999,34,natural_opioid,0,New Jersey,NJ
+1999,35,natural_opioid,0,New Mexico,NM
+1999,36,natural_opioid,0,New York,NY
+1999,37,natural_opioid,0,North Carolina,NC
+1999,38,natural_opioid,1,North Dakota,ND
+1999,39,natural_opioid,0,Ohio,OH
+1999,40,natural_opioid,0,Oklahoma,OK
+1999,41,natural_opioid,0,Oregon,OR
+1999,42,natural_opioid,0,Pennsylvania,PA
+1999,44,natural_opioid,1,Rhode Island,RI
+1999,45,natural_opioid,0,South Carolina,SC
+1999,46,natural_opioid,1,South Dakota,SD
+1999,47,natural_opioid,0,Tennessee,TN
+1999,48,natural_opioid,0,Texas,TX
+1999,49,natural_opioid,0,Utah,UT
+1999,50,natural_opioid,1,Vermont,VT
+1999,51,natural_opioid,0,Virginia,VA
+1999,53,natural_opioid,0,Washington,WA
+1999,54,natural_opioid,1,West Virginia,WV
+1999,55,natural_opioid,0,Wisconsin,WI
+1999,56,natural_opioid,1,Wyoming,WY
+2000,01,natural_opioid,0,Alabama,AL
+2000,02,natural_opioid,0,Alaska,AK
+2000,04,natural_opioid,0,Arizona,AZ
+2000,05,natural_opioid,1,Arkansas,AR
+2000,06,natural_opioid,0,California,CA
+2000,08,natural_opioid,0,Colorado,CO
+2000,09,natural_opioid,1,Connecticut,CT
+2000,10,natural_opioid,1,Delaware,DE
+2000,11,natural_opioid,1,District of Columbia,DC
+2000,12,natural_opioid,0,Florida,FL
+2000,13,natural_opioid,0,Georgia,GA
+2000,15,natural_opioid,0,Hawaii,HI
+2000,16,natural_opioid,0,Idaho,ID
+2000,17,natural_opioid,0,Illinois,IL
+2000,18,natural_opioid,0,Indiana,IN
+2000,19,natural_opioid,1,Iowa,IA
+2000,20,natural_opioid,1,Kansas,KS
+2000,21,natural_opioid,0,Kentucky,KY
+2000,22,natural_opioid,0,Louisiana,LA
+2000,23,natural_opioid,1,Maine,ME
+2000,24,natural_opioid,0,Maryland,MD
+2000,25,natural_opioid,0,Massachusetts,MA
+2000,26,natural_opioid,0,Michigan,MI
+2000,27,natural_opioid,0,Minnesota,MN
+2000,28,natural_opioid,1,Mississippi,MS
+2000,29,natural_opioid,0,Missouri,MO
+2000,30,natural_opioid,1,Montana,MT
+2000,31,natural_opioid,1,Nebraska,NE
+2000,32,natural_opioid,0,Nevada,NV
+2000,33,natural_opioid,1,New Hampshire,NH
+2000,34,natural_opioid,0,New Jersey,NJ
+2000,35,natural_opioid,0,New Mexico,NM
+2000,36,natural_opioid,0,New York,NY
+2000,37,natural_opioid,0,North Carolina,NC
+2000,38,natural_opioid,1,North Dakota,ND
+2000,39,natural_opioid,0,Ohio,OH
+2000,40,natural_opioid,0,Oklahoma,OK
+2000,41,natural_opioid,0,Oregon,OR
+2000,42,natural_opioid,0,Pennsylvania,PA
+2000,44,natural_opioid,1,Rhode Island,RI
+2000,45,natural_opioid,0,South Carolina,SC
+2000,46,natural_opioid,1,South Dakota,SD
+2000,47,natural_opioid,0,Tennessee,TN
+2000,48,natural_opioid,0,Texas,TX
+2000,49,natural_opioid,0,Utah,UT
+2000,50,natural_opioid,0,Vermont,VT
+2000,51,natural_opioid,0,Virginia,VA
+2000,53,natural_opioid,0,Washington,WA
+2000,54,natural_opioid,0,West Virginia,WV
+2000,55,natural_opioid,0,Wisconsin,WI
+2000,56,natural_opioid,1,Wyoming,WY
+2001,01,natural_opioid,0,Alabama,AL
+2001,02,natural_opioid,1,Alaska,AK
+2001,04,natural_opioid,0,Arizona,AZ
+2001,05,natural_opioid,0,Arkansas,AR
+2001,06,natural_opioid,0,California,CA
+2001,08,natural_opioid,0,Colorado,CO
+2001,09,natural_opioid,0,Connecticut,CT
+2001,10,natural_opioid,0,Delaware,DE
+2001,11,natural_opioid,1,District of Columbia,DC
+2001,12,natural_opioid,0,Florida,FL
+2001,13,natural_opioid,0,Georgia,GA
+2001,15,natural_opioid,0,Hawaii,HI
+2001,16,natural_opioid,0,Idaho,ID
+2001,17,natural_opioid,0,Illinois,IL
+2001,18,natural_opioid,0,Indiana,IN
+2001,19,natural_opioid,0,Iowa,IA
+2001,20,natural_opioid,0,Kansas,KS
+2001,21,natural_opioid,0,Kentucky,KY
+2001,22,natural_opioid,0,Louisiana,LA
+2001,23,natural_opioid,0,Maine,ME
+2001,24,natural_opioid,0,Maryland,MD
+2001,25,natural_opioid,0,Massachusetts,MA
+2001,26,natural_opioid,0,Michigan,MI
+2001,27,natural_opioid,0,Minnesota,MN
+2001,28,natural_opioid,0,Mississippi,MS
+2001,29,natural_opioid,0,Missouri,MO
+2001,30,natural_opioid,0,Montana,MT
+2001,31,natural_opioid,0,Nebraska,NE
+2001,32,natural_opioid,0,Nevada,NV
+2001,33,natural_opioid,0,New Hampshire,NH
+2001,34,natural_opioid,0,New Jersey,NJ
+2001,35,natural_opioid,0,New Mexico,NM
+2001,36,natural_opioid,0,New York,NY
+2001,37,natural_opioid,0,North Carolina,NC
+2001,38,natural_opioid,1,North Dakota,ND
+2001,39,natural_opioid,0,Ohio,OH
+2001,40,natural_opioid,0,Oklahoma,OK
+2001,41,natural_opioid,0,Oregon,OR
+2001,42,natural_opioid,0,Pennsylvania,PA
+2001,44,natural_opioid,0,Rhode Island,RI
+2001,45,natural_opioid,0,South Carolina,SC
+2001,46,natural_opioid,1,South Dakota,SD
+2001,47,natural_opioid,0,Tennessee,TN
+2001,48,natural_opioid,0,Texas,TX
+2001,49,natural_opioid,0,Utah,UT
+2001,50,natural_opioid,0,Vermont,VT
+2001,51,natural_opioid,0,Virginia,VA
+2001,53,natural_opioid,0,Washington,WA
+2001,54,natural_opioid,0,West Virginia,WV
+2001,55,natural_opioid,0,Wisconsin,WI
+2001,56,natural_opioid,1,Wyoming,WY
+2002,01,natural_opioid,0,Alabama,AL
+2002,02,natural_opioid,1,Alaska,AK
+2002,04,natural_opioid,0,Arizona,AZ
+2002,05,natural_opioid,0,Arkansas,AR
+2002,06,natural_opioid,0,California,CA
+2002,08,natural_opioid,0,Colorado,CO
+2002,09,natural_opioid,0,Connecticut,CT
+2002,10,natural_opioid,0,Delaware,DE
+2002,11,natural_opioid,1,District of Columbia,DC
+2002,12,natural_opioid,0,Florida,FL
+2002,13,natural_opioid,0,Georgia,GA
+2002,15,natural_opioid,0,Hawaii,HI
+2002,16,natural_opioid,0,Idaho,ID
+2002,17,natural_opioid,0,Illinois,IL
+2002,18,natural_opioid,0,Indiana,IN
+2002,19,natural_opioid,0,Iowa,IA
+2002,20,natural_opioid,0,Kansas,KS
+2002,21,natural_opioid,0,Kentucky,KY
+2002,22,natural_opioid,0,Louisiana,LA
+2002,23,natural_opioid,0,Maine,ME
+2002,24,natural_opioid,0,Maryland,MD
+2002,25,natural_opioid,0,Massachusetts,MA
+2002,26,natural_opioid,0,Michigan,MI
+2002,27,natural_opioid,0,Minnesota,MN
+2002,28,natural_opioid,0,Mississippi,MS
+2002,29,natural_opioid,0,Missouri,MO
+2002,30,natural_opioid,1,Montana,MT
+2002,31,natural_opioid,0,Nebraska,NE
+2002,32,natural_opioid,0,Nevada,NV
+2002,33,natural_opioid,0,New Hampshire,NH
+2002,34,natural_opioid,0,New Jersey,NJ
+2002,35,natural_opioid,0,New Mexico,NM
+2002,36,natural_opioid,0,New York,NY
+2002,37,natural_opioid,0,North Carolina,NC
+2002,38,natural_opioid,1,North Dakota,ND
+2002,39,natural_opioid,0,Ohio,OH
+2002,40,natural_opioid,0,Oklahoma,OK
+2002,41,natural_opioid,0,Oregon,OR
+2002,42,natural_opioid,0,Pennsylvania,PA
+2002,44,natural_opioid,1,Rhode Island,RI
+2002,45,natural_opioid,0,South Carolina,SC
+2002,46,natural_opioid,1,South Dakota,SD
+2002,47,natural_opioid,0,Tennessee,TN
+2002,48,natural_opioid,0,Texas,TX
+2002,49,natural_opioid,0,Utah,UT
+2002,50,natural_opioid,0,Vermont,VT
+2002,51,natural_opioid,0,Virginia,VA
+2002,53,natural_opioid,0,Washington,WA
+2002,54,natural_opioid,0,West Virginia,WV
+2002,55,natural_opioid,0,Wisconsin,WI
+2002,56,natural_opioid,0,Wyoming,WY
+2003,01,natural_opioid,0,Alabama,AL
+2003,02,natural_opioid,1,Alaska,AK
+2003,04,natural_opioid,0,Arizona,AZ
+2003,05,natural_opioid,0,Arkansas,AR
+2003,06,natural_opioid,0,California,CA
+2003,08,natural_opioid,0,Colorado,CO
+2003,09,natural_opioid,0,Connecticut,CT
+2003,10,natural_opioid,0,Delaware,DE
+2003,11,natural_opioid,1,District of Columbia,DC
+2003,12,natural_opioid,0,Florida,FL
+2003,13,natural_opioid,0,Georgia,GA
+2003,15,natural_opioid,0,Hawaii,HI
+2003,16,natural_opioid,0,Idaho,ID
+2003,17,natural_opioid,0,Illinois,IL
+2003,18,natural_opioid,0,Indiana,IN
+2003,19,natural_opioid,0,Iowa,IA
+2003,20,natural_opioid,0,Kansas,KS
+2003,21,natural_opioid,0,Kentucky,KY
+2003,22,natural_opioid,0,Louisiana,LA
+2003,23,natural_opioid,0,Maine,ME
+2003,24,natural_opioid,0,Maryland,MD
+2003,25,natural_opioid,0,Massachusetts,MA
+2003,26,natural_opioid,0,Michigan,MI
+2003,27,natural_opioid,0,Minnesota,MN
+2003,28,natural_opioid,0,Mississippi,MS
+2003,29,natural_opioid,0,Missouri,MO
+2003,30,natural_opioid,0,Montana,MT
+2003,31,natural_opioid,0,Nebraska,NE
+2003,32,natural_opioid,0,Nevada,NV
+2003,33,natural_opioid,0,New Hampshire,NH
+2003,34,natural_opioid,0,New Jersey,NJ
+2003,35,natural_opioid,0,New Mexico,NM
+2003,36,natural_opioid,0,New York,NY
+2003,37,natural_opioid,0,North Carolina,NC
+2003,38,natural_opioid,1,North Dakota,ND
+2003,39,natural_opioid,0,Ohio,OH
+2003,40,natural_opioid,0,Oklahoma,OK
+2003,41,natural_opioid,0,Oregon,OR
+2003,42,natural_opioid,0,Pennsylvania,PA
+2003,44,natural_opioid,0,Rhode Island,RI
+2003,45,natural_opioid,0,South Carolina,SC
+2003,46,natural_opioid,1,South Dakota,SD
+2003,47,natural_opioid,0,Tennessee,TN
+2003,48,natural_opioid,0,Texas,TX
+2003,49,natural_opioid,0,Utah,UT
+2003,50,natural_opioid,0,Vermont,VT
+2003,51,natural_opioid,0,Virginia,VA
+2003,53,natural_opioid,0,Washington,WA
+2003,54,natural_opioid,0,West Virginia,WV
+2003,55,natural_opioid,0,Wisconsin,WI
+2003,56,natural_opioid,1,Wyoming,WY
+2004,01,natural_opioid,0,Alabama,AL
+2004,02,natural_opioid,1,Alaska,AK
+2004,04,natural_opioid,0,Arizona,AZ
+2004,05,natural_opioid,0,Arkansas,AR
+2004,06,natural_opioid,0,California,CA
+2004,08,natural_opioid,0,Colorado,CO
+2004,09,natural_opioid,0,Connecticut,CT
+2004,10,natural_opioid,0,Delaware,DE
+2004,11,natural_opioid,0,District of Columbia,DC
+2004,12,natural_opioid,0,Florida,FL
+2004,13,natural_opioid,0,Georgia,GA
+2004,15,natural_opioid,0,Hawaii,HI
+2004,16,natural_opioid,0,Idaho,ID
+2004,17,natural_opioid,0,Illinois,IL
+2004,18,natural_opioid,0,Indiana,IN
+2004,19,natural_opioid,0,Iowa,IA
+2004,20,natural_opioid,0,Kansas,KS
+2004,21,natural_opioid,0,Kentucky,KY
+2004,22,natural_opioid,0,Louisiana,LA
+2004,23,natural_opioid,0,Maine,ME
+2004,24,natural_opioid,0,Maryland,MD
+2004,25,natural_opioid,0,Massachusetts,MA
+2004,26,natural_opioid,0,Michigan,MI
+2004,27,natural_opioid,0,Minnesota,MN
+2004,28,natural_opioid,0,Mississippi,MS
+2004,29,natural_opioid,0,Missouri,MO
+2004,30,natural_opioid,0,Montana,MT
+2004,31,natural_opioid,0,Nebraska,NE
+2004,32,natural_opioid,0,Nevada,NV
+2004,33,natural_opioid,0,New Hampshire,NH
+2004,34,natural_opioid,0,New Jersey,NJ
+2004,35,natural_opioid,0,New Mexico,NM
+2004,36,natural_opioid,0,New York,NY
+2004,37,natural_opioid,0,North Carolina,NC
+2004,38,natural_opioid,1,North Dakota,ND
+2004,39,natural_opioid,0,Ohio,OH
+2004,40,natural_opioid,0,Oklahoma,OK
+2004,41,natural_opioid,0,Oregon,OR
+2004,42,natural_opioid,0,Pennsylvania,PA
+2004,44,natural_opioid,0,Rhode Island,RI
+2004,45,natural_opioid,0,South Carolina,SC
+2004,46,natural_opioid,1,South Dakota,SD
+2004,47,natural_opioid,0,Tennessee,TN
+2004,48,natural_opioid,0,Texas,TX
+2004,49,natural_opioid,0,Utah,UT
+2004,50,natural_opioid,0,Vermont,VT
+2004,51,natural_opioid,0,Virginia,VA
+2004,53,natural_opioid,0,Washington,WA
+2004,54,natural_opioid,0,West Virginia,WV
+2004,55,natural_opioid,0,Wisconsin,WI
+2004,56,natural_opioid,1,Wyoming,WY
+2005,01,natural_opioid,0,Alabama,AL
+2005,02,natural_opioid,1,Alaska,AK
+2005,04,natural_opioid,0,Arizona,AZ
+2005,05,natural_opioid,0,Arkansas,AR
+2005,06,natural_opioid,0,California,CA
+2005,08,natural_opioid,0,Colorado,CO
+2005,09,natural_opioid,0,Connecticut,CT
+2005,10,natural_opioid,0,Delaware,DE
+2005,11,natural_opioid,1,District of Columbia,DC
+2005,12,natural_opioid,0,Florida,FL
+2005,13,natural_opioid,0,Georgia,GA
+2005,15,natural_opioid,0,Hawaii,HI
+2005,16,natural_opioid,0,Idaho,ID
+2005,17,natural_opioid,0,Illinois,IL
+2005,18,natural_opioid,0,Indiana,IN
+2005,19,natural_opioid,0,Iowa,IA
+2005,20,natural_opioid,0,Kansas,KS
+2005,21,natural_opioid,0,Kentucky,KY
+2005,22,natural_opioid,0,Louisiana,LA
+2005,23,natural_opioid,0,Maine,ME
+2005,24,natural_opioid,0,Maryland,MD
+2005,25,natural_opioid,0,Massachusetts,MA
+2005,26,natural_opioid,0,Michigan,MI
+2005,27,natural_opioid,0,Minnesota,MN
+2005,28,natural_opioid,0,Mississippi,MS
+2005,29,natural_opioid,0,Missouri,MO
+2005,30,natural_opioid,0,Montana,MT
+2005,31,natural_opioid,0,Nebraska,NE
+2005,32,natural_opioid,0,Nevada,NV
+2005,33,natural_opioid,0,New Hampshire,NH
+2005,34,natural_opioid,0,New Jersey,NJ
+2005,35,natural_opioid,0,New Mexico,NM
+2005,36,natural_opioid,0,New York,NY
+2005,37,natural_opioid,0,North Carolina,NC
+2005,38,natural_opioid,1,North Dakota,ND
+2005,39,natural_opioid,0,Ohio,OH
+2005,40,natural_opioid,0,Oklahoma,OK
+2005,41,natural_opioid,0,Oregon,OR
+2005,42,natural_opioid,0,Pennsylvania,PA
+2005,44,natural_opioid,0,Rhode Island,RI
+2005,45,natural_opioid,0,South Carolina,SC
+2005,46,natural_opioid,0,South Dakota,SD
+2005,47,natural_opioid,0,Tennessee,TN
+2005,48,natural_opioid,0,Texas,TX
+2005,49,natural_opioid,0,Utah,UT
+2005,50,natural_opioid,0,Vermont,VT
+2005,51,natural_opioid,0,Virginia,VA
+2005,53,natural_opioid,0,Washington,WA
+2005,54,natural_opioid,0,West Virginia,WV
+2005,55,natural_opioid,0,Wisconsin,WI
+2005,56,natural_opioid,1,Wyoming,WY
+2006,01,natural_opioid,0,Alabama,AL
+2006,02,natural_opioid,0,Alaska,AK
+2006,04,natural_opioid,0,Arizona,AZ
+2006,05,natural_opioid,0,Arkansas,AR
+2006,06,natural_opioid,0,California,CA
+2006,08,natural_opioid,0,Colorado,CO
+2006,09,natural_opioid,0,Connecticut,CT
+2006,10,natural_opioid,0,Delaware,DE
+2006,11,natural_opioid,0,District of Columbia,DC
+2006,12,natural_opioid,0,Florida,FL
+2006,13,natural_opioid,0,Georgia,GA
+2006,15,natural_opioid,0,Hawaii,HI
+2006,16,natural_opioid,0,Idaho,ID
+2006,17,natural_opioid,0,Illinois,IL
+2006,18,natural_opioid,0,Indiana,IN
+2006,19,natural_opioid,0,Iowa,IA
+2006,20,natural_opioid,0,Kansas,KS
+2006,21,natural_opioid,0,Kentucky,KY
+2006,22,natural_opioid,0,Louisiana,LA
+2006,23,natural_opioid,0,Maine,ME
+2006,24,natural_opioid,0,Maryland,MD
+2006,25,natural_opioid,0,Massachusetts,MA
+2006,26,natural_opioid,0,Michigan,MI
+2006,27,natural_opioid,0,Minnesota,MN
+2006,28,natural_opioid,0,Mississippi,MS
+2006,29,natural_opioid,0,Missouri,MO
+2006,30,natural_opioid,0,Montana,MT
+2006,31,natural_opioid,0,Nebraska,NE
+2006,32,natural_opioid,0,Nevada,NV
+2006,33,natural_opioid,0,New Hampshire,NH
+2006,34,natural_opioid,0,New Jersey,NJ
+2006,35,natural_opioid,0,New Mexico,NM
+2006,36,natural_opioid,0,New York,NY
+2006,37,natural_opioid,0,North Carolina,NC
+2006,38,natural_opioid,1,North Dakota,ND
+2006,39,natural_opioid,0,Ohio,OH
+2006,40,natural_opioid,0,Oklahoma,OK
+2006,41,natural_opioid,0,Oregon,OR
+2006,42,natural_opioid,0,Pennsylvania,PA
+2006,44,natural_opioid,0,Rhode Island,RI
+2006,45,natural_opioid,0,South Carolina,SC
+2006,46,natural_opioid,0,South Dakota,SD
+2006,47,natural_opioid,0,Tennessee,TN
+2006,48,natural_opioid,0,Texas,TX
+2006,49,natural_opioid,0,Utah,UT
+2006,50,natural_opioid,0,Vermont,VT
+2006,51,natural_opioid,0,Virginia,VA
+2006,53,natural_opioid,0,Washington,WA
+2006,54,natural_opioid,0,West Virginia,WV
+2006,55,natural_opioid,0,Wisconsin,WI
+2006,56,natural_opioid,1,Wyoming,WY
+2007,01,natural_opioid,0,Alabama,AL
+2007,02,natural_opioid,1,Alaska,AK
+2007,04,natural_opioid,0,Arizona,AZ
+2007,05,natural_opioid,0,Arkansas,AR
+2007,06,natural_opioid,0,California,CA
+2007,08,natural_opioid,0,Colorado,CO
+2007,09,natural_opioid,0,Connecticut,CT
+2007,10,natural_opioid,0,Delaware,DE
+2007,11,natural_opioid,1,District of Columbia,DC
+2007,12,natural_opioid,0,Florida,FL
+2007,13,natural_opioid,0,Georgia,GA
+2007,15,natural_opioid,0,Hawaii,HI
+2007,16,natural_opioid,0,Idaho,ID
+2007,17,natural_opioid,0,Illinois,IL
+2007,18,natural_opioid,0,Indiana,IN
+2007,19,natural_opioid,0,Iowa,IA
+2007,20,natural_opioid,0,Kansas,KS
+2007,21,natural_opioid,0,Kentucky,KY
+2007,22,natural_opioid,0,Louisiana,LA
+2007,23,natural_opioid,0,Maine,ME
+2007,24,natural_opioid,0,Maryland,MD
+2007,25,natural_opioid,0,Massachusetts,MA
+2007,26,natural_opioid,0,Michigan,MI
+2007,27,natural_opioid,0,Minnesota,MN
+2007,28,natural_opioid,0,Mississippi,MS
+2007,29,natural_opioid,0,Missouri,MO
+2007,30,natural_opioid,0,Montana,MT
+2007,31,natural_opioid,0,Nebraska,NE
+2007,32,natural_opioid,0,Nevada,NV
+2007,33,natural_opioid,0,New Hampshire,NH
+2007,34,natural_opioid,0,New Jersey,NJ
+2007,35,natural_opioid,0,New Mexico,NM
+2007,36,natural_opioid,0,New York,NY
+2007,37,natural_opioid,0,North Carolina,NC
+2007,38,natural_opioid,1,North Dakota,ND
+2007,39,natural_opioid,0,Ohio,OH
+2007,40,natural_opioid,0,Oklahoma,OK
+2007,41,natural_opioid,0,Oregon,OR
+2007,42,natural_opioid,0,Pennsylvania,PA
+2007,44,natural_opioid,0,Rhode Island,RI
+2007,45,natural_opioid,0,South Carolina,SC
+2007,46,natural_opioid,0,South Dakota,SD
+2007,47,natural_opioid,0,Tennessee,TN
+2007,48,natural_opioid,0,Texas,TX
+2007,49,natural_opioid,0,Utah,UT
+2007,50,natural_opioid,0,Vermont,VT
+2007,51,natural_opioid,0,Virginia,VA
+2007,53,natural_opioid,0,Washington,WA
+2007,54,natural_opioid,0,West Virginia,WV
+2007,55,natural_opioid,0,Wisconsin,WI
+2007,56,natural_opioid,1,Wyoming,WY
+2008,01,natural_opioid,0,Alabama,AL
+2008,02,natural_opioid,0,Alaska,AK
+2008,04,natural_opioid,0,Arizona,AZ
+2008,05,natural_opioid,0,Arkansas,AR
+2008,06,natural_opioid,0,California,CA
+2008,08,natural_opioid,0,Colorado,CO
+2008,09,natural_opioid,0,Connecticut,CT
+2008,10,natural_opioid,0,Delaware,DE
+2008,11,natural_opioid,1,District of Columbia,DC
+2008,12,natural_opioid,0,Florida,FL
+2008,13,natural_opioid,0,Georgia,GA
+2008,15,natural_opioid,0,Hawaii,HI
+2008,16,natural_opioid,0,Idaho,ID
+2008,17,natural_opioid,0,Illinois,IL
+2008,18,natural_opioid,0,Indiana,IN
+2008,19,natural_opioid,0,Iowa,IA
+2008,20,natural_opioid,0,Kansas,KS
+2008,21,natural_opioid,0,Kentucky,KY
+2008,22,natural_opioid,0,Louisiana,LA
+2008,23,natural_opioid,0,Maine,ME
+2008,24,natural_opioid,0,Maryland,MD
+2008,25,natural_opioid,0,Massachusetts,MA
+2008,26,natural_opioid,0,Michigan,MI
+2008,27,natural_opioid,0,Minnesota,MN
+2008,28,natural_opioid,0,Mississippi,MS
+2008,29,natural_opioid,0,Missouri,MO
+2008,30,natural_opioid,0,Montana,MT
+2008,31,natural_opioid,0,Nebraska,NE
+2008,32,natural_opioid,0,Nevada,NV
+2008,33,natural_opioid,0,New Hampshire,NH
+2008,34,natural_opioid,0,New Jersey,NJ
+2008,35,natural_opioid,0,New Mexico,NM
+2008,36,natural_opioid,0,New York,NY
+2008,37,natural_opioid,0,North Carolina,NC
+2008,38,natural_opioid,0,North Dakota,ND
+2008,39,natural_opioid,0,Ohio,OH
+2008,40,natural_opioid,0,Oklahoma,OK
+2008,41,natural_opioid,0,Oregon,OR
+2008,42,natural_opioid,0,Pennsylvania,PA
+2008,44,natural_opioid,0,Rhode Island,RI
+2008,45,natural_opioid,0,South Carolina,SC
+2008,46,natural_opioid,0,South Dakota,SD
+2008,47,natural_opioid,0,Tennessee,TN
+2008,48,natural_opioid,0,Texas,TX
+2008,49,natural_opioid,0,Utah,UT
+2008,50,natural_opioid,0,Vermont,VT
+2008,51,natural_opioid,0,Virginia,VA
+2008,53,natural_opioid,0,Washington,WA
+2008,54,natural_opioid,0,West Virginia,WV
+2008,55,natural_opioid,0,Wisconsin,WI
+2008,56,natural_opioid,0,Wyoming,WY
+2009,01,natural_opioid,0,Alabama,AL
+2009,02,natural_opioid,0,Alaska,AK
+2009,04,natural_opioid,0,Arizona,AZ
+2009,05,natural_opioid,0,Arkansas,AR
+2009,06,natural_opioid,0,California,CA
+2009,08,natural_opioid,0,Colorado,CO
+2009,09,natural_opioid,0,Connecticut,CT
+2009,10,natural_opioid,0,Delaware,DE
+2009,11,natural_opioid,1,District of Columbia,DC
+2009,12,natural_opioid,0,Florida,FL
+2009,13,natural_opioid,0,Georgia,GA
+2009,15,natural_opioid,0,Hawaii,HI
+2009,16,natural_opioid,0,Idaho,ID
+2009,17,natural_opioid,0,Illinois,IL
+2009,18,natural_opioid,0,Indiana,IN
+2009,19,natural_opioid,0,Iowa,IA
+2009,20,natural_opioid,0,Kansas,KS
+2009,21,natural_opioid,0,Kentucky,KY
+2009,22,natural_opioid,0,Louisiana,LA
+2009,23,natural_opioid,0,Maine,ME
+2009,24,natural_opioid,0,Maryland,MD
+2009,25,natural_opioid,0,Massachusetts,MA
+2009,26,natural_opioid,0,Michigan,MI
+2009,27,natural_opioid,0,Minnesota,MN
+2009,28,natural_opioid,0,Mississippi,MS
+2009,29,natural_opioid,0,Missouri,MO
+2009,30,natural_opioid,0,Montana,MT
+2009,31,natural_opioid,0,Nebraska,NE
+2009,32,natural_opioid,0,Nevada,NV
+2009,33,natural_opioid,0,New Hampshire,NH
+2009,34,natural_opioid,0,New Jersey,NJ
+2009,35,natural_opioid,0,New Mexico,NM
+2009,36,natural_opioid,0,New York,NY
+2009,37,natural_opioid,0,North Carolina,NC
+2009,38,natural_opioid,1,North Dakota,ND
+2009,39,natural_opioid,0,Ohio,OH
+2009,40,natural_opioid,0,Oklahoma,OK
+2009,41,natural_opioid,0,Oregon,OR
+2009,42,natural_opioid,0,Pennsylvania,PA
+2009,44,natural_opioid,0,Rhode Island,RI
+2009,45,natural_opioid,0,South Carolina,SC
+2009,46,natural_opioid,0,South Dakota,SD
+2009,47,natural_opioid,0,Tennessee,TN
+2009,48,natural_opioid,0,Texas,TX
+2009,49,natural_opioid,0,Utah,UT
+2009,50,natural_opioid,0,Vermont,VT
+2009,51,natural_opioid,0,Virginia,VA
+2009,53,natural_opioid,0,Washington,WA
+2009,54,natural_opioid,0,West Virginia,WV
+2009,55,natural_opioid,0,Wisconsin,WI
+2009,56,natural_opioid,0,Wyoming,WY
+2010,01,natural_opioid,0,Alabama,AL
+2010,02,natural_opioid,0,Alaska,AK
+2010,04,natural_opioid,0,Arizona,AZ
+2010,05,natural_opioid,0,Arkansas,AR
+2010,06,natural_opioid,0,California,CA
+2010,08,natural_opioid,0,Colorado,CO
+2010,09,natural_opioid,0,Connecticut,CT
+2010,10,natural_opioid,0,Delaware,DE
+2010,11,natural_opioid,1,District of Columbia,DC
+2010,12,natural_opioid,0,Florida,FL
+2010,13,natural_opioid,0,Georgia,GA
+2010,15,natural_opioid,0,Hawaii,HI
+2010,16,natural_opioid,0,Idaho,ID
+2010,17,natural_opioid,0,Illinois,IL
+2010,18,natural_opioid,0,Indiana,IN
+2010,19,natural_opioid,0,Iowa,IA
+2010,20,natural_opioid,0,Kansas,KS
+2010,21,natural_opioid,0,Kentucky,KY
+2010,22,natural_opioid,0,Louisiana,LA
+2010,23,natural_opioid,0,Maine,ME
+2010,24,natural_opioid,0,Maryland,MD
+2010,25,natural_opioid,0,Massachusetts,MA
+2010,26,natural_opioid,0,Michigan,MI
+2010,27,natural_opioid,0,Minnesota,MN
+2010,28,natural_opioid,0,Mississippi,MS
+2010,29,natural_opioid,0,Missouri,MO
+2010,30,natural_opioid,0,Montana,MT
+2010,31,natural_opioid,0,Nebraska,NE
+2010,32,natural_opioid,0,Nevada,NV
+2010,33,natural_opioid,0,New Hampshire,NH
+2010,34,natural_opioid,0,New Jersey,NJ
+2010,35,natural_opioid,0,New Mexico,NM
+2010,36,natural_opioid,0,New York,NY
+2010,37,natural_opioid,0,North Carolina,NC
+2010,38,natural_opioid,0,North Dakota,ND
+2010,39,natural_opioid,0,Ohio,OH
+2010,40,natural_opioid,0,Oklahoma,OK
+2010,41,natural_opioid,0,Oregon,OR
+2010,42,natural_opioid,0,Pennsylvania,PA
+2010,44,natural_opioid,0,Rhode Island,RI
+2010,45,natural_opioid,0,South Carolina,SC
+2010,46,natural_opioid,0,South Dakota,SD
+2010,47,natural_opioid,0,Tennessee,TN
+2010,48,natural_opioid,0,Texas,TX
+2010,49,natural_opioid,0,Utah,UT
+2010,50,natural_opioid,0,Vermont,VT
+2010,51,natural_opioid,0,Virginia,VA
+2010,53,natural_opioid,0,Washington,WA
+2010,54,natural_opioid,0,West Virginia,WV
+2010,55,natural_opioid,0,Wisconsin,WI
+2010,56,natural_opioid,0,Wyoming,WY
+2011,01,natural_opioid,0,Alabama,AL
+2011,02,natural_opioid,0,Alaska,AK
+2011,04,natural_opioid,0,Arizona,AZ
+2011,05,natural_opioid,0,Arkansas,AR
+2011,06,natural_opioid,0,California,CA
+2011,08,natural_opioid,0,Colorado,CO
+2011,09,natural_opioid,0,Connecticut,CT
+2011,10,natural_opioid,0,Delaware,DE
+2011,11,natural_opioid,0,District of Columbia,DC
+2011,12,natural_opioid,0,Florida,FL
+2011,13,natural_opioid,0,Georgia,GA
+2011,15,natural_opioid,0,Hawaii,HI
+2011,16,natural_opioid,0,Idaho,ID
+2011,17,natural_opioid,0,Illinois,IL
+2011,18,natural_opioid,0,Indiana,IN
+2011,19,natural_opioid,0,Iowa,IA
+2011,20,natural_opioid,0,Kansas,KS
+2011,21,natural_opioid,0,Kentucky,KY
+2011,22,natural_opioid,0,Louisiana,LA
+2011,23,natural_opioid,0,Maine,ME
+2011,24,natural_opioid,0,Maryland,MD
+2011,25,natural_opioid,0,Massachusetts,MA
+2011,26,natural_opioid,0,Michigan,MI
+2011,27,natural_opioid,0,Minnesota,MN
+2011,28,natural_opioid,0,Mississippi,MS
+2011,29,natural_opioid,0,Missouri,MO
+2011,30,natural_opioid,0,Montana,MT
+2011,31,natural_opioid,0,Nebraska,NE
+2011,32,natural_opioid,0,Nevada,NV
+2011,33,natural_opioid,0,New Hampshire,NH
+2011,34,natural_opioid,0,New Jersey,NJ
+2011,35,natural_opioid,0,New Mexico,NM
+2011,36,natural_opioid,0,New York,NY
+2011,37,natural_opioid,0,North Carolina,NC
+2011,38,natural_opioid,1,North Dakota,ND
+2011,39,natural_opioid,0,Ohio,OH
+2011,40,natural_opioid,0,Oklahoma,OK
+2011,41,natural_opioid,0,Oregon,OR
+2011,42,natural_opioid,0,Pennsylvania,PA
+2011,44,natural_opioid,0,Rhode Island,RI
+2011,45,natural_opioid,0,South Carolina,SC
+2011,46,natural_opioid,0,South Dakota,SD
+2011,47,natural_opioid,0,Tennessee,TN
+2011,48,natural_opioid,0,Texas,TX
+2011,49,natural_opioid,0,Utah,UT
+2011,50,natural_opioid,0,Vermont,VT
+2011,51,natural_opioid,0,Virginia,VA
+2011,53,natural_opioid,0,Washington,WA
+2011,54,natural_opioid,0,West Virginia,WV
+2011,55,natural_opioid,0,Wisconsin,WI
+2011,56,natural_opioid,0,Wyoming,WY
+2012,01,natural_opioid,0,Alabama,AL
+2012,02,natural_opioid,0,Alaska,AK
+2012,04,natural_opioid,0,Arizona,AZ
+2012,05,natural_opioid,0,Arkansas,AR
+2012,06,natural_opioid,0,California,CA
+2012,08,natural_opioid,0,Colorado,CO
+2012,09,natural_opioid,0,Connecticut,CT
+2012,10,natural_opioid,0,Delaware,DE
+2012,11,natural_opioid,0,District of Columbia,DC
+2012,12,natural_opioid,0,Florida,FL
+2012,13,natural_opioid,0,Georgia,GA
+2012,15,natural_opioid,0,Hawaii,HI
+2012,16,natural_opioid,0,Idaho,ID
+2012,17,natural_opioid,0,Illinois,IL
+2012,18,natural_opioid,0,Indiana,IN
+2012,19,natural_opioid,0,Iowa,IA
+2012,20,natural_opioid,0,Kansas,KS
+2012,21,natural_opioid,0,Kentucky,KY
+2012,22,natural_opioid,0,Louisiana,LA
+2012,23,natural_opioid,0,Maine,ME
+2012,24,natural_opioid,0,Maryland,MD
+2012,25,natural_opioid,0,Massachusetts,MA
+2012,26,natural_opioid,0,Michigan,MI
+2012,27,natural_opioid,0,Minnesota,MN
+2012,28,natural_opioid,0,Mississippi,MS
+2012,29,natural_opioid,0,Missouri,MO
+2012,30,natural_opioid,0,Montana,MT
+2012,31,natural_opioid,0,Nebraska,NE
+2012,32,natural_opioid,0,Nevada,NV
+2012,33,natural_opioid,0,New Hampshire,NH
+2012,34,natural_opioid,0,New Jersey,NJ
+2012,35,natural_opioid,0,New Mexico,NM
+2012,36,natural_opioid,0,New York,NY
+2012,37,natural_opioid,0,North Carolina,NC
+2012,38,natural_opioid,1,North Dakota,ND
+2012,39,natural_opioid,0,Ohio,OH
+2012,40,natural_opioid,0,Oklahoma,OK
+2012,41,natural_opioid,0,Oregon,OR
+2012,42,natural_opioid,0,Pennsylvania,PA
+2012,44,natural_opioid,0,Rhode Island,RI
+2012,45,natural_opioid,0,South Carolina,SC
+2012,46,natural_opioid,0,South Dakota,SD
+2012,47,natural_opioid,0,Tennessee,TN
+2012,48,natural_opioid,0,Texas,TX
+2012,49,natural_opioid,0,Utah,UT
+2012,50,natural_opioid,0,Vermont,VT
+2012,51,natural_opioid,0,Virginia,VA
+2012,53,natural_opioid,0,Washington,WA
+2012,54,natural_opioid,0,West Virginia,WV
+2012,55,natural_opioid,0,Wisconsin,WI
+2012,56,natural_opioid,0,Wyoming,WY
+2013,01,natural_opioid,0,Alabama,AL
+2013,02,natural_opioid,0,Alaska,AK
+2013,04,natural_opioid,0,Arizona,AZ
+2013,05,natural_opioid,0,Arkansas,AR
+2013,06,natural_opioid,0,California,CA
+2013,08,natural_opioid,0,Colorado,CO
+2013,09,natural_opioid,0,Connecticut,CT
+2013,10,natural_opioid,0,Delaware,DE
+2013,11,natural_opioid,0,District of Columbia,DC
+2013,12,natural_opioid,0,Florida,FL
+2013,13,natural_opioid,0,Georgia,GA
+2013,15,natural_opioid,0,Hawaii,HI
+2013,16,natural_opioid,0,Idaho,ID
+2013,17,natural_opioid,0,Illinois,IL
+2013,18,natural_opioid,0,Indiana,IN
+2013,19,natural_opioid,0,Iowa,IA
+2013,20,natural_opioid,0,Kansas,KS
+2013,21,natural_opioid,0,Kentucky,KY
+2013,22,natural_opioid,0,Louisiana,LA
+2013,23,natural_opioid,0,Maine,ME
+2013,24,natural_opioid,0,Maryland,MD
+2013,25,natural_opioid,0,Massachusetts,MA
+2013,26,natural_opioid,0,Michigan,MI
+2013,27,natural_opioid,0,Minnesota,MN
+2013,28,natural_opioid,0,Mississippi,MS
+2013,29,natural_opioid,0,Missouri,MO
+2013,30,natural_opioid,0,Montana,MT
+2013,31,natural_opioid,0,Nebraska,NE
+2013,32,natural_opioid,0,Nevada,NV
+2013,33,natural_opioid,0,New Hampshire,NH
+2013,34,natural_opioid,0,New Jersey,NJ
+2013,35,natural_opioid,0,New Mexico,NM
+2013,36,natural_opioid,0,New York,NY
+2013,37,natural_opioid,0,North Carolina,NC
+2013,38,natural_opioid,1,North Dakota,ND
+2013,39,natural_opioid,0,Ohio,OH
+2013,40,natural_opioid,0,Oklahoma,OK
+2013,41,natural_opioid,0,Oregon,OR
+2013,42,natural_opioid,0,Pennsylvania,PA
+2013,44,natural_opioid,0,Rhode Island,RI
+2013,45,natural_opioid,0,South Carolina,SC
+2013,46,natural_opioid,0,South Dakota,SD
+2013,47,natural_opioid,0,Tennessee,TN
+2013,48,natural_opioid,0,Texas,TX
+2013,49,natural_opioid,0,Utah,UT
+2013,50,natural_opioid,0,Vermont,VT
+2013,51,natural_opioid,0,Virginia,VA
+2013,53,natural_opioid,0,Washington,WA
+2013,54,natural_opioid,0,West Virginia,WV
+2013,55,natural_opioid,0,Wisconsin,WI
+2013,56,natural_opioid,0,Wyoming,WY
+2014,01,natural_opioid,0,Alabama,AL
+2014,02,natural_opioid,0,Alaska,AK
+2014,04,natural_opioid,0,Arizona,AZ
+2014,05,natural_opioid,0,Arkansas,AR
+2014,06,natural_opioid,0,California,CA
+2014,08,natural_opioid,0,Colorado,CO
+2014,09,natural_opioid,0,Connecticut,CT
+2014,10,natural_opioid,0,Delaware,DE
+2014,11,natural_opioid,0,District of Columbia,DC
+2014,12,natural_opioid,0,Florida,FL
+2014,13,natural_opioid,0,Georgia,GA
+2014,15,natural_opioid,0,Hawaii,HI
+2014,16,natural_opioid,0,Idaho,ID
+2014,17,natural_opioid,0,Illinois,IL
+2014,18,natural_opioid,0,Indiana,IN
+2014,19,natural_opioid,0,Iowa,IA
+2014,20,natural_opioid,0,Kansas,KS
+2014,21,natural_opioid,0,Kentucky,KY
+2014,22,natural_opioid,0,Louisiana,LA
+2014,23,natural_opioid,0,Maine,ME
+2014,24,natural_opioid,0,Maryland,MD
+2014,25,natural_opioid,0,Massachusetts,MA
+2014,26,natural_opioid,0,Michigan,MI
+2014,27,natural_opioid,0,Minnesota,MN
+2014,28,natural_opioid,0,Mississippi,MS
+2014,29,natural_opioid,0,Missouri,MO
+2014,30,natural_opioid,0,Montana,MT
+2014,31,natural_opioid,0,Nebraska,NE
+2014,32,natural_opioid,0,Nevada,NV
+2014,33,natural_opioid,0,New Hampshire,NH
+2014,34,natural_opioid,0,New Jersey,NJ
+2014,35,natural_opioid,0,New Mexico,NM
+2014,36,natural_opioid,0,New York,NY
+2014,37,natural_opioid,0,North Carolina,NC
+2014,38,natural_opioid,0,North Dakota,ND
+2014,39,natural_opioid,0,Ohio,OH
+2014,40,natural_opioid,0,Oklahoma,OK
+2014,41,natural_opioid,0,Oregon,OR
+2014,42,natural_opioid,0,Pennsylvania,PA
+2014,44,natural_opioid,0,Rhode Island,RI
+2014,45,natural_opioid,0,South Carolina,SC
+2014,46,natural_opioid,0,South Dakota,SD
+2014,47,natural_opioid,0,Tennessee,TN
+2014,48,natural_opioid,0,Texas,TX
+2014,49,natural_opioid,0,Utah,UT
+2014,50,natural_opioid,0,Vermont,VT
+2014,51,natural_opioid,0,Virginia,VA
+2014,53,natural_opioid,0,Washington,WA
+2014,54,natural_opioid,0,West Virginia,WV
+2014,55,natural_opioid,0,Wisconsin,WI
+2014,56,natural_opioid,0,Wyoming,WY
+2015,01,natural_opioid,0,Alabama,AL
+2015,02,natural_opioid,0,Alaska,AK
+2015,04,natural_opioid,0,Arizona,AZ
+2015,05,natural_opioid,0,Arkansas,AR
+2015,06,natural_opioid,0,California,CA
+2015,08,natural_opioid,0,Colorado,CO
+2015,09,natural_opioid,0,Connecticut,CT
+2015,10,natural_opioid,0,Delaware,DE
+2015,11,natural_opioid,0,District of Columbia,DC
+2015,12,natural_opioid,0,Florida,FL
+2015,13,natural_opioid,0,Georgia,GA
+2015,15,natural_opioid,0,Hawaii,HI
+2015,16,natural_opioid,0,Idaho,ID
+2015,17,natural_opioid,0,Illinois,IL
+2015,18,natural_opioid,0,Indiana,IN
+2015,19,natural_opioid,0,Iowa,IA
+2015,20,natural_opioid,0,Kansas,KS
+2015,21,natural_opioid,0,Kentucky,KY
+2015,22,natural_opioid,0,Louisiana,LA
+2015,23,natural_opioid,0,Maine,ME
+2015,24,natural_opioid,0,Maryland,MD
+2015,25,natural_opioid,0,Massachusetts,MA
+2015,26,natural_opioid,0,Michigan,MI
+2015,27,natural_opioid,0,Minnesota,MN
+2015,28,natural_opioid,0,Mississippi,MS
+2015,29,natural_opioid,0,Missouri,MO
+2015,30,natural_opioid,0,Montana,MT
+2015,31,natural_opioid,0,Nebraska,NE
+2015,32,natural_opioid,0,Nevada,NV
+2015,33,natural_opioid,0,New Hampshire,NH
+2015,34,natural_opioid,0,New Jersey,NJ
+2015,35,natural_opioid,0,New Mexico,NM
+2015,36,natural_opioid,0,New York,NY
+2015,37,natural_opioid,0,North Carolina,NC
+2015,38,natural_opioid,0,North Dakota,ND
+2015,39,natural_opioid,0,Ohio,OH
+2015,40,natural_opioid,0,Oklahoma,OK
+2015,41,natural_opioid,0,Oregon,OR
+2015,42,natural_opioid,0,Pennsylvania,PA
+2015,44,natural_opioid,0,Rhode Island,RI
+2015,45,natural_opioid,0,South Carolina,SC
+2015,46,natural_opioid,0,South Dakota,SD
+2015,47,natural_opioid,0,Tennessee,TN
+2015,48,natural_opioid,0,Texas,TX
+2015,49,natural_opioid,0,Utah,UT
+2015,50,natural_opioid,0,Vermont,VT
+2015,51,natural_opioid,0,Virginia,VA
+2015,53,natural_opioid,0,Washington,WA
+2015,54,natural_opioid,0,West Virginia,WV
+2015,55,natural_opioid,0,Wisconsin,WI
+2015,56,natural_opioid,0,Wyoming,WY
+2016,01,natural_opioid,0,Alabama,AL
+2016,02,natural_opioid,0,Alaska,AK
+2016,04,natural_opioid,0,Arizona,AZ
+2016,05,natural_opioid,0,Arkansas,AR
+2016,06,natural_opioid,0,California,CA
+2016,08,natural_opioid,0,Colorado,CO
+2016,09,natural_opioid,0,Connecticut,CT
+2016,10,natural_opioid,0,Delaware,DE
+2016,11,natural_opioid,0,District of Columbia,DC
+2016,12,natural_opioid,0,Florida,FL
+2016,13,natural_opioid,0,Georgia,GA
+2016,15,natural_opioid,0,Hawaii,HI
+2016,16,natural_opioid,0,Idaho,ID
+2016,17,natural_opioid,0,Illinois,IL
+2016,18,natural_opioid,0,Indiana,IN
+2016,19,natural_opioid,0,Iowa,IA
+2016,20,natural_opioid,0,Kansas,KS
+2016,21,natural_opioid,0,Kentucky,KY
+2016,22,natural_opioid,0,Louisiana,LA
+2016,23,natural_opioid,0,Maine,ME
+2016,24,natural_opioid,0,Maryland,MD
+2016,25,natural_opioid,0,Massachusetts,MA
+2016,26,natural_opioid,0,Michigan,MI
+2016,27,natural_opioid,0,Minnesota,MN
+2016,28,natural_opioid,0,Mississippi,MS
+2016,29,natural_opioid,0,Missouri,MO
+2016,30,natural_opioid,0,Montana,MT
+2016,31,natural_opioid,0,Nebraska,NE
+2016,32,natural_opioid,0,Nevada,NV
+2016,33,natural_opioid,0,New Hampshire,NH
+2016,34,natural_opioid,0,New Jersey,NJ
+2016,35,natural_opioid,0,New Mexico,NM
+2016,36,natural_opioid,0,New York,NY
+2016,37,natural_opioid,0,North Carolina,NC
+2016,38,natural_opioid,0,North Dakota,ND
+2016,39,natural_opioid,0,Ohio,OH
+2016,40,natural_opioid,0,Oklahoma,OK
+2016,41,natural_opioid,0,Oregon,OR
+2016,42,natural_opioid,0,Pennsylvania,PA
+2016,44,natural_opioid,0,Rhode Island,RI
+2016,45,natural_opioid,0,South Carolina,SC
+2016,46,natural_opioid,0,South Dakota,SD
+2016,47,natural_opioid,0,Tennessee,TN
+2016,48,natural_opioid,0,Texas,TX
+2016,49,natural_opioid,0,Utah,UT
+2016,50,natural_opioid,0,Vermont,VT
+2016,51,natural_opioid,0,Virginia,VA
+2016,53,natural_opioid,0,Washington,WA
+2016,54,natural_opioid,0,West Virginia,WV
+2016,55,natural_opioid,0,Wisconsin,WI
+2016,56,natural_opioid,0,Wyoming,WY
+1999,01,synth_opioid,0,Alabama,AL
+1999,02,synth_opioid,1,Alaska,AK
+1999,04,synth_opioid,0,Arizona,AZ
+1999,05,synth_opioid,1,Arkansas,AR
+1999,06,synth_opioid,0,California,CA
+1999,08,synth_opioid,0,Colorado,CO
+1999,09,synth_opioid,1,Connecticut,CT
+1999,10,synth_opioid,1,Delaware,DE
+1999,11,synth_opioid,1,District of Columbia,DC
+1999,12,synth_opioid,0,Florida,FL
+1999,13,synth_opioid,0,Georgia,GA
+1999,15,synth_opioid,1,Hawaii,HI
+1999,16,synth_opioid,1,Idaho,ID
+1999,17,synth_opioid,0,Illinois,IL
+1999,18,synth_opioid,1,Indiana,IN
+1999,19,synth_opioid,1,Iowa,IA
+1999,20,synth_opioid,1,Kansas,KS
+1999,21,synth_opioid,0,Kentucky,KY
+1999,22,synth_opioid,1,Louisiana,LA
+1999,23,synth_opioid,1,Maine,ME
+1999,24,synth_opioid,1,Maryland,MD
+1999,25,synth_opioid,0,Massachusetts,MA
+1999,26,synth_opioid,0,Michigan,MI
+1999,27,synth_opioid,1,Minnesota,MN
+1999,28,synth_opioid,1,Mississippi,MS
+1999,29,synth_opioid,0,Missouri,MO
+1999,30,synth_opioid,1,Montana,MT
+1999,31,synth_opioid,1,Nebraska,NE
+1999,32,synth_opioid,0,Nevada,NV
+1999,33,synth_opioid,1,New Hampshire,NH
+1999,34,synth_opioid,0,New Jersey,NJ
+1999,35,synth_opioid,0,New Mexico,NM
+1999,36,synth_opioid,0,New York,NY
+1999,37,synth_opioid,0,North Carolina,NC
+1999,38,synth_opioid,1,North Dakota,ND
+1999,39,synth_opioid,0,Ohio,OH
+1999,40,synth_opioid,0,Oklahoma,OK
+1999,41,synth_opioid,1,Oregon,OR
+1999,42,synth_opioid,0,Pennsylvania,PA
+1999,44,synth_opioid,1,Rhode Island,RI
+1999,45,synth_opioid,1,South Carolina,SC
+1999,46,synth_opioid,1,South Dakota,SD
+1999,47,synth_opioid,0,Tennessee,TN
+1999,48,synth_opioid,0,Texas,TX
+1999,49,synth_opioid,1,Utah,UT
+1999,50,synth_opioid,1,Vermont,VT
+1999,51,synth_opioid,0,Virginia,VA
+1999,53,synth_opioid,0,Washington,WA
+1999,54,synth_opioid,0,West Virginia,WV
+1999,55,synth_opioid,0,Wisconsin,WI
+1999,56,synth_opioid,1,Wyoming,WY
+2000,01,synth_opioid,0,Alabama,AL
+2000,02,synth_opioid,1,Alaska,AK
+2000,04,synth_opioid,0,Arizona,AZ
+2000,05,synth_opioid,1,Arkansas,AR
+2000,06,synth_opioid,0,California,CA
+2000,08,synth_opioid,0,Colorado,CO
+2000,09,synth_opioid,1,Connecticut,CT
+2000,10,synth_opioid,1,Delaware,DE
+2000,11,synth_opioid,1,District of Columbia,DC
+2000,12,synth_opioid,0,Florida,FL
+2000,13,synth_opioid,0,Georgia,GA
+2000,15,synth_opioid,1,Hawaii,HI
+2000,16,synth_opioid,1,Idaho,ID
+2000,17,synth_opioid,0,Illinois,IL
+2000,18,synth_opioid,0,Indiana,IN
+2000,19,synth_opioid,1,Iowa,IA
+2000,20,synth_opioid,1,Kansas,KS
+2000,21,synth_opioid,1,Kentucky,KY
+2000,22,synth_opioid,1,Louisiana,LA
+2000,23,synth_opioid,1,Maine,ME
+2000,24,synth_opioid,1,Maryland,MD
+2000,25,synth_opioid,0,Massachusetts,MA
+2000,26,synth_opioid,0,Michigan,MI
+2000,27,synth_opioid,1,Minnesota,MN
+2000,28,synth_opioid,1,Mississippi,MS
+2000,29,synth_opioid,0,Missouri,MO
+2000,30,synth_opioid,1,Montana,MT
+2000,31,synth_opioid,1,Nebraska,NE
+2000,32,synth_opioid,0,Nevada,NV
+2000,33,synth_opioid,1,New Hampshire,NH
+2000,34,synth_opioid,0,New Jersey,NJ
+2000,35,synth_opioid,0,New Mexico,NM
+2000,36,synth_opioid,0,New York,NY
+2000,37,synth_opioid,0,North Carolina,NC
+2000,38,synth_opioid,1,North Dakota,ND
+2000,39,synth_opioid,0,Ohio,OH
+2000,40,synth_opioid,0,Oklahoma,OK
+2000,41,synth_opioid,1,Oregon,OR
+2000,42,synth_opioid,0,Pennsylvania,PA
+2000,44,synth_opioid,1,Rhode Island,RI
+2000,45,synth_opioid,0,South Carolina,SC
+2000,46,synth_opioid,1,South Dakota,SD
+2000,47,synth_opioid,0,Tennessee,TN
+2000,48,synth_opioid,0,Texas,TX
+2000,49,synth_opioid,0,Utah,UT
+2000,50,synth_opioid,1,Vermont,VT
+2000,51,synth_opioid,0,Virginia,VA
+2000,53,synth_opioid,0,Washington,WA
+2000,54,synth_opioid,1,West Virginia,WV
+2000,55,synth_opioid,0,Wisconsin,WI
+2000,56,synth_opioid,1,Wyoming,WY
+2001,01,synth_opioid,1,Alabama,AL
+2001,02,synth_opioid,1,Alaska,AK
+2001,04,synth_opioid,0,Arizona,AZ
+2001,05,synth_opioid,1,Arkansas,AR
+2001,06,synth_opioid,0,California,CA
+2001,08,synth_opioid,0,Colorado,CO
+2001,09,synth_opioid,1,Connecticut,CT
+2001,10,synth_opioid,1,Delaware,DE
+2001,11,synth_opioid,1,District of Columbia,DC
+2001,12,synth_opioid,0,Florida,FL
+2001,13,synth_opioid,0,Georgia,GA
+2001,15,synth_opioid,1,Hawaii,HI
+2001,16,synth_opioid,1,Idaho,ID
+2001,17,synth_opioid,0,Illinois,IL
+2001,18,synth_opioid,0,Indiana,IN
+2001,19,synth_opioid,1,Iowa,IA
+2001,20,synth_opioid,0,Kansas,KS
+2001,21,synth_opioid,0,Kentucky,KY
+2001,22,synth_opioid,1,Louisiana,LA
+2001,23,synth_opioid,1,Maine,ME
+2001,24,synth_opioid,1,Maryland,MD
+2001,25,synth_opioid,0,Massachusetts,MA
+2001,26,synth_opioid,0,Michigan,MI
+2001,27,synth_opioid,0,Minnesota,MN
+2001,28,synth_opioid,1,Mississippi,MS
+2001,29,synth_opioid,0,Missouri,MO
+2001,30,synth_opioid,1,Montana,MT
+2001,31,synth_opioid,0,Nebraska,NE
+2001,32,synth_opioid,0,Nevada,NV
+2001,33,synth_opioid,1,New Hampshire,NH
+2001,34,synth_opioid,0,New Jersey,NJ
+2001,35,synth_opioid,0,New Mexico,NM
+2001,36,synth_opioid,0,New York,NY
+2001,37,synth_opioid,0,North Carolina,NC
+2001,38,synth_opioid,1,North Dakota,ND
+2001,39,synth_opioid,0,Ohio,OH
+2001,40,synth_opioid,0,Oklahoma,OK
+2001,41,synth_opioid,0,Oregon,OR
+2001,42,synth_opioid,0,Pennsylvania,PA
+2001,44,synth_opioid,1,Rhode Island,RI
+2001,45,synth_opioid,1,South Carolina,SC
+2001,46,synth_opioid,1,South Dakota,SD
+2001,47,synth_opioid,0,Tennessee,TN
+2001,48,synth_opioid,0,Texas,TX
+2001,49,synth_opioid,1,Utah,UT
+2001,50,synth_opioid,1,Vermont,VT
+2001,51,synth_opioid,0,Virginia,VA
+2001,53,synth_opioid,0,Washington,WA
+2001,54,synth_opioid,0,West Virginia,WV
+2001,55,synth_opioid,0,Wisconsin,WI
+2001,56,synth_opioid,1,Wyoming,WY
+2002,01,synth_opioid,1,Alabama,AL
+2002,02,synth_opioid,1,Alaska,AK
+2002,04,synth_opioid,0,Arizona,AZ
+2002,05,synth_opioid,0,Arkansas,AR
+2002,06,synth_opioid,0,California,CA
+2002,08,synth_opioid,0,Colorado,CO
+2002,09,synth_opioid,1,Connecticut,CT
+2002,10,synth_opioid,1,Delaware,DE
+2002,11,synth_opioid,1,District of Columbia,DC
+2002,12,synth_opioid,0,Florida,FL
+2002,13,synth_opioid,0,Georgia,GA
+2002,15,synth_opioid,1,Hawaii,HI
+2002,16,synth_opioid,1,Idaho,ID
+2002,17,synth_opioid,0,Illinois,IL
+2002,18,synth_opioid,1,Indiana,IN
+2002,19,synth_opioid,0,Iowa,IA
+2002,20,synth_opioid,0,Kansas,KS
+2002,21,synth_opioid,0,Kentucky,KY
+2002,22,synth_opioid,1,Louisiana,LA
+2002,23,synth_opioid,0,Maine,ME
+2002,24,synth_opioid,1,Maryland,MD
+2002,25,synth_opioid,0,Massachusetts,MA
+2002,26,synth_opioid,0,Michigan,MI
+2002,27,synth_opioid,1,Minnesota,MN
+2002,28,synth_opioid,1,Mississippi,MS
+2002,29,synth_opioid,0,Missouri,MO
+2002,30,synth_opioid,1,Montana,MT
+2002,31,synth_opioid,1,Nebraska,NE
+2002,32,synth_opioid,0,Nevada,NV
+2002,33,synth_opioid,1,New Hampshire,NH
+2002,34,synth_opioid,0,New Jersey,NJ
+2002,35,synth_opioid,0,New Mexico,NM
+2002,36,synth_opioid,0,New York,NY
+2002,37,synth_opioid,0,North Carolina,NC
+2002,38,synth_opioid,1,North Dakota,ND
+2002,39,synth_opioid,0,Ohio,OH
+2002,40,synth_opioid,0,Oklahoma,OK
+2002,41,synth_opioid,0,Oregon,OR
+2002,42,synth_opioid,0,Pennsylvania,PA
+2002,44,synth_opioid,1,Rhode Island,RI
+2002,45,synth_opioid,0,South Carolina,SC
+2002,46,synth_opioid,1,South Dakota,SD
+2002,47,synth_opioid,0,Tennessee,TN
+2002,48,synth_opioid,0,Texas,TX
+2002,49,synth_opioid,0,Utah,UT
+2002,50,synth_opioid,1,Vermont,VT
+2002,51,synth_opioid,0,Virginia,VA
+2002,53,synth_opioid,0,Washington,WA
+2002,54,synth_opioid,0,West Virginia,WV
+2002,55,synth_opioid,0,Wisconsin,WI
+2002,56,synth_opioid,1,Wyoming,WY
+2003,01,synth_opioid,1,Alabama,AL
+2003,02,synth_opioid,1,Alaska,AK
+2003,04,synth_opioid,0,Arizona,AZ
+2003,05,synth_opioid,0,Arkansas,AR
+2003,06,synth_opioid,0,California,CA
+2003,08,synth_opioid,0,Colorado,CO
+2003,09,synth_opioid,1,Connecticut,CT
+2003,10,synth_opioid,1,Delaware,DE
+2003,11,synth_opioid,1,District of Columbia,DC
+2003,12,synth_opioid,0,Florida,FL
+2003,13,synth_opioid,0,Georgia,GA
+2003,15,synth_opioid,1,Hawaii,HI
+2003,16,synth_opioid,1,Idaho,ID
+2003,17,synth_opioid,0,Illinois,IL
+2003,18,synth_opioid,0,Indiana,IN
+2003,19,synth_opioid,0,Iowa,IA
+2003,20,synth_opioid,1,Kansas,KS
+2003,21,synth_opioid,0,Kentucky,KY
+2003,22,synth_opioid,1,Louisiana,LA
+2003,23,synth_opioid,0,Maine,ME
+2003,24,synth_opioid,0,Maryland,MD
+2003,25,synth_opioid,0,Massachusetts,MA
+2003,26,synth_opioid,0,Michigan,MI
+2003,27,synth_opioid,0,Minnesota,MN
+2003,28,synth_opioid,1,Mississippi,MS
+2003,29,synth_opioid,0,Missouri,MO
+2003,30,synth_opioid,1,Montana,MT
+2003,31,synth_opioid,1,Nebraska,NE
+2003,32,synth_opioid,0,Nevada,NV
+2003,33,synth_opioid,0,New Hampshire,NH
+2003,34,synth_opioid,0,New Jersey,NJ
+2003,35,synth_opioid,0,New Mexico,NM
+2003,36,synth_opioid,0,New York,NY
+2003,37,synth_opioid,0,North Carolina,NC
+2003,38,synth_opioid,1,North Dakota,ND
+2003,39,synth_opioid,0,Ohio,OH
+2003,40,synth_opioid,0,Oklahoma,OK
+2003,41,synth_opioid,0,Oregon,OR
+2003,42,synth_opioid,0,Pennsylvania,PA
+2003,44,synth_opioid,1,Rhode Island,RI
+2003,45,synth_opioid,0,South Carolina,SC
+2003,46,synth_opioid,1,South Dakota,SD
+2003,47,synth_opioid,0,Tennessee,TN
+2003,48,synth_opioid,0,Texas,TX
+2003,49,synth_opioid,0,Utah,UT
+2003,50,synth_opioid,0,Vermont,VT
+2003,51,synth_opioid,0,Virginia,VA
+2003,53,synth_opioid,0,Washington,WA
+2003,54,synth_opioid,0,West Virginia,WV
+2003,55,synth_opioid,0,Wisconsin,WI
+2003,56,synth_opioid,1,Wyoming,WY
+2004,01,synth_opioid,0,Alabama,AL
+2004,02,synth_opioid,1,Alaska,AK
+2004,04,synth_opioid,0,Arizona,AZ
+2004,05,synth_opioid,0,Arkansas,AR
+2004,06,synth_opioid,0,California,CA
+2004,08,synth_opioid,0,Colorado,CO
+2004,09,synth_opioid,0,Connecticut,CT
+2004,10,synth_opioid,1,Delaware,DE
+2004,11,synth_opioid,1,District of Columbia,DC
+2004,12,synth_opioid,0,Florida,FL
+2004,13,synth_opioid,0,Georgia,GA
+2004,15,synth_opioid,1,Hawaii,HI
+2004,16,synth_opioid,1,Idaho,ID
+2004,17,synth_opioid,0,Illinois,IL
+2004,18,synth_opioid,0,Indiana,IN
+2004,19,synth_opioid,0,Iowa,IA
+2004,20,synth_opioid,0,Kansas,KS
+2004,21,synth_opioid,0,Kentucky,KY
+2004,22,synth_opioid,0,Louisiana,LA
+2004,23,synth_opioid,1,Maine,ME
+2004,24,synth_opioid,0,Maryland,MD
+2004,25,synth_opioid,0,Massachusetts,MA
+2004,26,synth_opioid,0,Michigan,MI
+2004,27,synth_opioid,0,Minnesota,MN
+2004,28,synth_opioid,1,Mississippi,MS
+2004,29,synth_opioid,0,Missouri,MO
+2004,30,synth_opioid,1,Montana,MT
+2004,31,synth_opioid,1,Nebraska,NE
+2004,32,synth_opioid,0,Nevada,NV
+2004,33,synth_opioid,1,New Hampshire,NH
+2004,34,synth_opioid,0,New Jersey,NJ
+2004,35,synth_opioid,0,New Mexico,NM
+2004,36,synth_opioid,0,New York,NY
+2004,37,synth_opioid,0,North Carolina,NC
+2004,38,synth_opioid,1,North Dakota,ND
+2004,39,synth_opioid,0,Ohio,OH
+2004,40,synth_opioid,0,Oklahoma,OK
+2004,41,synth_opioid,0,Oregon,OR
+2004,42,synth_opioid,0,Pennsylvania,PA
+2004,44,synth_opioid,0,Rhode Island,RI
+2004,45,synth_opioid,0,South Carolina,SC
+2004,46,synth_opioid,1,South Dakota,SD
+2004,47,synth_opioid,0,Tennessee,TN
+2004,48,synth_opioid,0,Texas,TX
+2004,49,synth_opioid,0,Utah,UT
+2004,50,synth_opioid,0,Vermont,VT
+2004,51,synth_opioid,0,Virginia,VA
+2004,53,synth_opioid,0,Washington,WA
+2004,54,synth_opioid,0,West Virginia,WV
+2004,55,synth_opioid,0,Wisconsin,WI
+2004,56,synth_opioid,1,Wyoming,WY
+2005,01,synth_opioid,0,Alabama,AL
+2005,02,synth_opioid,1,Alaska,AK
+2005,04,synth_opioid,0,Arizona,AZ
+2005,05,synth_opioid,0,Arkansas,AR
+2005,06,synth_opioid,0,California,CA
+2005,08,synth_opioid,0,Colorado,CO
+2005,09,synth_opioid,0,Connecticut,CT
+2005,10,synth_opioid,1,Delaware,DE
+2005,11,synth_opioid,1,District of Columbia,DC
+2005,12,synth_opioid,0,Florida,FL
+2005,13,synth_opioid,0,Georgia,GA
+2005,15,synth_opioid,1,Hawaii,HI
+2005,16,synth_opioid,1,Idaho,ID
+2005,17,synth_opioid,0,Illinois,IL
+2005,18,synth_opioid,0,Indiana,IN
+2005,19,synth_opioid,1,Iowa,IA
+2005,20,synth_opioid,0,Kansas,KS
+2005,21,synth_opioid,0,Kentucky,KY
+2005,22,synth_opioid,1,Louisiana,LA
+2005,23,synth_opioid,1,Maine,ME
+2005,24,synth_opioid,0,Maryland,MD
+2005,25,synth_opioid,0,Massachusetts,MA
+2005,26,synth_opioid,0,Michigan,MI
+2005,27,synth_opioid,0,Minnesota,MN
+2005,28,synth_opioid,1,Mississippi,MS
+2005,29,synth_opioid,0,Missouri,MO
+2005,30,synth_opioid,1,Montana,MT
+2005,31,synth_opioid,1,Nebraska,NE
+2005,32,synth_opioid,0,Nevada,NV
+2005,33,synth_opioid,0,New Hampshire,NH
+2005,34,synth_opioid,0,New Jersey,NJ
+2005,35,synth_opioid,0,New Mexico,NM
+2005,36,synth_opioid,0,New York,NY
+2005,37,synth_opioid,0,North Carolina,NC
+2005,38,synth_opioid,1,North Dakota,ND
+2005,39,synth_opioid,0,Ohio,OH
+2005,40,synth_opioid,0,Oklahoma,OK
+2005,41,synth_opioid,0,Oregon,OR
+2005,42,synth_opioid,0,Pennsylvania,PA
+2005,44,synth_opioid,0,Rhode Island,RI
+2005,45,synth_opioid,0,South Carolina,SC
+2005,46,synth_opioid,1,South Dakota,SD
+2005,47,synth_opioid,0,Tennessee,TN
+2005,48,synth_opioid,0,Texas,TX
+2005,49,synth_opioid,0,Utah,UT
+2005,50,synth_opioid,1,Vermont,VT
+2005,51,synth_opioid,0,Virginia,VA
+2005,53,synth_opioid,0,Washington,WA
+2005,54,synth_opioid,0,West Virginia,WV
+2005,55,synth_opioid,0,Wisconsin,WI
+2005,56,synth_opioid,1,Wyoming,WY
+2006,01,synth_opioid,0,Alabama,AL
+2006,02,synth_opioid,1,Alaska,AK
+2006,04,synth_opioid,0,Arizona,AZ
+2006,05,synth_opioid,0,Arkansas,AR
+2006,06,synth_opioid,0,California,CA
+2006,08,synth_opioid,0,Colorado,CO
+2006,09,synth_opioid,0,Connecticut,CT
+2006,10,synth_opioid,0,Delaware,DE
+2006,11,synth_opioid,1,District of Columbia,DC
+2006,12,synth_opioid,0,Florida,FL
+2006,13,synth_opioid,0,Georgia,GA
+2006,15,synth_opioid,1,Hawaii,HI
+2006,16,synth_opioid,1,Idaho,ID
+2006,17,synth_opioid,0,Illinois,IL
+2006,18,synth_opioid,0,Indiana,IN
+2006,19,synth_opioid,0,Iowa,IA
+2006,20,synth_opioid,0,Kansas,KS
+2006,21,synth_opioid,0,Kentucky,KY
+2006,22,synth_opioid,0,Louisiana,LA
+2006,23,synth_opioid,1,Maine,ME
+2006,24,synth_opioid,0,Maryland,MD
+2006,25,synth_opioid,0,Massachusetts,MA
+2006,26,synth_opioid,0,Michigan,MI
+2006,27,synth_opioid,0,Minnesota,MN
+2006,28,synth_opioid,0,Mississippi,MS
+2006,29,synth_opioid,0,Missouri,MO
+2006,30,synth_opioid,1,Montana,MT
+2006,31,synth_opioid,1,Nebraska,NE
+2006,32,synth_opioid,0,Nevada,NV
+2006,33,synth_opioid,0,New Hampshire,NH
+2006,34,synth_opioid,0,New Jersey,NJ
+2006,35,synth_opioid,0,New Mexico,NM
+2006,36,synth_opioid,0,New York,NY
+2006,37,synth_opioid,0,North Carolina,NC
+2006,38,synth_opioid,1,North Dakota,ND
+2006,39,synth_opioid,0,Ohio,OH
+2006,40,synth_opioid,0,Oklahoma,OK
+2006,41,synth_opioid,0,Oregon,OR
+2006,42,synth_opioid,0,Pennsylvania,PA
+2006,44,synth_opioid,1,Rhode Island,RI
+2006,45,synth_opioid,0,South Carolina,SC
+2006,46,synth_opioid,1,South Dakota,SD
+2006,47,synth_opioid,0,Tennessee,TN
+2006,48,synth_opioid,0,Texas,TX
+2006,49,synth_opioid,0,Utah,UT
+2006,50,synth_opioid,0,Vermont,VT
+2006,51,synth_opioid,0,Virginia,VA
+2006,53,synth_opioid,0,Washington,WA
+2006,54,synth_opioid,0,West Virginia,WV
+2006,55,synth_opioid,0,Wisconsin,WI
+2006,56,synth_opioid,1,Wyoming,WY
+2007,01,synth_opioid,0,Alabama,AL
+2007,02,synth_opioid,1,Alaska,AK
+2007,04,synth_opioid,0,Arizona,AZ
+2007,05,synth_opioid,0,Arkansas,AR
+2007,06,synth_opioid,0,California,CA
+2007,08,synth_opioid,0,Colorado,CO
+2007,09,synth_opioid,0,Connecticut,CT
+2007,10,synth_opioid,1,Delaware,DE
+2007,11,synth_opioid,1,District of Columbia,DC
+2007,12,synth_opioid,0,Florida,FL
+2007,13,synth_opioid,0,Georgia,GA
+2007,15,synth_opioid,1,Hawaii,HI
+2007,16,synth_opioid,0,Idaho,ID
+2007,17,synth_opioid,0,Illinois,IL
+2007,18,synth_opioid,0,Indiana,IN
+2007,19,synth_opioid,0,Iowa,IA
+2007,20,synth_opioid,0,Kansas,KS
+2007,21,synth_opioid,0,Kentucky,KY
+2007,22,synth_opioid,0,Louisiana,LA
+2007,23,synth_opioid,1,Maine,ME
+2007,24,synth_opioid,0,Maryland,MD
+2007,25,synth_opioid,0,Massachusetts,MA
+2007,26,synth_opioid,0,Michigan,MI
+2007,27,synth_opioid,0,Minnesota,MN
+2007,28,synth_opioid,0,Mississippi,MS
+2007,29,synth_opioid,0,Missouri,MO
+2007,30,synth_opioid,1,Montana,MT
+2007,31,synth_opioid,1,Nebraska,NE
+2007,32,synth_opioid,0,Nevada,NV
+2007,33,synth_opioid,0,New Hampshire,NH
+2007,34,synth_opioid,0,New Jersey,NJ
+2007,35,synth_opioid,0,New Mexico,NM
+2007,36,synth_opioid,0,New York,NY
+2007,37,synth_opioid,0,North Carolina,NC
+2007,38,synth_opioid,1,North Dakota,ND
+2007,39,synth_opioid,0,Ohio,OH
+2007,40,synth_opioid,0,Oklahoma,OK
+2007,41,synth_opioid,0,Oregon,OR
+2007,42,synth_opioid,0,Pennsylvania,PA
+2007,44,synth_opioid,1,Rhode Island,RI
+2007,45,synth_opioid,0,South Carolina,SC
+2007,46,synth_opioid,1,South Dakota,SD
+2007,47,synth_opioid,0,Tennessee,TN
+2007,48,synth_opioid,0,Texas,TX
+2007,49,synth_opioid,0,Utah,UT
+2007,50,synth_opioid,0,Vermont,VT
+2007,51,synth_opioid,0,Virginia,VA
+2007,53,synth_opioid,0,Washington,WA
+2007,54,synth_opioid,0,West Virginia,WV
+2007,55,synth_opioid,0,Wisconsin,WI
+2007,56,synth_opioid,1,Wyoming,WY
+2008,01,synth_opioid,0,Alabama,AL
+2008,02,synth_opioid,0,Alaska,AK
+2008,04,synth_opioid,0,Arizona,AZ
+2008,05,synth_opioid,0,Arkansas,AR
+2008,06,synth_opioid,0,California,CA
+2008,08,synth_opioid,0,Colorado,CO
+2008,09,synth_opioid,0,Connecticut,CT
+2008,10,synth_opioid,1,Delaware,DE
+2008,11,synth_opioid,1,District of Columbia,DC
+2008,12,synth_opioid,0,Florida,FL
+2008,13,synth_opioid,0,Georgia,GA
+2008,15,synth_opioid,1,Hawaii,HI
+2008,16,synth_opioid,1,Idaho,ID
+2008,17,synth_opioid,0,Illinois,IL
+2008,18,synth_opioid,0,Indiana,IN
+2008,19,synth_opioid,0,Iowa,IA
+2008,20,synth_opioid,0,Kansas,KS
+2008,21,synth_opioid,0,Kentucky,KY
+2008,22,synth_opioid,0,Louisiana,LA
+2008,23,synth_opioid,0,Maine,ME
+2008,24,synth_opioid,0,Maryland,MD
+2008,25,synth_opioid,0,Massachusetts,MA
+2008,26,synth_opioid,0,Michigan,MI
+2008,27,synth_opioid,0,Minnesota,MN
+2008,28,synth_opioid,0,Mississippi,MS
+2008,29,synth_opioid,0,Missouri,MO
+2008,30,synth_opioid,0,Montana,MT
+2008,31,synth_opioid,1,Nebraska,NE
+2008,32,synth_opioid,0,Nevada,NV
+2008,33,synth_opioid,0,New Hampshire,NH
+2008,34,synth_opioid,0,New Jersey,NJ
+2008,35,synth_opioid,0,New Mexico,NM
+2008,36,synth_opioid,0,New York,NY
+2008,37,synth_opioid,0,North Carolina,NC
+2008,38,synth_opioid,1,North Dakota,ND
+2008,39,synth_opioid,0,Ohio,OH
+2008,40,synth_opioid,0,Oklahoma,OK
+2008,41,synth_opioid,0,Oregon,OR
+2008,42,synth_opioid,0,Pennsylvania,PA
+2008,44,synth_opioid,0,Rhode Island,RI
+2008,45,synth_opioid,0,South Carolina,SC
+2008,46,synth_opioid,1,South Dakota,SD
+2008,47,synth_opioid,0,Tennessee,TN
+2008,48,synth_opioid,0,Texas,TX
+2008,49,synth_opioid,0,Utah,UT
+2008,50,synth_opioid,0,Vermont,VT
+2008,51,synth_opioid,0,Virginia,VA
+2008,53,synth_opioid,0,Washington,WA
+2008,54,synth_opioid,0,West Virginia,WV
+2008,55,synth_opioid,0,Wisconsin,WI
+2008,56,synth_opioid,0,Wyoming,WY
+2009,01,synth_opioid,0,Alabama,AL
+2009,02,synth_opioid,0,Alaska,AK
+2009,04,synth_opioid,0,Arizona,AZ
+2009,05,synth_opioid,0,Arkansas,AR
+2009,06,synth_opioid,0,California,CA
+2009,08,synth_opioid,0,Colorado,CO
+2009,09,synth_opioid,0,Connecticut,CT
+2009,10,synth_opioid,0,Delaware,DE
+2009,11,synth_opioid,1,District of Columbia,DC
+2009,12,synth_opioid,0,Florida,FL
+2009,13,synth_opioid,0,Georgia,GA
+2009,15,synth_opioid,1,Hawaii,HI
+2009,16,synth_opioid,0,Idaho,ID
+2009,17,synth_opioid,0,Illinois,IL
+2009,18,synth_opioid,0,Indiana,IN
+2009,19,synth_opioid,0,Iowa,IA
+2009,20,synth_opioid,0,Kansas,KS
+2009,21,synth_opioid,0,Kentucky,KY
+2009,22,synth_opioid,0,Louisiana,LA
+2009,23,synth_opioid,0,Maine,ME
+2009,24,synth_opioid,0,Maryland,MD
+2009,25,synth_opioid,0,Massachusetts,MA
+2009,26,synth_opioid,0,Michigan,MI
+2009,27,synth_opioid,0,Minnesota,MN
+2009,28,synth_opioid,0,Mississippi,MS
+2009,29,synth_opioid,0,Missouri,MO
+2009,30,synth_opioid,0,Montana,MT
+2009,31,synth_opioid,0,Nebraska,NE
+2009,32,synth_opioid,0,Nevada,NV
+2009,33,synth_opioid,0,New Hampshire,NH
+2009,34,synth_opioid,1,New Jersey,NJ
+2009,35,synth_opioid,0,New Mexico,NM
+2009,36,synth_opioid,0,New York,NY
+2009,37,synth_opioid,0,North Carolina,NC
+2009,38,synth_opioid,1,North Dakota,ND
+2009,39,synth_opioid,0,Ohio,OH
+2009,40,synth_opioid,0,Oklahoma,OK
+2009,41,synth_opioid,0,Oregon,OR
+2009,42,synth_opioid,0,Pennsylvania,PA
+2009,44,synth_opioid,0,Rhode Island,RI
+2009,45,synth_opioid,0,South Carolina,SC
+2009,46,synth_opioid,0,South Dakota,SD
+2009,47,synth_opioid,0,Tennessee,TN
+2009,48,synth_opioid,0,Texas,TX
+2009,49,synth_opioid,0,Utah,UT
+2009,50,synth_opioid,1,Vermont,VT
+2009,51,synth_opioid,0,Virginia,VA
+2009,53,synth_opioid,0,Washington,WA
+2009,54,synth_opioid,0,West Virginia,WV
+2009,55,synth_opioid,0,Wisconsin,WI
+2009,56,synth_opioid,1,Wyoming,WY
+2010,01,synth_opioid,0,Alabama,AL
+2010,02,synth_opioid,0,Alaska,AK
+2010,04,synth_opioid,0,Arizona,AZ
+2010,05,synth_opioid,0,Arkansas,AR
+2010,06,synth_opioid,0,California,CA
+2010,08,synth_opioid,0,Colorado,CO
+2010,09,synth_opioid,0,Connecticut,CT
+2010,10,synth_opioid,0,Delaware,DE
+2010,11,synth_opioid,1,District of Columbia,DC
+2010,12,synth_opioid,0,Florida,FL
+2010,13,synth_opioid,0,Georgia,GA
+2010,15,synth_opioid,1,Hawaii,HI
+2010,16,synth_opioid,0,Idaho,ID
+2010,17,synth_opioid,0,Illinois,IL
+2010,18,synth_opioid,0,Indiana,IN
+2010,19,synth_opioid,0,Iowa,IA
+2010,20,synth_opioid,0,Kansas,KS
+2010,21,synth_opioid,0,Kentucky,KY
+2010,22,synth_opioid,0,Louisiana,LA
+2010,23,synth_opioid,0,Maine,ME
+2010,24,synth_opioid,0,Maryland,MD
+2010,25,synth_opioid,0,Massachusetts,MA
+2010,26,synth_opioid,0,Michigan,MI
+2010,27,synth_opioid,0,Minnesota,MN
+2010,28,synth_opioid,0,Mississippi,MS
+2010,29,synth_opioid,0,Missouri,MO
+2010,30,synth_opioid,0,Montana,MT
+2010,31,synth_opioid,0,Nebraska,NE
+2010,32,synth_opioid,0,Nevada,NV
+2010,33,synth_opioid,0,New Hampshire,NH
+2010,34,synth_opioid,0,New Jersey,NJ
+2010,35,synth_opioid,0,New Mexico,NM
+2010,36,synth_opioid,0,New York,NY
+2010,37,synth_opioid,0,North Carolina,NC
+2010,38,synth_opioid,1,North Dakota,ND
+2010,39,synth_opioid,0,Ohio,OH
+2010,40,synth_opioid,0,Oklahoma,OK
+2010,41,synth_opioid,0,Oregon,OR
+2010,42,synth_opioid,0,Pennsylvania,PA
+2010,44,synth_opioid,0,Rhode Island,RI
+2010,45,synth_opioid,0,South Carolina,SC
+2010,46,synth_opioid,1,South Dakota,SD
+2010,47,synth_opioid,0,Tennessee,TN
+2010,48,synth_opioid,0,Texas,TX
+2010,49,synth_opioid,0,Utah,UT
+2010,50,synth_opioid,1,Vermont,VT
+2010,51,synth_opioid,0,Virginia,VA
+2010,53,synth_opioid,0,Washington,WA
+2010,54,synth_opioid,0,West Virginia,WV
+2010,55,synth_opioid,0,Wisconsin,WI
+2010,56,synth_opioid,1,Wyoming,WY
+2011,01,synth_opioid,0,Alabama,AL
+2011,02,synth_opioid,1,Alaska,AK
+2011,04,synth_opioid,0,Arizona,AZ
+2011,05,synth_opioid,0,Arkansas,AR
+2011,06,synth_opioid,0,California,CA
+2011,08,synth_opioid,0,Colorado,CO
+2011,09,synth_opioid,0,Connecticut,CT
+2011,10,synth_opioid,0,Delaware,DE
+2011,11,synth_opioid,1,District of Columbia,DC
+2011,12,synth_opioid,0,Florida,FL
+2011,13,synth_opioid,0,Georgia,GA
+2011,15,synth_opioid,1,Hawaii,HI
+2011,16,synth_opioid,1,Idaho,ID
+2011,17,synth_opioid,0,Illinois,IL
+2011,18,synth_opioid,0,Indiana,IN
+2011,19,synth_opioid,0,Iowa,IA
+2011,20,synth_opioid,0,Kansas,KS
+2011,21,synth_opioid,0,Kentucky,KY
+2011,22,synth_opioid,0,Louisiana,LA
+2011,23,synth_opioid,0,Maine,ME
+2011,24,synth_opioid,0,Maryland,MD
+2011,25,synth_opioid,0,Massachusetts,MA
+2011,26,synth_opioid,0,Michigan,MI
+2011,27,synth_opioid,0,Minnesota,MN
+2011,28,synth_opioid,0,Mississippi,MS
+2011,29,synth_opioid,0,Missouri,MO
+2011,30,synth_opioid,0,Montana,MT
+2011,31,synth_opioid,1,Nebraska,NE
+2011,32,synth_opioid,0,Nevada,NV
+2011,33,synth_opioid,0,New Hampshire,NH
+2011,34,synth_opioid,0,New Jersey,NJ
+2011,35,synth_opioid,0,New Mexico,NM
+2011,36,synth_opioid,0,New York,NY
+2011,37,synth_opioid,0,North Carolina,NC
+2011,38,synth_opioid,1,North Dakota,ND
+2011,39,synth_opioid,0,Ohio,OH
+2011,40,synth_opioid,0,Oklahoma,OK
+2011,41,synth_opioid,0,Oregon,OR
+2011,42,synth_opioid,0,Pennsylvania,PA
+2011,44,synth_opioid,1,Rhode Island,RI
+2011,45,synth_opioid,0,South Carolina,SC
+2011,46,synth_opioid,1,South Dakota,SD
+2011,47,synth_opioid,0,Tennessee,TN
+2011,48,synth_opioid,0,Texas,TX
+2011,49,synth_opioid,0,Utah,UT
+2011,50,synth_opioid,0,Vermont,VT
+2011,51,synth_opioid,0,Virginia,VA
+2011,53,synth_opioid,0,Washington,WA
+2011,54,synth_opioid,0,West Virginia,WV
+2011,55,synth_opioid,0,Wisconsin,WI
+2011,56,synth_opioid,1,Wyoming,WY
+2012,01,synth_opioid,0,Alabama,AL
+2012,02,synth_opioid,1,Alaska,AK
+2012,04,synth_opioid,0,Arizona,AZ
+2012,05,synth_opioid,0,Arkansas,AR
+2012,06,synth_opioid,0,California,CA
+2012,08,synth_opioid,0,Colorado,CO
+2012,09,synth_opioid,0,Connecticut,CT
+2012,10,synth_opioid,0,Delaware,DE
+2012,11,synth_opioid,1,District of Columbia,DC
+2012,12,synth_opioid,0,Florida,FL
+2012,13,synth_opioid,0,Georgia,GA
+2012,15,synth_opioid,1,Hawaii,HI
+2012,16,synth_opioid,0,Idaho,ID
+2012,17,synth_opioid,0,Illinois,IL
+2012,18,synth_opioid,0,Indiana,IN
+2012,19,synth_opioid,0,Iowa,IA
+2012,20,synth_opioid,0,Kansas,KS
+2012,21,synth_opioid,0,Kentucky,KY
+2012,22,synth_opioid,0,Louisiana,LA
+2012,23,synth_opioid,0,Maine,ME
+2012,24,synth_opioid,0,Maryland,MD
+2012,25,synth_opioid,0,Massachusetts,MA
+2012,26,synth_opioid,0,Michigan,MI
+2012,27,synth_opioid,0,Minnesota,MN
+2012,28,synth_opioid,0,Mississippi,MS
+2012,29,synth_opioid,0,Missouri,MO
+2012,30,synth_opioid,0,Montana,MT
+2012,31,synth_opioid,0,Nebraska,NE
+2012,32,synth_opioid,0,Nevada,NV
+2012,33,synth_opioid,0,New Hampshire,NH
+2012,34,synth_opioid,0,New Jersey,NJ
+2012,35,synth_opioid,0,New Mexico,NM
+2012,36,synth_opioid,0,New York,NY
+2012,37,synth_opioid,0,North Carolina,NC
+2012,38,synth_opioid,1,North Dakota,ND
+2012,39,synth_opioid,0,Ohio,OH
+2012,40,synth_opioid,0,Oklahoma,OK
+2012,41,synth_opioid,0,Oregon,OR
+2012,42,synth_opioid,0,Pennsylvania,PA
+2012,44,synth_opioid,0,Rhode Island,RI
+2012,45,synth_opioid,0,South Carolina,SC
+2012,46,synth_opioid,1,South Dakota,SD
+2012,47,synth_opioid,0,Tennessee,TN
+2012,48,synth_opioid,0,Texas,TX
+2012,49,synth_opioid,0,Utah,UT
+2012,50,synth_opioid,1,Vermont,VT
+2012,51,synth_opioid,0,Virginia,VA
+2012,53,synth_opioid,0,Washington,WA
+2012,54,synth_opioid,0,West Virginia,WV
+2012,55,synth_opioid,0,Wisconsin,WI
+2012,56,synth_opioid,1,Wyoming,WY
+2013,01,synth_opioid,0,Alabama,AL
+2013,02,synth_opioid,0,Alaska,AK
+2013,04,synth_opioid,0,Arizona,AZ
+2013,05,synth_opioid,0,Arkansas,AR
+2013,06,synth_opioid,0,California,CA
+2013,08,synth_opioid,0,Colorado,CO
+2013,09,synth_opioid,0,Connecticut,CT
+2013,10,synth_opioid,0,Delaware,DE
+2013,11,synth_opioid,1,District of Columbia,DC
+2013,12,synth_opioid,0,Florida,FL
+2013,13,synth_opioid,0,Georgia,GA
+2013,15,synth_opioid,1,Hawaii,HI
+2013,16,synth_opioid,0,Idaho,ID
+2013,17,synth_opioid,0,Illinois,IL
+2013,18,synth_opioid,0,Indiana,IN
+2013,19,synth_opioid,0,Iowa,IA
+2013,20,synth_opioid,0,Kansas,KS
+2013,21,synth_opioid,0,Kentucky,KY
+2013,22,synth_opioid,0,Louisiana,LA
+2013,23,synth_opioid,0,Maine,ME
+2013,24,synth_opioid,0,Maryland,MD
+2013,25,synth_opioid,0,Massachusetts,MA
+2013,26,synth_opioid,0,Michigan,MI
+2013,27,synth_opioid,0,Minnesota,MN
+2013,28,synth_opioid,0,Mississippi,MS
+2013,29,synth_opioid,0,Missouri,MO
+2013,30,synth_opioid,1,Montana,MT
+2013,31,synth_opioid,1,Nebraska,NE
+2013,32,synth_opioid,0,Nevada,NV
+2013,33,synth_opioid,0,New Hampshire,NH
+2013,34,synth_opioid,0,New Jersey,NJ
+2013,35,synth_opioid,0,New Mexico,NM
+2013,36,synth_opioid,0,New York,NY
+2013,37,synth_opioid,0,North Carolina,NC
+2013,38,synth_opioid,1,North Dakota,ND
+2013,39,synth_opioid,0,Ohio,OH
+2013,40,synth_opioid,0,Oklahoma,OK
+2013,41,synth_opioid,0,Oregon,OR
+2013,42,synth_opioid,0,Pennsylvania,PA
+2013,44,synth_opioid,0,Rhode Island,RI
+2013,45,synth_opioid,0,South Carolina,SC
+2013,46,synth_opioid,1,South Dakota,SD
+2013,47,synth_opioid,0,Tennessee,TN
+2013,48,synth_opioid,0,Texas,TX
+2013,49,synth_opioid,0,Utah,UT
+2013,50,synth_opioid,0,Vermont,VT
+2013,51,synth_opioid,0,Virginia,VA
+2013,53,synth_opioid,0,Washington,WA
+2013,54,synth_opioid,0,West Virginia,WV
+2013,55,synth_opioid,0,Wisconsin,WI
+2013,56,synth_opioid,1,Wyoming,WY
+2014,01,synth_opioid,0,Alabama,AL
+2014,02,synth_opioid,0,Alaska,AK
+2014,04,synth_opioid,0,Arizona,AZ
+2014,05,synth_opioid,0,Arkansas,AR
+2014,06,synth_opioid,0,California,CA
+2014,08,synth_opioid,0,Colorado,CO
+2014,09,synth_opioid,0,Connecticut,CT
+2014,10,synth_opioid,0,Delaware,DE
+2014,11,synth_opioid,0,District of Columbia,DC
+2014,12,synth_opioid,0,Florida,FL
+2014,13,synth_opioid,0,Georgia,GA
+2014,15,synth_opioid,1,Hawaii,HI
+2014,16,synth_opioid,0,Idaho,ID
+2014,17,synth_opioid,0,Illinois,IL
+2014,18,synth_opioid,0,Indiana,IN
+2014,19,synth_opioid,0,Iowa,IA
+2014,20,synth_opioid,0,Kansas,KS
+2014,21,synth_opioid,0,Kentucky,KY
+2014,22,synth_opioid,0,Louisiana,LA
+2014,23,synth_opioid,0,Maine,ME
+2014,24,synth_opioid,0,Maryland,MD
+2014,25,synth_opioid,0,Massachusetts,MA
+2014,26,synth_opioid,0,Michigan,MI
+2014,27,synth_opioid,0,Minnesota,MN
+2014,28,synth_opioid,0,Mississippi,MS
+2014,29,synth_opioid,0,Missouri,MO
+2014,30,synth_opioid,0,Montana,MT
+2014,31,synth_opioid,0,Nebraska,NE
+2014,32,synth_opioid,0,Nevada,NV
+2014,33,synth_opioid,0,New Hampshire,NH
+2014,34,synth_opioid,0,New Jersey,NJ
+2014,35,synth_opioid,0,New Mexico,NM
+2014,36,synth_opioid,0,New York,NY
+2014,37,synth_opioid,0,North Carolina,NC
+2014,38,synth_opioid,0,North Dakota,ND
+2014,39,synth_opioid,0,Ohio,OH
+2014,40,synth_opioid,0,Oklahoma,OK
+2014,41,synth_opioid,0,Oregon,OR
+2014,42,synth_opioid,0,Pennsylvania,PA
+2014,44,synth_opioid,0,Rhode Island,RI
+2014,45,synth_opioid,0,South Carolina,SC
+2014,46,synth_opioid,1,South Dakota,SD
+2014,47,synth_opioid,0,Tennessee,TN
+2014,48,synth_opioid,0,Texas,TX
+2014,49,synth_opioid,0,Utah,UT
+2014,50,synth_opioid,0,Vermont,VT
+2014,51,synth_opioid,0,Virginia,VA
+2014,53,synth_opioid,0,Washington,WA
+2014,54,synth_opioid,0,West Virginia,WV
+2014,55,synth_opioid,0,Wisconsin,WI
+2014,56,synth_opioid,0,Wyoming,WY
+2015,01,synth_opioid,0,Alabama,AL
+2015,02,synth_opioid,0,Alaska,AK
+2015,04,synth_opioid,0,Arizona,AZ
+2015,05,synth_opioid,0,Arkansas,AR
+2015,06,synth_opioid,0,California,CA
+2015,08,synth_opioid,0,Colorado,CO
+2015,09,synth_opioid,0,Connecticut,CT
+2015,10,synth_opioid,0,Delaware,DE
+2015,11,synth_opioid,0,District of Columbia,DC
+2015,12,synth_opioid,0,Florida,FL
+2015,13,synth_opioid,0,Georgia,GA
+2015,15,synth_opioid,0,Hawaii,HI
+2015,16,synth_opioid,0,Idaho,ID
+2015,17,synth_opioid,0,Illinois,IL
+2015,18,synth_opioid,0,Indiana,IN
+2015,19,synth_opioid,0,Iowa,IA
+2015,20,synth_opioid,0,Kansas,KS
+2015,21,synth_opioid,0,Kentucky,KY
+2015,22,synth_opioid,0,Louisiana,LA
+2015,23,synth_opioid,0,Maine,ME
+2015,24,synth_opioid,0,Maryland,MD
+2015,25,synth_opioid,0,Massachusetts,MA
+2015,26,synth_opioid,0,Michigan,MI
+2015,27,synth_opioid,0,Minnesota,MN
+2015,28,synth_opioid,0,Mississippi,MS
+2015,29,synth_opioid,0,Missouri,MO
+2015,30,synth_opioid,1,Montana,MT
+2015,31,synth_opioid,0,Nebraska,NE
+2015,32,synth_opioid,0,Nevada,NV
+2015,33,synth_opioid,0,New Hampshire,NH
+2015,34,synth_opioid,0,New Jersey,NJ
+2015,35,synth_opioid,0,New Mexico,NM
+2015,36,synth_opioid,0,New York,NY
+2015,37,synth_opioid,0,North Carolina,NC
+2015,38,synth_opioid,1,North Dakota,ND
+2015,39,synth_opioid,0,Ohio,OH
+2015,40,synth_opioid,0,Oklahoma,OK
+2015,41,synth_opioid,0,Oregon,OR
+2015,42,synth_opioid,0,Pennsylvania,PA
+2015,44,synth_opioid,0,Rhode Island,RI
+2015,45,synth_opioid,0,South Carolina,SC
+2015,46,synth_opioid,1,South Dakota,SD
+2015,47,synth_opioid,0,Tennessee,TN
+2015,48,synth_opioid,0,Texas,TX
+2015,49,synth_opioid,0,Utah,UT
+2015,50,synth_opioid,0,Vermont,VT
+2015,51,synth_opioid,0,Virginia,VA
+2015,53,synth_opioid,0,Washington,WA
+2015,54,synth_opioid,0,West Virginia,WV
+2015,55,synth_opioid,0,Wisconsin,WI
+2015,56,synth_opioid,1,Wyoming,WY
+2016,01,synth_opioid,0,Alabama,AL
+2016,02,synth_opioid,1,Alaska,AK
+2016,04,synth_opioid,0,Arizona,AZ
+2016,05,synth_opioid,0,Arkansas,AR
+2016,06,synth_opioid,0,California,CA
+2016,08,synth_opioid,0,Colorado,CO
+2016,09,synth_opioid,0,Connecticut,CT
+2016,10,synth_opioid,0,Delaware,DE
+2016,11,synth_opioid,0,District of Columbia,DC
+2016,12,synth_opioid,0,Florida,FL
+2016,13,synth_opioid,0,Georgia,GA
+2016,15,synth_opioid,1,Hawaii,HI
+2016,16,synth_opioid,0,Idaho,ID
+2016,17,synth_opioid,0,Illinois,IL
+2016,18,synth_opioid,0,Indiana,IN
+2016,19,synth_opioid,0,Iowa,IA
+2016,20,synth_opioid,0,Kansas,KS
+2016,21,synth_opioid,0,Kentucky,KY
+2016,22,synth_opioid,0,Louisiana,LA
+2016,23,synth_opioid,0,Maine,ME
+2016,24,synth_opioid,0,Maryland,MD
+2016,25,synth_opioid,0,Massachusetts,MA
+2016,26,synth_opioid,0,Michigan,MI
+2016,27,synth_opioid,0,Minnesota,MN
+2016,28,synth_opioid,0,Mississippi,MS
+2016,29,synth_opioid,0,Missouri,MO
+2016,30,synth_opioid,0,Montana,MT
+2016,31,synth_opioid,0,Nebraska,NE
+2016,32,synth_opioid,0,Nevada,NV
+2016,33,synth_opioid,0,New Hampshire,NH
+2016,34,synth_opioid,0,New Jersey,NJ
+2016,35,synth_opioid,0,New Mexico,NM
+2016,36,synth_opioid,0,New York,NY
+2016,37,synth_opioid,0,North Carolina,NC
+2016,38,synth_opioid,0,North Dakota,ND
+2016,39,synth_opioid,0,Ohio,OH
+2016,40,synth_opioid,0,Oklahoma,OK
+2016,41,synth_opioid,0,Oregon,OR
+2016,42,synth_opioid,0,Pennsylvania,PA
+2016,44,synth_opioid,0,Rhode Island,RI
+2016,45,synth_opioid,0,South Carolina,SC
+2016,46,synth_opioid,0,South Dakota,SD
+2016,47,synth_opioid,0,Tennessee,TN
+2016,48,synth_opioid,0,Texas,TX
+2016,49,synth_opioid,0,Utah,UT
+2016,50,synth_opioid,0,Vermont,VT
+2016,51,synth_opioid,0,Virginia,VA
+2016,53,synth_opioid,0,Washington,WA
+2016,54,synth_opioid,0,West Virginia,WV
+2016,55,synth_opioid,0,Wisconsin,WI
+2016,56,synth_opioid,1,Wyoming,WY

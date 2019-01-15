@@ -1,0 +1,29 @@
+# Config file for opioid_geographic project. A single place where we can
+# specify if we want to keep intermediate files (and if so, which ones),
+# years we want to do analysis, location of processed and intermediate files,
+# etc.
+
+# You can make your own config (everything inherits from `default` so just
+# change what you want), and then set it as a global in your own computer:
+# `Sys.setenv(R_CONFIG_ACTIVE = "dev")`
+
+default:
+  start_year: 1999                # Year to start
+  end_year: 2016                  # Year to end
+  working_data: './data'          # Where to save working data (not restricted)
+  private_data: './data_private'  # Data that should not be shared (NCHS rules)
+  zero_rate: .000001              # Log-linear model so cannot have zero rates
+  plot_dir: './plots'             # Where to save plots
+  proc_in_parallel: false         # When true, perform calculations in parallel
+  keep_working_data: false        # Keep intermediate files
+  force_process: false            # Force the raw data to be reprocessed
+  num_cores: null                 # Number of cores to use (null = 1/2 cores)
+  sig_p_value: .05                # What to consider "significant"
+  rate_cuts: [5, 10]              # Upper limits of "low"/"medium" mortality
+  apc_cuts: [26, 41]              # Upper limits of "low"/"medium" APC
+
+# This is our internal configuration -- it is memory-intensive.
+dev:
+  proc_in_parallel: true
+  keep_working_data: true
+  num_cores: 4
