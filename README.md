@@ -27,10 +27,9 @@ time. The full citation is:
 
 Disaggregated results are available on the online interactive results
 viewer located here:
-[`https://sanjaybasu.shinyapps.io/results_viewer/`](https://sanjaybasu.shinyapps.io/opioid_geographic/).
-You can also use the interactive results viewer offline on your computer
-by cloning this repo and running
-`shiny::runApp("./online_results_viewer")` in
+<https://sanjaybasu.shinyapps.io/opioid_geographic/>. You can also use
+the interactive results viewer offline on your computer by cloning this
+repo and running `shiny::runApp("./online_results_viewer")` in
 [RStudio](https://www.rstudio.com/); however, your mileage may vary
 depending on package versions.
 
