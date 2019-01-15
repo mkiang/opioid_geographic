@@ -1,0 +1,77 @@
+---
+title: "Death Count by Sex and Cause"
+author: "Mathew Kiang"
+date: "12/21/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(error = FALSE)
+```
+
+```{r, results='hide'}
+library(tidyverse)
+library(DT)
+library(here)
+```
+
+```{r, results='hide'}
+death_counts <- read_csv(here("data", "deaths_by_sex_and_age.csv"))
+```
+
+```{r}
+death_counts %>%
+    mutate(
+        cod = factor(
+            cod,
+            levels = c(
+                "all_deaths",
+                "all_opioids",
+                "heroin",
+                "natural",
+                "synth",
+                "firearm",
+                "car_accident"
+            ),
+            labels = c(
+                "All deaths",
+                "All opioids",
+                "Heroin",
+                "Natural opioids",
+                "Synthetic opioids",
+                "Firearms",
+                "Car accidents"
+            ),
+            ordered = TRUE
+        ),
+        year = ifelse(year == 0, "All years", year),
+        sex = case_when(sex == "F" ~ "Female",
+                        sex == "M" ~ "Male",
+                        sex == "All" ~ "Both")
+    ) %>%
+    mutate(age_mean = sprintf("%0.1f", round(age_mean, 1)),
+           age_sd = sprintf("%0.1f", round(age_sd, 1))) %>%
+    transmute(
+        cod = cod, 
+        year = year,
+        sex = sex,
+        n = sprintf("%s (%s)", n, n_miss),
+        avg = sprintf("%s (%s)", age_mean, age_sd)
+    ) %>% 
+    unite(holder, n:avg, sep = ";") %>%
+    spread(sex, holder) %>%
+    separate(Both,
+             paste0("both_", c("n", "age")),
+             sep = ";") %>%
+    separate(Female,
+             paste0("female_", c("n", "age")),
+             sep = ";") %>%
+    separate(Male,
+             paste0("male_", c("n", "age")),
+             sep = ";") %>% 
+    knitr::kable()
+```
+

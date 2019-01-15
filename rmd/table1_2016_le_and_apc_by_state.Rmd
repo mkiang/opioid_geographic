@@ -1,0 +1,230 @@
+---
+title: "Table 1. Opioid mortality, annual percent change, and life expectancy lost at age 15 by state and opioid type: 2016."
+author: "Mathew Kiang"
+date: "11/7/2018"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(error = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+```{r imports, include=FALSE, results='hide'}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(here)
+
+## Helpers
+import_results_data <- function(filename) {
+    df <- readr::read_delim(filename, delim = ";", 
+                            escape_double =  FALSE, 
+                            trim_ws = TRUE, col_types = cols())
+    names(df) <- tolower(names(df))
+    names(df) <- gsub(" |#|%|", "", names(df))
+    names(df) <- gsub(",|-|\\.", "_", names(df))
+    
+    return(df)
+}
+```
+
+```{r state factor, results='hide'}
+state_cat <- tibble(
+    abbrev = c(state.abb, "DC"), 
+    name = c(state.name, "D.C.")
+    ) %>% 
+    arrange(name) %>% 
+    add_row(
+        abbrev = "US", 
+        name = "Total")
+```
+
+```{r import le data, results='hide'}
+le_df <- readRDS(here("data", "ex_diff_all_ages_all_areas.RDS"))
+
+## Subset to just total population, 2016, LE lost after age 15
+sub_le <- le_df %>% 
+    filter(age == 15, 
+           year == 2016, 
+           race == "total")
+
+sub_le <- sub_le %>% 
+    mutate(opioid_type = 
+               case_when(
+        opioid_type == "opioids" ~ "opioid", 
+        opioid_type == "natural" ~ "natural_opioid", 
+        opioid_type == "synth" ~ "synth_opioid", 
+        TRUE ~ opioid_type
+        )
+    )
+
+sub_le_opioids <- sub_le %>% 
+    filter(opioid_type %in% c("opioid", "natural_opioid", 
+                              "heroin", "synth_opioid")
+           ) %>% 
+    select(-age, -age_cat, -st_fips, -year, -race) %>% 
+    rename(opioid_le = ex_diff)
+
+sub_le_firecar <- sub_le %>% 
+    filter(opioid_type %in% c("firearms", "car_accident")) %>% 
+    select(-age, -age_cat, -st_fips, -year, -race) %>% 
+    spread(opioid_type, ex_diff)
+```
+
+```{r import APC data, results='hide'}
+apc_df <- import_results_data(
+    here("joinpoint_analyses", "jp_output", "opioids_by_type.apc.txt")
+    ) 
+
+## Better factor names
+apc_df <- apc_df %>% 
+    mutate(opioid_cat = factor(opioid_type, 
+                               levels = 
+                                   c("opioid", "natural_opioid", 
+                                     "heroin", "synth_opioid"), 
+                               labels = c("All opioids", "Natural", 
+                                          "Heroin", "Synthetic"), 
+                               ordered = TRUE), 
+           name_cat = factor(abbrev, 
+                             levels = state_cat$abbrev, 
+                             labels = state_cat$name, 
+                             ordered = TRUE))
+
+## Subset
+sub_df <-apc_df %>% 
+    filter(opioid_type %in% 
+               c("opioid", "heroin", "natural_opioid", "synth_opioid"), 
+           race == "total", 
+           segmentend == 2016) %>% 
+    select(opioid_cat, opioid_type, name_cat, abbrev, 
+           apc, apc95lcl, apc95ucl, p_value) %>% 
+    arrange(name_cat)
+
+## Add in observed rates
+sub_df <- sub_df %>% 
+    left_join(
+        import_results_data(here("joinpoint_analyses", 
+                                 "jp_output", 
+                                 "opioids_by_type.data.txt")) %>% 
+    filter(year == 2016, 
+           race == "total") %>% 
+    select(opioid_type, abbrev, 
+           obs_rate = rate, obs_se = standarderror)
+    ) 
+
+## Add in LE lost
+sub_df <- sub_df %>% 
+    left_join(sub_le_opioids) %>% 
+    left_join(sub_le_firecar)
+
+## Printable APC with CI
+sub_df <- sub_df %>% 
+    mutate(
+        apc_ci = sprintf("(%0.1f, %0.1f)", apc95lcl, apc95ucl), 
+        apc_p = sprintf("%0.1f", round(apc, 1)), 
+        pval = case_when(
+            p_value < .001 ~ "<.001", 
+            TRUE ~ sprintf("%.2f", round(p_value, 2))
+        )
+    ) %>% 
+    mutate(apc_with_ci = paste(apc_p, apc_ci))
+
+## Printable rate with CI
+sub_df <- sub_df %>% 
+    mutate(
+        rate_with_ci = 
+            sprintf("%0.1f (%0.1f, %0.1f)", 
+                    round(obs_rate, 1), 
+                    round(exp(log(obs_rate - 1.96 * obs_se)), 1), 
+                    round(exp(log(obs_rate + 1.96 * obs_se)), 1)
+        )
+    )
+
+## Printable LE lost
+sub_df <- sub_df %>% 
+    mutate(
+        le_lost = sprintf("%0.3f", round(opioid_le, 3))
+    )
+```
+
+```{r print table, results='hide'}
+print_table <- sub_df %>% 
+        filter(opioid_type == "opioid") %>% 
+        select(abbrev, name_cat, 
+               opioid_rate = rate_with_ci, 
+               opioid_le   = le_lost, 
+               opioid_apc  = apc_with_ci, 
+               opioid_pval = pval) %>% 
+    left_join(
+        sub_df %>% 
+            filter(opioid_type == "natural_opioid") %>% 
+        select(abbrev, 
+               natural_rate = rate_with_ci, 
+               natural_le   = le_lost, 
+               natural_apc  = apc_with_ci, 
+               natural_pval = pval) 
+        ) %>% 
+    left_join(
+        sub_df %>% 
+            filter(opioid_type == "heroin") %>% 
+        select(abbrev, 
+               heroin_rate = rate_with_ci, 
+               heroin_le   = le_lost, 
+               heroin_apc  = apc_with_ci, 
+               heroin_pval = pval) 
+    ) %>% 
+    left_join(
+        sub_df %>% 
+            filter(opioid_type == "synth_opioid") %>% 
+        select(abbrev, 
+               synth_rate = rate_with_ci, 
+               synth_le   = le_lost, 
+               synth_apc  = apc_with_ci, 
+               synth_pval = pval) 
+    ) 
+```
+
+
+```{r table a, results='asis'}
+print_table %>% 
+    arrange(name_cat) %>% 
+    select(name_cat, 
+           opioid_rate, opioid_le, opioid_apc, opioid_pval, 
+           natural_rate, natural_le, natural_apc, natural_pval) %>% 
+    kable(
+        row.names = FALSE, longtable = TRUE, 
+        col.names = c("State", 
+                      rep(c("Rate (95% CI)", "LEL15", 
+                            "APC (95% CI)", "P value"), 
+                          2)), 
+        booktabs = TRUE
+    ) %>% 
+    add_header_above(c("    ", "All opioids" = 4, 
+                       "Natural/semi-synthetic" = 4)) %>% 
+    kable_styling(latex_options = c("repeat_header")) %>% 
+    landscape()
+```
+
+```{r table b, results='asis'}
+print_table %>% 
+    arrange(name_cat) %>% 
+    select(name_cat, 
+           heroin_rate, heroin_le, heroin_apc, heroin_pval, 
+           synth_rate, synth_le, synth_apc, synth_pval) %>% 
+    kable(
+        row.names = FALSE, longtable = TRUE, 
+        col.names = c("State", 
+                      rep(c("Rate (95% CI)", "LEL15", 
+                            "APC (95% CI)", "P value"), 
+                          2)), 
+        booktabs = TRUE
+    ) %>% 
+    add_header_above(c("    ", "Heroin" = 4, 
+                       "Synthetic" = 4)) %>% 
+    kable_styling(latex_options = c("repeat_header")) %>% 
+    landscape()
+```

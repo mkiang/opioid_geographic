@@ -1,0 +1,195 @@
+---
+title: 'Table S1. Average Annual Percent Change, By State: 1999 - 2016'
+author: "Mathew Kiang"
+date: "11/7/2018"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(error = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+```{r imports, include=FALSE, results='hide'}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(here)
+
+## Helpers
+import_results_data <- function(filename) {
+    df <- readr::read_delim(filename, delim = ";", 
+                            escape_double =  FALSE, 
+                            trim_ws = TRUE, col_types = cols())
+    names(df) <- tolower(names(df))
+    names(df) <- gsub(" |#|%|", "", names(df))
+    names(df) <- gsub(",|-|\\.", "_", names(df))
+    
+    return(df)
+}
+```
+
+```{r state factor, results='hide'}
+state_cat <- tibble(
+    abbrev = c(state.abb, "DC"), 
+    name = c(state.name, "D.C.")
+    ) %>% 
+    arrange(name) %>% 
+    add_row(
+        abbrev = "US", 
+        name = "Total")
+```
+
+```{r import deaths data, results='hide'}
+## Total number of deaths
+deaths_df <- readRDS(here("data_private", "state_working_data.RDS"))
+
+## Add rows for national rate (by year/age/race) ----
+deaths_df <- bind_rows(
+    deaths_df %>% 
+        select(year, abbrev, age, race, age_cat, pop, 
+               deaths, opioid_death, heroin_present, 
+               other_natural_present, other_synth_present), 
+    deaths_df %>% 
+        group_by(year, age, race, age_cat) %>% 
+        summarize_at(
+            vars(pop, deaths, opioid_death, heroin_present, 
+                 other_natural_present, other_synth_present), 
+            sum, 
+            na.rm = TRUE) %>% 
+        mutate(st_fips = "99", abbrev = "US", division = "Entire US", 
+               st_lat = 0, st_lon = 0, name = "USA")
+    ) %>% 
+    ungroup() 
+
+deaths_df <- deaths_df %>% 
+    mutate(
+        name_cat = factor(abbrev, 
+                          levels = state_cat$abbrev, 
+                          labels = state_cat$name, 
+                          ordered = TRUE)
+    )
+
+deaths_sum <- deaths_df %>% 
+    group_by(race, abbrev, name_cat) %>% 
+    summarize_at(vars(opioid_death, heroin_present, 
+                      other_natural_present, other_synth_present), 
+                 sum, na.rm = TRUE) %>% 
+    ungroup() %>% 
+    filter(race == "total") %>% 
+    select(-race) %>% 
+    rename(heroin_death = heroin_present, 
+           natural_death = other_natural_present, 
+           synth_death = other_synth_present)
+```
+
+
+```{r import AAPC data, results='hide'}
+## Import AAPC data
+aapc_df <- import_results_data(
+    here("joinpoint_analyses", "jp_output", "opioids_by_type.aapc.txt")
+)
+
+aapc_df <- aapc_df %>% 
+    mutate(race_cat = factor(race, 
+                             levels = c("total", "nhw", "nhb"), 
+                             labels = c("Total", "Non-Hispanic White", 
+                                        "Non-Hispanic Black"), 
+                             ordered = TRUE), 
+           opioid_cat = factor(opioid_type, 
+                               levels = 
+                                   c("opioid", "natural_opioid", 
+                                     "heroin", "synth_opioid"), 
+                               labels = c("All opioids", "Natural", 
+                                          "Heroin", "Synthetic"), 
+                               ordered = TRUE))
+
+aapc_sum <- aapc_df %>% 
+    filter(opioid_type %in% 
+               c("opioid", "heroin", "natural_opioid", "synth_opioid"), 
+           race == "total") %>% 
+    select(abbrev, opioid_type, aapc, 
+           aapcc_i_low, aapcc_i_high, p_value) %>% 
+    arrange(opioid_type, abbrev)
+
+aapc_sum <- aapc_sum %>% 
+    mutate(
+        aapc_ci = sprintf("(%0.1f, %0.1f)", aapcc_i_low, aapcc_i_high), 
+        aapc_p = sprintf("%0.1f", round(aapc, 1)), 
+        pval = case_when(
+            p_value <= .001 ~ "<.001", 
+            p_value < .01 ~ "<.01", 
+            p_value < .05 ~ "<.05", 
+            TRUE ~ sprintf("%.2f", round(p_value, 2))
+        )
+    ) %>% 
+    mutate(aapc_with_ci = paste(aapc_p, aapc_ci))
+
+print_table <- deaths_sum %>% left_join(
+    aapc_sum %>% 
+        filter(opioid_type == "opioid") %>% 
+        select(abbrev, 
+               opioid_aapc = aapc_p, 
+               opioid_aapc_ci = aapc_ci, 
+               opioid_aapc_with_ci = aapc_with_ci, 
+               opioid_pval = pval) 
+    ) %>% 
+    left_join(
+        aapc_sum %>% 
+            filter(opioid_type == "natural_opioid") %>% 
+            select(abbrev, 
+                   natural_aapc = aapc_p, 
+                   natural_aapc_ci = aapc_ci,  
+                   natural_aapc_with_ci = aapc_with_ci, 
+                   natural_pval = pval) 
+    ) %>% 
+    left_join(
+        aapc_sum %>% 
+            filter(opioid_type == "heroin") %>% 
+            select(abbrev, 
+                   heroin_aapc = aapc_p, 
+                   heroin_aapc_ci = aapc_ci,  
+                   heroin_aapc_with_ci = aapc_with_ci, 
+                   heroin_pval = pval)
+    ) %>% 
+    left_join(
+        aapc_sum %>% 
+            filter(opioid_type == "synth_opioid") %>% 
+            select(abbrev, 
+                   synth_aapc = aapc_p, 
+                   synth_aapc_ci = aapc_ci,  
+                   synth_aapc_with_ci = aapc_with_ci, 
+                   synth_pval = pval)
+    ) 
+```
+
+
+```{r table a, results='asis'}
+print_table %>% 
+    arrange(name_cat) %>% 
+    select(name_cat, 
+           opioid_aapc_with_ci, opioid_pval, 
+           natural_aapc_with_ci, natural_pval, 
+           heroin_aapc_with_ci, heroin_pval,
+           synth_aapc_with_ci, synth_pval) %>% 
+    kable(
+        row.names = FALSE, 
+        col.names = c("State", 
+                      rep(c("AAPC (95% CI)", "P value"), 
+                          4)), 
+        booktabs = TRUE, 
+        caption = paste(
+            "Average annual percent change, by opioid", 
+            "type and state, from 1999 to 2016.", 
+            "The average annual percent change is the weighted", 
+            "average of the annual percent change with the weights equal", 
+            "to the number of years in each segment."
+        )
+    ) %>% 
+    add_header_above(c("", "All opioids" = 2, 
+                       "Natural/semi-synthetic" = 2, 
+                       "Heroin" = 2, "Synthetic" = 2))
+```
