@@ -46,12 +46,12 @@ All analyses are conducted using `R` (version 3.5.0) and the National Cancer Ins
 - In addition, we highly recommend the use of [RStudio](https://www.rstudio.com/products/rstudio/download/) when running `R`.
 
 ## `R` Packages
-We use the [`packrat`](https://rstudio.github.io/packrat/) package for package management. Once you have cloned this repository, open `opioid_geographic.Rproj` in RStudio and the correct packages (and their correct versions) should be installed automatically. If they are not, details of the packages and correct versions are in the `session_info.txt` file.
+We use the [`packrat`](https://rstudio.github.io/packrat/) package for package management. Once you have cloned this repository, open `opioid_geographic.Rproj` in RStudio and the correct packages (and their correct versions) should be installed automatically. If they are not, details of the packages and correct versions are in the `./session_info.txt` file.
 
 # Analysis pipeline
 Different options for the pipeline can be defined in the `config.yml` file, which we described in detail below.
 
-The pipeline is broken into three parts. In part 1, we estimate the age-standardized mortality rates and life expectancy lost in `R`. In part 2, the Joinpoint Regression Program (Windows-only) is used to fit joinpoint models to our mortality rates. Finally, in part 3, the joinpoint results are cleaned and analyzed and (again in `R`).
+The pipeline is broken into three parts. In part 1, we estimate the age-standardized mortality rates and life expectancy lost in `R`. In part 2, the Joinpoint Regression Program (Windows-only) is used to fit joinpoint models to our mortality rates. Finally, in part 3, the joinpoint results are cleaned and analyzed and plotted (again in `R`).
 
 ## Configuation file
 
@@ -169,7 +169,7 @@ Each part has discrete steps and is described in detail below.
 
 # Session Information
 
-Both `devtools::session_info()` and `sessionInfo()` output can be found in the `./session_info.txt` file.
+Both `sessioninfo::session_info()` and `sessionInfo()` output can be found in the `./session_info.txt` file.
 
 ```{r echo=TRUE, message=FALSE, warning=FALSE, eval=FALSE}
 sink("./session_info.txt", append = FALSE, split = FALSE)
