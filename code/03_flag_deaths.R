@@ -9,9 +9,6 @@
 library(tidyverse)
 library(narcan)     ## devtools::install_github("mkiang/narcan")
 
-## DELETE THIS ----
-Sys.setenv(R_CONFIG_ACTIVE = "dev")
-
 ## Pull in YAML config ----
 cfig <- config::get()
 

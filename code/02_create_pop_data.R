@@ -1,17 +1,15 @@
 ## 02_create_pop_data.R ----
+## 
 ## Tasks in this file:
 ##      (1) If population files do not exist yet, download them.
 ##      (2) Reshape and convert to 5-year age groups then save.
 ##
 ##  The end result is a dataframe with population counts for every race and
 ##  Hispanic origin for every county for every year 1999-2016 saved as:
-##  './data/county_pop_estimates.RDS'
+##  './data/pop_est_collapsed_long.RDS'
 
 ## Imports ----
 library(tidyverse)
-
-## DELETE THIS ----
-Sys.setenv(R_CONFIG_ACTIVE = "dev")
 
 ## Config ----
 data_folder <- config::get()$working_data

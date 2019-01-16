@@ -1,4 +1,5 @@
 ## 01_process_raw_data.R ----
+## 
 ## Just takes in the restricted MCOD files, subsets to the columns we want,
 ## cleans them up using the `narcan` package, and saves the intermediate file
 ## as working data.
@@ -8,9 +9,6 @@
 ## Imports ----
 library(tidyverse)
 library(narcan)     ## devtools::install_github("mkiang/narcan")
-
-## DELETE THIS ----
-Sys.setenv(R_CONFIG_ACTIVE = "dev")
 
 ## Define file locations ----
 ## We need a dictionary of {year:file location} pairs. Preface years with "y"

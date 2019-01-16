@@ -1,4 +1,5 @@
 ## 05_calculate_lel.R ----
+## 
 ## Use the working dataframe to estimate life expectancy lost for all age 
 ## groups above 15 by state, year, and opioid type.
 

@@ -1,3 +1,8 @@
+## 09_fig1_current_hospots.R ----
+## 
+## Make figure 1 using the shiny helper functions. See the helper functions
+## used for details. 
+
 ## Imports ----
 library(tidyverse)
 library(statebins)

@@ -1,4 +1,5 @@
 ## 04_create_working_df.R ----
+## 
 ## This creates a super dataframe with state/age/year deaths combined
 ## with state population, standard population, division, state centroid, etc.
 ##
@@ -10,9 +11,6 @@ library(tidyverse)
 library(narcan)     ## devtools::install_github("mkiang/narcan")
 library(here)
 source(here("code", "99_helpers.R"))  ## State information
-
-## DELETE THIS ----
-Sys.setenv(R_CONFIG_ACTIVE = "dev")
 
 ## Define parameters ----
 cfig <- config::get()

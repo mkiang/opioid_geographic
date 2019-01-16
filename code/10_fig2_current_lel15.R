@@ -1,3 +1,8 @@
+## 10_fig2_current_lel15.R ----
+## 
+## Make figure 2 using the shiny helper functions. See the helper functions
+## used for details. 
+
 ## Imports ----
 library(tidyverse)
 library(viridis)

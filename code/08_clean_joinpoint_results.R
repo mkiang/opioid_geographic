@@ -1,3 +1,10 @@
+## 08_clean_joinpoint_results.R ----
+## 
+## Once the joinpoint results are exported as text files, we import them all
+## and clean them up into a tidy-ish dataframe. For plotting purposes, some
+## datapoints are duplicated so confirm you remove duplicates before doing
+## other analyses. 
+
 ## Imports ----
 library(tidyverse)
 library(here)

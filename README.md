@@ -84,7 +84,7 @@ package management. Once you have cloned this repository, open
 `opioid_geographic.Rproj` in RStudio and the correct packages (and their
 correct versions) should be installed automatically. If they are not,
 details of the packages and correct versions are in the
-`session_info.txt` file.
+`./session_info.txt` file.
 
 # Analysis pipeline
 
@@ -95,7 +95,7 @@ The pipeline is broken into three parts. In part 1, we estimate the
 age-standardized mortality rates and life expectancy lost in `R`. In
 part 2, the Joinpoint Regression Program (Windows-only) is used to fit
 joinpoint models to our mortality rates. Finally, in part 3, the
-joinpoint results are cleaned and analyzed and (again in `R`).
+joinpoint results are cleaned and analyzed and plotted (again in `R`).
 
 ## Configuation file
 
@@ -141,24 +141,7 @@ that they came in. The folder should look like this:
 print(list.files("./data_restricted", full.names = TRUE))
 ```
 
-    ##  [1] "./data_restricted/MORT00US.PT2.dat"      
-    ##  [2] "./data_restricted/Mort01us.dat"          
-    ##  [3] "./data_restricted/Mort02us.dat"          
-    ##  [4] "./data_restricted/Mort04us.dat"          
-    ##  [5] "./data_restricted/mort05usp2.dat"        
-    ##  [6] "./data_restricted/Mort99p2.dat"          
-    ##  [7] "./data_restricted/Mult03us.dat"          
-    ##  [8] "./data_restricted/MULT2006.USPART2.dat"  
-    ##  [9] "./data_restricted/MULT2007.USPART2.dat"  
-    ## [10] "./data_restricted/MULT2008.USPART2.dat"  
-    ## [11] "./data_restricted/MULT2009.USPART2.dat"  
-    ## [12] "./data_restricted/MULT2010.USPART2.dat"  
-    ## [13] "./data_restricted/MULT2011.USPART2.dat"  
-    ## [14] "./data_restricted/MULT2012.USPART2.dat"  
-    ## [15] "./data_restricted/MULT2013.USPART2.dat"  
-    ## [16] "./data_restricted/MULT2014.USPART2.dat"  
-    ## [17] "./data_restricted/MULT2015.USPART2.dat"  
-    ## [18] "./data_restricted/MULT2016.USAllCnty.txt"
+    ## character(0)
 
 The second way is to simply modify the paths of the file dictionary in
 `./code/01_process_raw_data.R` (lines 19-38). Each line of the
@@ -308,8 +291,8 @@ Each part has discrete steps and is described in detail below.
 
 # Session Information
 
-Both `devtools::session_info()` and `sessionInfo()` output can be found
-in the `./session_info.txt` file.
+Both `sessioninfo::session_info()` and `sessionInfo()` output can be
+found in the `./session_info.txt` file.
 
 ``` r
 sink("./session_info.txt", append = FALSE, split = FALSE)
