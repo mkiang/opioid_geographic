@@ -15,14 +15,30 @@ apc_mid_bin <- cfig$apc_cuts
 sigpvalue <- cfig$sig_p_value
 
 ## Load functions ----
-source(here("results_viewer", "shiny_helpers", "gen_hotspots_legend.R"))
-source(here("results_viewer", "shiny_helpers", "gen_hotspots_statebins.R"))
-source(here("results_viewer", "shiny_helpers", "gen_hotspots_text.R"))
-source(here("results_viewer", "shiny_helpers", "gen_color_legend.R"))
+source(here(
+    "online_results_viewer",
+    "shiny_helpers",
+    "gen_hotspots_legend.R"
+))
+source(here(
+    "online_results_viewer",
+    "shiny_helpers",
+    "gen_hotspots_statebins.R"
+))
+source(here(
+    "online_results_viewer",
+    "shiny_helpers",
+    "gen_hotspots_text.R"
+))
+source(here(
+    "online_results_viewer",
+    "shiny_helpers",
+    "gen_color_legend.R"
+))
 source(here("code", "mk_nytimes.R"))
 
 ## Load data ----
-## For the paper, we used the private version of this file. I commented 
+## For the paper, we used the private version of this file. I commented
 ## it out here because for many years, the identical plot can be generated
 ## with the public file.
 jp_results <-
@@ -32,11 +48,11 @@ jp_results <-
 
 ## Plots ----
 p1 <- gen_hotspots_statebins(jp_results, "pval",
-                       sigpvalue,
-                       mort_mid_bin,
-                       apc_mid_bin,
-                       2016)
-p_legend <- gen_hotspots_legend(mort_mid_bin, apc_mid_bin) + 
+                             sigpvalue,
+                             mort_mid_bin,
+                             apc_mid_bin,
+                             2016)
+p_legend <- gen_hotspots_legend(mort_mid_bin, apc_mid_bin) +
     labs(subtitle = NULL)
 
 ## Save plots ----
