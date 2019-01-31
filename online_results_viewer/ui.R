@@ -153,7 +153,7 @@ shinyUI(navbarPage(
           min = 2.5,
           max = 30,
           step = 2.5,
-          value = c(10, 20)
+          value = c(5, 10)
         ),
         ## APC bins
         sliderInput(
