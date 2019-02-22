@@ -11,8 +11,9 @@
 Code for our *JAMA Network Open* paper [“Assessment of Changes in the
 Geographical Distribution of Opioid-Related Mortality Across the United
 States by Opioid Type,
-1999-2016”](https://doi.org/10.1001/jamanetworkopen.2019.0040), which
-uses [restricted-access multiple cause of death
+1999-2016”](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2725487)
+\[[PDF](https://github.com/mkiang/opioid_geographic/blob/master/misc/kiang_basu_chen_alexander-jama_network_open-opioid_geographic.pdf)\],
+which uses [restricted-access multiple cause of death
 data](https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm) to
 examine geographic changes in opioid mortality across space and over
 time. The full citation is:
@@ -21,7 +22,7 @@ time. The full citation is:
 > Geographical Distribution of Opioid-Related Mortality Across the
 > United States by Opioid Type, 1999-2016. JAMA Network Open.
 > 2019;2(2):e190040. doi:
-> [10.1001/jamanetworkopen.2019.0040](https://doi.org/10.1001/jamanetworkopen.2019.0040)
+> [10.1001/jamanetworkopen.2019.0040](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2725487)
 
 ## Interactive results explorer
 
@@ -135,13 +136,7 @@ a few hours.
 There are two ways of specifying the file locations in order to fully
 reproduce our analysis. First, you can place them in a subfolder of this
 directory named `data_restricted` in the original format and file name
-that they came in. The folder should look like this:
-
-``` r
-print(list.files("./data_restricted", full.names = TRUE))
-```
-
-    ## character(0)
+that they came in.
 
 The second way is to simply modify the paths of the file dictionary in
 `./code/01_process_raw_data.R` (lines 19-38). Each line of the
