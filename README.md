@@ -54,6 +54,18 @@ accordance with the NCHS data use agreement. We provide the suppressed
 data as examples, but note that the numbers will not be identical unless
 you are using the private data.
 
+# Elaboration of limitations and assumptions
+
+We thank [Dr. Brian
+Piper](https://www.geisinger.edu/research/research-and-innovation/find-an-investigator/2018/04/04/13/27/brian-piper)
+for his careful critique and elaboration of our limitations,
+specifically in regards to the spatial and temporal assumptions made in
+the paper. His comments are available on the JAMA Network Open page as
+well as the [PubPeer review
+here](https://pubpeer.com/publications/09A1E3EC00D9642A297C51E6EDAEBE).
+We encourage interested readers and other researchers who use the NCHS
+data to read his full critique and the references.
+
 # Requirements
 
 ## Restricted-access multiple cause of death micro-data

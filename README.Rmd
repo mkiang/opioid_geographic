@@ -32,6 +32,9 @@ Please submit issues [via Github](https://github.com/mkiang/opioid_geographic/is
 ## Important note about reproducibility 
 Due to limitations on sharing the restricted-access data, this pipeline is not fully reproducible. When possible, we provide raw data as well as model results. In the cases where observations have fewer than 10 deaths, we suppress the rate as well as the model MSE and SSE, in accordance with the NCHS data use agreement. We provide the suppressed data as examples, but note that the numbers will not be identical unless you are using the private data.
 
+# Elaboration of limitations and assumptions
+We thank [Dr. Brian Piper](https://www.geisinger.edu/research/research-and-innovation/find-an-investigator/2018/04/04/13/27/brian-piper) for his careful critique and elaboration of our limitations, specifically in regards to the spatial and temporal assumptions made in the paper. His comments are available on the JAMA Network Open page as well as the [PubPeer review here](https://pubpeer.com/publications/09A1E3EC00D9642A297C51E6EDAEBE). We encourage interested readers and other researchers who use the NCHS data to read his full critique and the references.
+
 # Requirements
 ## Restricted-access multiple cause of death micro-data
 
